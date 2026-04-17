@@ -1,0 +1,93 @@
+\documentclass[12pt, oneside]{report} % Use the report class with 12pt font 
+\usepackage[utf8]{inputenc} % Character encoding
+\usepackage{hyperref} % For hyperlinks
+\usepackage{geometry} % For margin settings
+\usepackage{textcomp}  % Include this package to use \textcopyright
+\usepackage{graphicx} % For handling images
+\usepackage{cite} % For citations
+\usepackage{xcolor} 
+\usepackage{amsmath,amssymb,amsfonts} % For math fonts, symbols and environments
+\usepackage{algorithmic} % For algorithms
+\usepackage{fancyhdr} % For fancy headers
+\usepackage{nomencl} % For the nomenclature
+\usepackage{appendix} % For appendices
+\usepackage{tocloft} % For table of contents customization
+\usepackage{tabularx}
+\usepackage[table]{xcolor} % for colors
+\usepackage{longtable}
+\usepackage{tabularx} % for X column type
+\usepackage{tabularray}
+% \UseTblrLibrary{booktabs,longtable}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{geometry}
+\usepackage{svg}
+\geometry{margin=1in}
+\hypersetup{ % Setup hyperlinks
+    colorlinks=true,
+    citecolor=black,
+    linkcolor=black,
+    urlcolor=black,
+    pdftitle={PhD Thesis},
+    pdfauthor={Author Name}
+}
+
+\makenomenclature
+\renewcommand{\nomname}{List of Abbreviations}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\thepage}
+\fancyhead[RE]{\nouppercase{\leftmark}}
+\fancyhead[LO]{\nouppercase{\rightmark}}
+
+\renewcommand{\bibname}{References}  % For book, report, and thesis classes
+
+\usepackage{titlesec}
+\usepackage{booktabs}
+\usepackage{rotating}  % Enables sidewaystable environment
+
+% For subfigures
+\usepackage{caption}
+\usepackage{subcaption}
+
+\begin{document}
+
+\pagenumbering{roman} % Use roman numerals for front matter
+% Title Page
+\input{titlepage.tex}
+\input{declaration.tex}
+\input{approval}
+\input{dedication.tex}
+\input{acknowledgements.tex}
+\input{abstract}
+
+
+\newpage
+% Table of Contents
+\tableofcontents
+\listoffigures
+\listoftables
+\newpage
+
+% Main Content
+\pagenumbering{arabic} % Use arabic numerals for main content
+
+% Include chapters
+\input{chapters/introduction.tex}
+\input{chapters/literature_review.tex}
+\input{chapters/methodology.tex}
+\input{chapters/System Analysis and Design}
+% References
+\addcontentsline{toc}{chapter}{References}  
+\bibliographystyle{IEEEtran}
+\bibliography{references}
+
+% Appendices
+\let\cleardoublepage\clearpage % Prevent new page for appendices
+\begin{appendix}
+    \input{appendices/appendixA.tex}
+    \input{appendices/appendixB.tex}
+\end{appendix}
+
+\end{document}

@@ -1,0 +1,287 @@
+\chapter{System Analysis and Design}
+\label{chap:system_analysis_design}
+
+This chapter describes the system study, analysis and design of the system. It highlights the identified requirements and the architectural design of the system.
+
+\section{System Study}
+
+The study was carried out on Hills Link Express, a private shuttle service operating seven- and fourteen-seater vans along the Kampala--Kabale route. The primary objective was to understand how the private shuttle transport system currently operates and to identify the specific inefficiencies that a digital solution could address.
+
+Findings revealed that the system in use is largely manual and heavily dependent on informal processes. To book a ride, prospective passengers are required to contact the shuttle operator via phone calls. As a result, the business owner relies on multiple phones to handle and manage booking requests simultaneously. Booking confirmation is also conducted manually; payments are typically made in cash, and in cases where customers use digital platforms such as MTN MoMo Pay, the operator takes a photo of the transaction receipt and sends it to the customer as proof of payment. This approach is inefficient, unstructured, and difficult to manage, particularly as demand increases.
+
+Further analysis of the system revealed several key operational challenges, which are discussed below.
+
+\begin{itemize}
+
+    \item \textbf{Lack of a structured booking process:} The booking process lacks structure and accountability. Customers are able to reserve seats but may fail to show up without prior cancellation or communication. This results in revenue loss and underutilised seats. Additionally, the reliance on phone-based communication places a significant burden on the operator, who must continuously respond to booking enquiries, location updates, and delivery status requests. This form of communication is not scalable and becomes increasingly difficult to manage as the customer base grows.
+
+    \item \textbf{Unreliable seat allocation and poor seat utilisation:} The current system does not provide a transparent or reliable mechanism for seat allocation. Although passengers may request specific seats, such as front seats, these requests are not guaranteed, as operators may reassign seats based on personal preferences or customer relationships. This creates a lack of trust and transparency in the booking process. In addition, seat utilisation is inefficient. Passengers may disembark at intermediate locations such as Mbarara, leaving empty seats that are not reassigned for the remainder of the journey. The absence of a system to dynamically match available seats with passengers along the route leads to missed revenue opportunities and reduced operational efficiency.
+
+    \item \textbf{Limited service visibility and discoverability:} The service relies primarily on word-of-mouth referrals and radio advertisements, making it difficult for new customers to discover and access the service. This limits the business's reach and growth potential. Additionally, there is no centralised platform where customers can view available routes, schedules, or pricing information. Accessibility is further affected by varying levels of digital literacy among users. While some customers may prefer digital solutions, others rely on phone calls, highlighting the need for a system that accommodates both interaction methods.
+
+    \item \textbf{Absence of parcel tracking:} The shuttle service also handles parcel delivery; however, there is no system for tracking shipments in real time. Customers frequently contact the operator to enquire about the status and location of their goods, increasing the communication burden. In addition, there is no structured approach to managing the balance between passenger transport and cargo. Vehicles may carry either passengers or goods depending on demand, but without a system to optimise this allocation, potential efficiency gains are lost.
+
+    \item \textbf{Limited operational visibility for the business owner:} The current system provides limited visibility for the business owner. It is difficult to track vehicle movement, monitor driver activity, verify reported revenue, or determine seat occupancy in real time. This lack of operational insight reduces the owner's ability to make informed decisions and effectively manage the business. Return trips present an additional challenge, as demand is often low. Without visibility into passenger demand, drivers may remain at the destination rather than returning, leading to inefficiencies in service utilisation.
+
+    \item \textbf{Lack of passenger accountability and safety records:} The system lacks structured mechanisms for tracking passengers and ensuring accountability. There is no reliable record of who was on a vehicle, where passengers boarded or disembarked, or emergency contact information. This creates potential safety risks and limits the ability to respond effectively in case of incidents.
+
+\end{itemize}
+
+\section{System Analysis}
+
+\subsection{Data Analysis and Interpretation of Results}
+
+The findings from the system study reveal that the current private shuttle transport system is largely informal, unstructured, and inefficient in handling core operational processes. The heavy reliance on manual and phone-based interactions limits the scalability of the service and increases the likelihood of errors, miscommunication, and operational delays.
+
+A key issue identified is the lack of a structured booking system, which results in unreliable seat reservations and frequent no-shows. This directly affects revenue generation and reduces overall efficiency. In addition, the absence of real-time seat management prevents the system from reallocating seats when passengers disembark mid-journey, leading to underutilisation of available capacity.
+
+Communication within the system is also inefficient, as the operator is required to handle all customer interactions manually. This creates bottlenecks and limits the ability of the business to expand. Similarly, the lack of service visibility restricts customer access, as potential users have no easy way to discover routes, schedules, or availability.
+
+From a logistics perspective, the absence of a tracking system for both passengers and parcels results in constant enquiries and increased workload for the operator. Furthermore, the inability to balance passenger and cargo transport reduces operational optimisation opportunities.
+
+The analysis also highlights limited operational control and visibility for the business owner. Without real-time monitoring of vehicles, revenue, and occupancy, it is difficult to make informed decisions or verify driver activity. Safety concerns are also evident due to the lack of structured passenger records and traceability mechanisms.
+
+Overall, the current system demonstrates significant gaps in coordination, transparency, and efficiency. These findings justify the need for a digital solution that can automate booking, improve communication, enable real-time tracking, and provide better operational control.
+
+\subsection{User Requirements}
+
+The following are the requirements the users expect Traxis to meet:
+
+\begin{enumerate}
+    \item Users need a simple way to book shuttle seats without making phone calls.
+    \item Passengers need the ability to select specific seats.
+    \item Users require confirmation after making a booking or payment.
+    \item Passengers need to know shuttle location and arrival times.
+    \item Customers need a way to track parcels during delivery.
+    \item Operators need a way to monitor vehicle movement and seat occupancy.
+    \item The system should reduce excessive phone communication.
+    \item The system should be easy to use for individuals with low digital literacy.
+\end{enumerate}
+
+\subsection{Functional Requirements}
+
+The system was required to provide the following core functionalities:
+
+\begin{enumerate}
+    \item Allow passengers to create accounts using phone numbers.
+    \item Enable users to search for available shuttle routes and schedules.
+    \item Allow passengers to book specific seats on a shuttle.
+    \item Provide real-time updates on seat availability.
+    \item Enable passengers to make payments and receive automated confirmation.
+    \item Allow users to cancel bookings based on defined conditions.
+    \item Provide real-time tracking of shuttle location.
+    \item Enable passengers to receive notifications on trip status and updates.
+    \item Allow operators to manage bookings and update seat availability.
+    \item Enable operators to monitor vehicle movement in real time.
+    \item Provide a dashboard for viewing revenue, trips, and occupancy levels.
+    \item Allow operators to update passenger and trip records.
+    \item Support courier service functionality, including:
+        \begin{itemize}
+            \item Recording parcel details
+            \item Tracking delivery status
+            \item Notifying users upon delivery
+        \end{itemize}
+    \item Provide a hybrid communication system that supports both in-app interaction and phone-based contact.
+\end{enumerate}
+
+\subsection{Non-Functional Requirements}
+
+The system was designed to be user-friendly and accessible to individuals with varying levels of digital literacy. It should:
+
+\begin{enumerate}
+    \item Allow users to access system features immediately after successful authentication.
+    \item Provide a simple and intuitive interface for easy navigation between different sections of the application.
+    \item Minimise user input errors through validation mechanisms.
+    \item Allow users to easily correct input errors before submission.
+    \item Provide clear feedback and notifications upon successful completion of key actions such as registration, booking, and payment.
+    \item Assure fluid UI animations (e.g. consistent 400ms page transitions) to maintain a premium end-user experience.
+    \item Efficiently handle peak traffic times, such as holiday seasons, without failing to process transactions or generate digital tickets.
+    \item Transmit personal user data, location details, and payment information securely using modern encryption standards.
+\end{enumerate}
+
+\subsection{System Requirements}
+
+\begin{itemize}
+    \item \textbf{Platform Compatibility:} The application must be compatible with Android 8.0 (API level 26) and above, as well as iOS 12.0 and above.
+    \item \textbf{Network Connectivity:} An active internet connection (3G/4G/5G or Wi-Fi) is required for real-time synchronisation of location data, bookings, and notifications.
+    \item \textbf{Hardware:} A standard mobile device equipped with location service capabilities (GPS) and a minimum of 2\,GB RAM.
+\end{itemize}
+
+\section{System Design}
+
+This section includes a detailed description of the system's architecture, components, modules, interfaces, and data structures designed to satisfy the specified requirements. It describes the design and development process of the application using a use case diagram to explain how actors interact with the system and data flow diagrams to show how data moves in and out of the system.
+
+\subsection{System Architecture}
+
+TRAXIS employs a \textbf{Client-Server Architecture} built on a layered, modular design pattern. The Flutter application serves as the client interface, responsible for UI rendering, state management, and local caching, while a centralised cloud-hosted backend acts as the single source of truth for all data and business logic.
+
+The architecture is divided into four principal layers:
+
+\begin{enumerate}
+    \item \textbf{Presentation Layer:} Encompasses all interactive Flutter screens (e.g., \texttt{dashboard\_screen}, \texttt{operator\_dashboard\_screen}, \texttt{digital\_ticket\_screen}) and UI widgets using dynamic layouts and global theming defined in \texttt{app\_theme.dart}.
+
+    \item \textbf{Core / Domain Layer:} Houses the business logic, utilising providers (e.g., \texttt{auth\_provider.dart}) and state management mechanisms to bridge the data and presentation layers.
+
+    \item \textbf{Data Layer:} Manages API integrations, external service calls, and secure local storage mechanisms, ensuring clean separation between business logic and data access.
+
+    \item \textbf{External Services Layer:} Integrates third-party services including Firebase (authentication, messaging, real-time sync), Google Maps API (geolocation and routing), AWS Services (compute-intensive tasks), and AI services via MCP.
+\end{enumerate}
+
+\subsubsection{Use Case Diagram}
+
+The use case diagram below illustrates the different types of users of the system and how they interact with it. Two primary actors are identified: the \textbf{Passenger} and the \textbf{Operator}. The diagram provides a simplified graphical representation of the system's functionalities and the interactions each actor may perform.
+
+\begin{figure}[h]
+\centering
+\includesvg[width=0.85\textwidth]{images/FYP/traxis_use_case_diagram.svg}
+\caption{Use case diagram showing how users interact with the Traxis system}
+\label{fig:use_case}
+\end{figure}
+
+\subsubsection{Context Diagrams}
+
+A context diagram describes the logical flow of data within the system, illustrating how each user type interacts with the system from authentication through to completing their primary tasks. The Level 0 diagram below presents the system as a single process, showing all external entities and their data exchanges with the system.
+
+\begin{figure}[h]
+\centering
+\includesvg[width=0.80\textwidth]{images/FYP/traxis_level0_context_diagram.svg}
+\caption{Level 0 Context Diagram showing the overall system boundary and external entities}
+\label{fig:context_l0}
+\end{figure}
+
+The Level 1 diagram decomposes the system further, revealing the core internal processes, data stores, and information flows between passengers, operators, and the Traxis platform.
+
+\begin{figure}[h]
+\centering
+\includesvg[width=0.85\textwidth]{images/FYP/traxis_level1_context_diagram.svg}
+\caption{Level 1 Context Diagram showing internal processes and data flows}
+\label{fig:context_l1}
+\end{figure}
+
+\subsection{Design Constraints}
+
+\begin{itemize}
+    \item \textbf{Cross-Platform Consistency:} Maintaining a uniform graphical experience across both iOS and Android natively while avoiding UI inconsistencies between the two platforms.
+    \item \textbf{Network Dependency:} Real-time tracking and live ticketing mandate continuous internet and GPS connectivity. The system must gracefully handle offline or low-connectivity degradation, using local caching via Hive to queue actions until connectivity is restored.
+    \item \textbf{Mobile Hardware Limitations:} Rendering complex UI animations (ambient blur orbs, gradients) and active map overlays requires meticulous memory optimisation to prevent frame rate drops or device overheating, particularly on low- and mid-range devices common in Uganda.
+    \item \textbf{Internet Connectivity Requirement:} All location server platforms implemented require active internet connectivity for real-time synchronisation. The response time for location data is therefore dependent on the quality of the mobile network available to the user.
+\end{itemize}
+
+\subsection{Design Methodology}
+
+We used the \textbf{Agile development methodology}. Agile Software Development (ASD) is a creative process that anticipates the need for flexibility and applies a high level of pragmatism into the delivery of the finished product. We focused on keeping code simple, testing often, and delivering functional components of the application as soon as they were ready. This helped us to minimise risks such as bugs, cost overruns, and changing requirements. Rapid prototyping of the graphical user interface was conducted first to gather immediate feedback on custom aesthetic elements. Following approval of the UI design, functional milestones were iteratively coded and deployed, linking the distinct passenger and operator workflows in sequential project sprints.
+
+\subsection{High Level Design}
+
+The high-level design structures the application into self-contained major subsystems:
+
+\begin{enumerate}
+    \item \textbf{Identity and Access Management:} OTP issuance, user profile creation, role retrieval, and session token management.
+    \item \textbf{Passenger Operations Subsystem:} A pipeline covering: Search $\rightarrow$ Seat Selection $\rightarrow$ Payment $\rightarrow$ Digital Ticketing.
+    \item \textbf{Logistics and Tracking Subsystem:} Real-time vehicle geolocation and package dispatch tracking using mapping services.
+    \item \textbf{Operator Management Subsystem:} Dedicated to dashboard rendering, booking aggregation, and financial analytics.
+\end{enumerate}
+
+\subsubsection{Conceptual or Logical Design}
+
+This view shows the logical functional elements of the system, clearly indicating the major processes involved and how they relate to one another.
+
+At a logical level, the system separates actions driven by user roles that interact with shared data entities:
+
+\begin{itemize}
+    \item \textbf{Entities:} Users, Trips, Bookings, Tickets, Packages, and Transport Vehicles.
+    \item A \textit{Passenger} interacts with the system to create multiple Bookings and package requests.
+    \item A \textit{Booking} generates exactly one Digital Ticket and links a User to a specific Seat on a scheduled Trip.
+    \item An \textit{Operator} orchestrates Trips and views aggregated metadata spanning numerous Bookings.
+\end{itemize}
+
+\subsubsection{Process (Module) Design}
+
+This view is for project management and code organisation. The components are organised as independent modules corresponding to files or directories within the codebase. The primary functional modules implemented within the TRAXIS codebase include:
+
+\begin{itemize}
+    \item \textbf{Authentication Module:} Manages the entry threshold securely through Role Selection and OTP Verification screens.
+    \item \textbf{Customer Module:} Features route planning, interactive seat mapping, and generation of the boarding pass (\texttt{search\_booking\_screen}, \texttt{seat\_selection\_screen}, \texttt{digital\_ticket\_screen}).
+    \item \textbf{Operator Module:} Fetches enterprise-level metrics to render bookings and financial revenue on specialised dashboards (\texttt{operator\_dashboard\_screen}, \texttt{operator\_bookings\_screen}).
+    \item \textbf{Tracking and Delivery Module:} Interfaces with map SDKs to parse and display real-time coordinate updates for vehicles (\texttt{live\_tracking\_screen}, \texttt{package\_delivery\_screen}).
+\end{itemize}
+
+\begin{figure}[h]
+\centering
+\includesvg[width=0.80\textwidth]{images/FYP/traxis_module_directory_structure.svg}
+\caption{Directory structure of the build and development environment}
+\label{fig:module}
+\end{figure}
+
+\subsubsection{Security}
+
+Traxis enforces security at multiple levels. Authentication is handled exclusively through OTP-based phone number verification via Firebase Authentication, eliminating password-related vulnerabilities. All external communication operates strictly over HTTPS protocols. Sensitive user data, location details, and payment information are transmitted using modern encryption standards. Role-based access control ensures that passengers and operators can only access functionality appropriate to their role, with role retrieval and session token management handled by the Core/Domain layer through \texttt{auth\_provider.dart}.
+
+\subsection{Database Design}
+
+Operating via scalable, cloud-based data structures (Cloud Firestore and PostgreSQL), the core relations are organised as follows:
+
+\begin{itemize}
+    \item \textbf{Users:} \texttt{user\_id}, \texttt{role\_type} (customer vs. operator), \texttt{phone\_number}, \texttt{profile\_metadata}.
+    \item \textbf{Trips / Routes:} \texttt{trip\_id}, \texttt{operator\_id}, \texttt{departure\_location}, \texttt{destination\_location}, \texttt{schedule\_time}, \texttt{vehicle\_id}.
+    \item \textbf{Bookings:} \texttt{booking\_id}, \texttt{user\_id}, \texttt{trip\_id}, \texttt{seat\_numbers}, \texttt{transaction\_amount}, \texttt{payment\_status}.
+    \item \textbf{Packages:} \texttt{package\_id}, \texttt{sender\_id}, \texttt{receiver\_info}, \texttt{assigned\_trip\_id}, \texttt{delivery\_status}.
+\end{itemize}
+
+\subsubsection{Adding Data}
+
+Data is written to the backend through RESTful API endpoints exposed by the Django REST Framework. For real-time features, data is simultaneously synchronised to Cloud Firestore using the Firebase SDK. Each record is identified by a unique ID generated at the point of creation. For example, when a passenger confirms a booking, a \texttt{booking\_id} is generated, the corresponding seat record is updated to reflect occupancy, and a digital ticket entry is created — all within a single transactional API call to ensure data consistency.
+
+\subsubsection{Reading Data}
+
+Data is retrieved from the backend via RESTful API calls authenticated using session tokens. For real-time features such as live vehicle tracking and seat availability updates, the application subscribes to Firestore document streams. Changes to tracked documents (e.g. a vehicle's GPS coordinates or a seat's occupancy status) are pushed to all connected clients sub-second, ensuring that every passenger and operator always sees the most current system state.
+
+\subsection{GUI Design}
+
+\subsubsection{Inputs}
+
+\begin{itemize}
+    \item \textbf{Phone number and OTP:} Required on registration and login. Without valid credentials, a user cannot authenticate or access any system functionality.
+    \item \textbf{GPS coordinates:} The application requests location permission from the device. This allows the user's position and the vehicle's position to be determined and displayed in real time.
+    \item \textbf{Seat selection taps:} Passengers interact with an interactive seat grid to choose their preferred seat. The grid reflects real-time availability, with occupied seats visually distinguished from available ones.
+    \item \textbf{Booking and payment details:} Users input trip preferences and payment information through validated form fields, with inline error messages displayed immediately upon detection of invalid input.
+    \item \textbf{Package details:} For courier requests, users provide sender and receiver information, which is stored against the assigned trip.
+\end{itemize}
+
+\subsubsection{Outputs}
+
+\begin{itemize}
+    \item \textbf{Interactive map view:} Immediately upon authentication, both passengers and operators are presented with a live map view (powered by Google Maps SDK) showing real-time vehicle positions.
+    \item \textbf{Digital ticket:} Upon successful payment, the system generates and displays a digital boarding pass (\texttt{digital\_ticket\_screen}) containing booking reference, seat number, route, and departure time.
+    \item \textbf{Status notifications:} Push notifications via Firebase Cloud Messaging alert passengers to trip status changes, payment confirmations, and parcel delivery updates.
+    \item \textbf{Operator dashboard:} A 2$\times$2 KPI grid displays live metrics including active bookings, revenue generated, seat occupancy rate, and active trips.
+    \item \textbf{Ride history and booking lists:} Scrollable list views (\texttt{ride\_history\_screen}, \texttt{operator\_bookings\_screen}) present historical and current booking records with clear visual and tactile feedback for all system states.
+\end{itemize}
+
+\subsection{External Interfaces}
+
+\subsubsection{Hardware Interfaces}
+
+\begin{itemize}
+    \item \textbf{Geospatial Sensors:} The application calls the device's native GPS unit to continuously fetch and render user and transport locations. The \texttt{ACCESS\_FINE\_LOCATION} permission is declared in the application manifest, and users must grant this permission for full tracking functionality.
+    \item \textbf{Haptic Interfaces:} Device vibration motors are engaged on key user interactions such as seat selections or payment verifications, providing tactile confirmation of actions.
+\end{itemize}
+
+\subsubsection{Software Interfaces}
+
+\begin{itemize}
+    \item \textbf{Device OS Integrations:} Deep interaction with the Android SDK and iOS Foundation frameworks is required to retrieve hardware permissions for location services and push notifications.
+    \item \textbf{Mapping APIs:} Integration with the Google Maps SDK provides route polyline rendering and live vehicle tracking overlays. OpenStreetMap tiles are cached locally as a fallback for low-connectivity environments.
+\end{itemize}
+
+\subsubsection{Communication Interfaces}
+
+\begin{itemize}
+    \item \textbf{RESTful JSON APIs:} All client-to-server communication operates strictly over HTTPS, with JSON as the data exchange format. API endpoints are managed by the Django REST Framework.
+    \item \textbf{WebSockets / Firestore Streams:} Low-latency, bi-directional data streams via Firestore maintain the persistent real-time functionality required by the live location tracking and seat availability modules, ensuring sub-second updates even on 3G networks.
+    \item \textbf{Firebase Cloud Messaging (FCM):} Push notifications for ride status updates, booking confirmations, and parcel delivery alerts are delivered to both passenger and operator devices through FCM without requiring custom notification infrastructure.
+\end{itemize}
+
+\subsubsection{User Interfaces}
+
+The user-facing platform consists of dynamic, touch-responsive screens built with the Flutter framework. Core aesthetic elements include custom modern typography, a tailored colour palette featuring vibrant interactive gradients, and specialised glassmorphic overlays (blur orbs, translucent card panels). Navigation is provided through a carved-out bottom navigation bar with clear active/inactive visual states. Transition animations between application states are set to an optimal 400\,ms duration, prioritising fluidity over abrupt page loads. Integral interactive elements include OTP \texttt{TextFields}, responsive map layouts, and dynamic seating grids. The interface adopts \textbf{distinct dashboard layouts} for Operators (emphasising KPIs and operational data) and Passengers (emphasising action buttons, interactive maps, and ticketing) while rigorously adhering to a globally unified theme defined in \texttt{app\_theme.dart}.
