@@ -28,20 +28,52 @@ The report is structured into several sections, managed through the root `main.t
 - **`appendices/`**: Contains supplementary materials and appendices.
 - **`images/`**: Contains images, diagrams, and logos used throughout the document.
 
-## How to Compile
+## Development Setup & How to Compile
 
-To compile this report into a PDF, you will need a LaTeX distribution (such as TeX Live, MiKTeX, or MacTeX) installed on your system. 
+To compile this report into a PDF, you will need a LaTeX distribution and **Inkscape** (which is strictly required by the `svg` package used in the project to lazily convert SVG diagrams). You will also need to ensure compilation includes the `-shell-escape` flag.
 
-You can compile the `main.tex` file using the terminal with the standard `pdflatex` and `bibtex` workflow:
+### macOS Setup
+1. **Install MacTeX / BasicTeX:**
+   ```bash
+   brew install --cask mactex-no-gui
+   ```
+   *(Or just `basictex` for a minimal install)*
+2. **Install Inkscape:**
+   ```bash
+   brew install --cask inkscape
+   ```
+3. **Install Required Packages (BasicTeX users only):**
+   If you use a minimal distribution, install the missing packages:
+   ```bash
+   sudo tlmgr install nomencl appendix tocloft tabularray svg transparent catchfile trimspaces titlesec caption ieeetran
+   ```
 
+### Windows Setup
+1. **Install TeX Live / MiKTeX:** Recommend downloading the [MiKTeX installer](https://miktex.org/). The advantage of MiKTeX is that it will automatically download missing LaTeX packages on the fly during compiling.
+2. **Install Inkscape:**
+   ```cmd
+   winget install -e --id Inkscape.Inkscape
+   ```
+   *Make sure Inkscape is added to your system's `PATH` variable so LaTeX can access it via the command line.*
+
+### Compilation
+
+With the dependencies installed, the simplest way to compile smoothly without littering your root folder with auxiliary compilation files (like `.aux`, `.log`) is by using the provided `Makefile`.
+
+From your terminal, run:
 ```bash
-pdflatex main.tex
-bibtex main
-pdflatex main.tex
-pdflatex main.tex
+make
 ```
 
-Alternatively, you can open the project in popular LaTeX editors such as TeXShop, Texmaker, or VS Code with the LaTeX Workshop extension, and compile it from there. It can also be uploaded and compiled natively on Overleaf.
+If you prefer doing it manually or want to configure your IDE (e.g., VS Code LaTeX Workshop), ensure that you use the `-shell-escape` flag or you will get svg rendering errors:
+```bash
+pdflatex -shell-escape main.tex
+bibtex main
+pdflatex -shell-escape main.tex
+pdflatex -shell-escape main.tex
+```
+
+> **Note on IDEs:** The repository includes a `.latexmkrc` file which will automatically instruct most popular extensions to funnel all LaTeX build garbage into the `build/` directory while providing you with `main.pdf` at the root.
 
 ## License
 

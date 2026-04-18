@@ -1,0 +1,118 @@
+%% Creator: Inkscape 1.4.3 (0d15f750, 2025-12-25), www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'traxis_level1_context_diagram_svg-tex.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{480.375bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,1.08399686)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{traxis_level1_context_diagram_svg-tex.pdf}}%
+    \put(0.08626073,0.607338){\color[rgb]{0.70980392,0.83137255,0.95686275}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textbf{Passenger}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{traxis_level1_context_diagram_svg-tex.pdf}}%
+    \put(0.91373927,0.607338){\color[rgb]{0.80784314,0.79607843,0.96470588}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textbf{Operator}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{traxis_level1_context_diagram_svg-tex.pdf}}%
+    \put(0.08626073,0.11865728){\color[rgb]{0.98039216,0.78039216,0.45882353}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textbf{Payment}\end{tabular}}}}%
+    \put(0.08626073,0.09055424){\color[rgb]{0.98039216,0.78039216,0.45882353}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textbf{gateway}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{traxis_level1_context_diagram_svg-tex.pdf}}%
+    \put(0.91373927,0.11865728){\color[rgb]{0.96078431,0.76862745,0.70196078}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textbf{Maps / GPS}\end{tabular}}}}%
+    \put(0.91373927,0.09055424){\color[rgb]{0.96078431,0.76862745,0.70196078}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textbf{service}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{traxis_level1_context_diagram_svg-tex.pdf}}%
+    \put(0.5,1.05230287){\color[rgb]{0.36470588,0.79215686,0.64705882}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}P1\end{tabular}}}}%
+    \put(0.5,1.02107726){\color[rgb]{0.62352941,0.88235294,0.79607843}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textbf{Authentication}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{traxis_level1_context_diagram_svg-tex.pdf}}%
+    \put(0.5,0.84933644){\color[rgb]{0.36470588,0.79215686,0.64705882}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}P2\end{tabular}}}}%
+    \put(0.5,0.81811083){\color[rgb]{0.62352941,0.88235294,0.79607843}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textbf{Booking management}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=7]{traxis_level1_context_diagram_svg-tex.pdf}}%
+    \put(0.5,0.64637){\color[rgb]{0.36470588,0.79215686,0.64705882}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}P3\end{tabular}}}}%
+    \put(0.5,0.6151444){\color[rgb]{0.62352941,0.88235294,0.79607843}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textbf{Real-time tracking}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=8]{traxis_level1_context_diagram_svg-tex.pdf}}%
+    \put(0.5,0.44340357){\color[rgb]{0.68627451,0.6627451,0.9254902}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}P4\end{tabular}}}}%
+    \put(0.5,0.41217797){\color[rgb]{0.80784314,0.79607843,0.96470588}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textbf{Operator dashboard}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=9]{traxis_level1_context_diagram_svg-tex.pdf}}%
+    \put(0.5,0.24043714){\color[rgb]{0.36470588,0.79215686,0.64705882}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}P5\end{tabular}}}}%
+    \put(0.5,0.20921153){\color[rgb]{0.62352941,0.88235294,0.79607843}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textbf{Courier management}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=10]{traxis_level1_context_diagram_svg-tex.pdf}}%
+    \put(0.69672131,1.01639342){\color[rgb]{0.76078431,0.75294118,0.71372549}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}D1 Users\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=11]{traxis_level1_context_diagram_svg-tex.pdf}}%
+    \put(0.69672131,0.82435595){\color[rgb]{0.76078431,0.75294118,0.71372549}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}D2 Bookings\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=12]{traxis_level1_context_diagram_svg-tex.pdf}}%
+    \put(0.69672131,0.62138954){\color[rgb]{0.76078431,0.75294118,0.71372549}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}D3 Trips\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=13]{traxis_level1_context_diagram_svg-tex.pdf}}%
+    \put(0.69672131,0.21545667){\color[rgb]{0.76078431,0.75294118,0.71372549}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}D4 Packages\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=14]{traxis_level1_context_diagram_svg-tex.pdf}}%
+    \put(0.17993755,0.81811083){\color[rgb]{0.76078431,0.75294118,0.71372549}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Phone / OTP\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=15]{traxis_level1_context_diagram_svg-tex.pdf}}%
+    \put(0.18774395,0.70882121){\color[rgb]{0.76078431,0.75294118,0.71372549}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Booking request\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=16]{traxis_level1_context_diagram_svg-tex.pdf}}%
+    \put(0.73106948,0.50273224){\color[rgb]{0.76078431,0.75294118,0.71372549}\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}Trip config\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=17]{traxis_level1_context_diagram_svg-tex.pdf}}%
+    \put(0.83723653,0.45901639){\color[rgb]{0.76078431,0.75294118,0.71372549}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Reports\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=18]{traxis_level1_context_diagram_svg-tex.pdf}}%
+    \put(0.73419204,0.64324746){\color[rgb]{0.76078431,0.75294118,0.71372549}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Driver GPS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=19]{traxis_level1_context_diagram_svg-tex.pdf}}%
+    \put(0.50936768,0.92427788){\color[rgb]{0.76078431,0.75294118,0.71372549}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Auth token\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=20]{traxis_level1_context_diagram_svg-tex.pdf}}%
+    \put(0.50936768,0.72131145){\color[rgb]{0.76078431,0.75294118,0.71372549}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Seat update\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=21]{traxis_level1_context_diagram_svg-tex.pdf}}%
+    \put(0.50936768,0.51834504){\color[rgb]{0.76078431,0.75294118,0.71372549}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Vehicle status\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=22]{traxis_level1_context_diagram_svg-tex.pdf}}%
+    \put(0.50936768,0.31537861){\color[rgb]{0.76078431,0.75294118,0.71372549}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Trip link\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=23]{traxis_level1_context_diagram_svg-tex.pdf}}%
+    \put(0.17837627,0.18110851){\color[rgb]{0.76078431,0.75294118,0.71372549}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Payment result\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=24]{traxis_level1_context_diagram_svg-tex.pdf}}%
+    \put(0.76541764,0.31850117){\color[rgb]{0.76078431,0.75294118,0.71372549}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Coordinates\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=25]{traxis_level1_context_diagram_svg-tex.pdf}}%
+    \put(0.27517564,0.00312256){\color[rgb]{0.76078431,0.75294118,0.71372549}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Data flow\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=26]{traxis_level1_context_diagram_svg-tex.pdf}}%
+    \put(0.47814208,0.00312256){\color[rgb]{0.76078431,0.75294118,0.71372549}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Store read/write\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=27]{traxis_level1_context_diagram_svg-tex.pdf}}%
+    \put(0.74355972,0.00312256){\color[rgb]{0.76078431,0.75294118,0.71372549}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Data store\end{tabular}}}}%
+  \end{picture}%
+\endgroup%
