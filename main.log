@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.17)  18 APR 2026 13:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.17)  18 APR 2026 13:16
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -744,7 +744,7 @@ Package caption Info: New subtype `subtable' on input line 238.
 LaTeX Font Info:    Trying to load font information for T1+lmr on input line 56.
  (/usr/local/texlive/2026basic/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-) (build/main.aux)
+) (./main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 56.
@@ -766,7 +766,7 @@ LaTeX Font Info:    ... okay on input line 56.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 56.
 LaTeX Font Info:    ... okay on input line 56.
 Package hyperref Info: Link coloring ON on input line 56.
- (build/main.out) (build/main.out)
+ (./main.out) (./main.out)
 \@outlinefile=\write5
 \openout5 = `main.out'.
 
@@ -898,15 +898,15 @@ l.1 \chapter
 
 ]) [5
 
-] (build/main.toc [6])
+] (./main.toc [6])
 \tf@toc=\write6
 \openout6 = `main.toc'.
 
- (build/main.lof [7])
+ (./main.lof [7])
 \tf@lof=\write7
 \openout7 = `main.lof'.
 
- (build/main.lot)
+ (./main.lot)
 \tf@lot=\write8
 \openout8 = `main.lot'.
 
@@ -3522,7 +3522,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[43]) (build/main.bbl
+[43]) (./main.bbl
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -3714,7 +3714,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[57] (build/main.aux)
+[57] (./main.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
@@ -3723,15 +3723,15 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 04CA7BDF7C05D41C3DF9CB786DFD4EC2;8944.
  ) 
 Here is how much of TeX's memory you used:
- 21401 strings out of 469006
- 393387 string characters out of 5454813
+ 21400 strings out of 469006
+ 393289 string characters out of 5454813
  921020 words of memory out of 5000000
  49434 multiletter control sequences out of 15000+600000
  675543 words of font info for 73 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
  110i,12n,117p,1480b,1605s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2026basic/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2026basic/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2026basic/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2026basic/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2026basic/texmf-dist/fonts/type1/public/lm/lmtt12.pfb></usr/local/texlive/2026basic/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2026basic/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on build/main.pdf (66 pages, 1547911 bytes).
+Output written on main.pdf (66 pages, 1547911 bytes).
 PDF statistics:
  1111 PDF objects out of 1200 (max. 8388607)
  1001 compressed objects within 11 object streams

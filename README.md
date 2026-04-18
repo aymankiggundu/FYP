@@ -43,9 +43,9 @@ To compile this report into a PDF, you will need a LaTeX distribution and **Inks
    brew install --cask inkscape
    ```
 3. **Install Required Packages (BasicTeX users only):**
-   If you use a minimal distribution, install the missing packages:
+   If you use a minimal distribution, install the missing packages and formatting tools:
    ```bash
-   sudo tlmgr install nomencl appendix tocloft tabularray svg transparent catchfile trimspaces titlesec caption ieeetran
+   sudo tlmgr install nomencl appendix tocloft tabularray svg transparent catchfile trimspaces titlesec caption ieeetran latexindent
    ```
 
 ### Windows Setup
@@ -73,7 +73,7 @@ pdflatex -shell-escape main.tex
 pdflatex -shell-escape main.tex
 ```
 
-> **Note on IDEs:** The repository includes a `.latexmkrc` file which will automatically instruct most popular extensions to funnel all LaTeX build garbage into the `build/` directory while providing you with `main.pdf` at the root.
+> **Note on IDEs:** We recommend using **VS Code** with the **LaTeX Workshop** extension. The repository includes a `.vscode/settings.json` file which automatically configures code formatting (`latexindent`), and a `.latexmkrc` file which instructs most popular extensions to funnel all LaTeX build garbage into the `build/` directory while providing you with `main.pdf` at the root.
 
 ## License
 
