@@ -298,38 +298,3 @@ The project utilized GitHub for source code management and version control. A st
 
 \textbf{Project Management: ClickUp} \\
 ClickUp was used to plan, track, and manage all project activities. The platform supported the Agile sprint structure with task assignments, deadlines, and progress tracking through burndown charts. Automated reminders and notifications helped prevent task slippage, ensuring timely completion of features and alignment with the overall project timeline. Additionally, ClickUp provided transparency and accountability for all team members, facilitating efficient communication and coordination throughout the project lifecycle.
-
-\section{System Testing and Validation}
-
-To ensure a robust and reliable system, testing was performed continuously at every stage of development. The approach emphasized early detection of defects and validation of functionality rather than deferring testing until the end of the project. This proactive strategy guaranteed that issues were identified and resolved promptly, maintaining high system quality and reliability.
-
-\subsection{Testing Strategy \& Tools}
-
-The system underwent multiple layers of testing, covering individual components, integration points, overall system performance, and real-world usability:
-
-\textbf{Unit Testing:} Individual components were validated using unit tests to ensure that each module behaved as expected in isolation. For the backend, \textbf{pytest} was used to test Python/Django functionality, while the frontend Flutter applications employed \textbf{flutter\_test} and \textbf{mockito} for widget and logic testing. The development goal was to achieve greater than 85\% coverage on critical paths, ensuring that essential features functioned reliably under a variety of conditions.
-
-\textbf{Integration Testing:} Integration tests verified that different modules interacted correctly and that API contracts were honored. Backend APIs were tested using structured \textbf{Postman} collections to ensure correct request-response behavior, while end-to-end flows for mobile applications were tested using the \textbf{Flutter Integration Driver}. This ensured that data flowed seamlessly between clients, the backend, and external services.
-
-\textbf{System and Load Testing:} To evaluate system performance under realistic usage conditions, load tests simulated up to 200 concurrent driver and passenger sessions using tools such as \textbf{k6} or \textbf{Locust}. Performance metrics, including GPS update latency, were monitored to confirm that updates remained under 4 seconds even on 3G networks. These tests validated the system's scalability, responsiveness, and resilience under peak loads.
-
-\textbf{Real-World Field Testing:} Controlled simulations alone could not capture the challenges of operating in urban traffic and low-connectivity environments. Therefore, the system was deployed on physical devices operating on MTN and Airtel networks in Kampala traffic, including congested areas such as Wandegeya. This field testing ensured that the system performed reliably under real-world network conditions and varying device performance.
-
-\textbf{User Acceptance Testing (UAT):} Finally, the system underwent UAT with a sample group of 20 drivers and 50 passengers recruited from Old and New Taxi Parks. Participants performed typical tasks using the system over a two-week period. Think-aloud sessions and standardized questionnaires such as the \textbf{System Usability Scale (SUS)} were employed to capture qualitative and quantitative feedback, validating that the system met user needs and expectations.
-
-\textbf{Key Tools:} The testing strategy leveraged a variety of professional tools, including \textbf{Postman} for API testing, \textbf{Flutter DevTools} for debugging and performance profiling, \textbf{Firebase Test Lab} for real-device testing, \textbf{Sentry} for crash reporting from the earliest stages of development, and \textbf{Firebase Performance Monitoring} for continuous performance evaluation.
-
-By employing this comprehensive, multi-layered testing and validation strategy, the Traxis system achieved high reliability, responsiveness, and usability, ensuring readiness for real-world deployment and sustained user satisfaction.
-\section{Project Evaluation}
-
-Project success was evaluated using measurable, practical indicators that reflected the system's usability, performance, reliability, and impact in real-world conditions. The evaluation focused not merely on technical completion but on tangible benefits for end-users and operational effectiveness.
-
-\textbf{Usability:} The system's usability was assessed using the \textbf{System Usability Scale (SUS)}, targeting a score greater than 80 to indicate excellent user satisfaction. In addition, direct observations measured the time required for key tasks, such as booking a taxi, with the goal of completing this process in under 45 seconds. This ensured that the application was intuitive and efficient for both drivers and passengers.
-
-\textbf{Performance:} System responsiveness was evaluated through key metrics, including the average request-to-acceptance time for rides, which remained below 12 seconds. Location tracking accuracy in urban environments was maintained within 25 meters. These metrics ensured that the system provided timely, precise information essential for a smooth user experience.
-
-\textbf{Reliability:} System reliability was monitored using server uptime metrics and crash reporting. The backend maintained an uptime of greater than 99.5\%, while the percentage of crash-free sessions, tracked via \textbf{Firebase Crashlytics}, exceeded 98\%. High reliability ensured continuous service availability and built user trust.
-
-\textbf{Adoption \& Impact:} The system’s adoption and practical impact were measured through pilot testing. Success criteria included retaining more than 70\% of pilot drivers as active users after 30 days, as well as qualitative evidence demonstrating reduced passenger waiting times and improved order at taxi stages. This evaluation confirmed that the system delivered meaningful operational improvements in the targeted environment.
-
-By employing these evaluation criteria, the Traxis project was assessed comprehensively, balancing technical metrics with user experience and real-world effectiveness, ensuring that the system met both functional and practical objectives.
