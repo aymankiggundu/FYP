@@ -1,0 +1,80 @@
+\contentsline {chapter}{Declaration}{i}{chapter*.1}%
+\contentsline {chapter}{Approval}{ii}{chapter*.2}%
+\contentsline {chapter}{Dedication}{iii}{chapter*.3}%
+\contentsline {chapter}{Acknowledgements}{iv}{chapter*.4}%
+\contentsline {chapter}{Abstract}{v}{chapter*.5}%
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Background to the Study}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Problem Statement}{2}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Objectives}{2}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Main Objective}{2}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}Specific Objectives}{2}{subsection.1.3.2}%
+\contentsline {section}{\numberline {1.4}Scope of the Project}{3}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Significance of the Study }{3}{section.1.5}%
+\contentsline {section}{\numberline {1.6}Justification}{4}{section.1.6}%
+\contentsline {chapter}{\numberline {2}Literature Review}{6}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Technologies Enabling Transport Digitization}{6}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Existing Private Ride-hailing Platforms}{8}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Uber}{9}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Safeboda}{9}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Taxify}{10}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.4}Lyft}{11}{subsection.2.2.4}%
+\contentsline {subsection}{\numberline {2.2.5}Moovit}{12}{subsection.2.2.5}%
+\contentsline {subsection}{\numberline {2.2.6}Transit App}{12}{subsection.2.2.6}%
+\contentsline {subsection}{\numberline {2.2.7}SWVL}{13}{subsection.2.2.7}%
+\contentsline {subsection}{\numberline {2.2.8}Via}{14}{subsection.2.2.8}%
+\contentsline {subsection}{\numberline {2.2.9}Grab}{15}{subsection.2.2.9}%
+\contentsline {subsection}{\numberline {2.2.10}Comparative analysis table of the different ride-hailing platforms}{15}{subsection.2.2.10}%
+\contentsline {section}{\numberline {2.3}Conclusion}{17}{section.2.3}%
+\contentsline {chapter}{\numberline {3}Methodology}{19}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Introduction}{19}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Data Collection}{19}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Data Collection Techniques}{20}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Tools and materials}{20}{subsection.3.2.2}%
+\contentsline {section}{\numberline {3.3}System Design and Implementation}{20}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}System Design}{20}{subsection.3.3.1}%
+\contentsline {subsubsection}{Client Design}{21}{subsection.3.3.1}%
+\contentsline {subsubsection}{Server Design}{22}{subsection.3.3.1}%
+\contentsline {subsubsection}{Admin Portal Design}{22}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Technology Stack \& Rationale}{23}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}System Architecture}{25}{subsection.3.3.3}%
+\contentsline {subsubsection}{Layered Architecture Overview}{25}{subsection.3.3.3}%
+\contentsline {subsubsection}{Interaction Overview}{26}{Item.5}%
+\contentsline {subsubsection}{Architecture Justification}{26}{Item.5}%
+\contentsline {subsubsection}{System Architecture Diagram}{27}{Item.5}%
+\contentsline {subsection}{\numberline {3.3.4}Implementation}{28}{subsection.3.3.4}%
+\contentsline {subsection}{\numberline {3.3.5}Project Management \& Version Control}{30}{subsection.3.3.5}%
+\contentsline {section}{\numberline {3.4}System Testing and Validation}{30}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Testing Strategy \& Tools}{30}{subsection.3.4.1}%
+\contentsline {section}{\numberline {3.5}Project Evaluation}{31}{section.3.5}%
+\contentsline {chapter}{\numberline {4}System Analysis and Design}{33}{chapter.4}%
+\contentsline {section}{\numberline {4.1}System Study}{33}{section.4.1}%
+\contentsline {section}{\numberline {4.2}System Analysis}{34}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Data Analysis and Interpretation of Results}{34}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}User Requirements}{35}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}Functional Requirements}{35}{subsection.4.2.3}%
+\contentsline {subsection}{\numberline {4.2.4}Non-Functional Requirements}{36}{subsection.4.2.4}%
+\contentsline {subsection}{\numberline {4.2.5}System Requirements}{37}{subsection.4.2.5}%
+\contentsline {section}{\numberline {4.3}System Design}{37}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}System Architecture}{37}{subsection.4.3.1}%
+\contentsline {subsubsection}{Use Case Diagram}{38}{Item.39}%
+\contentsline {subsubsection}{Context Diagrams}{38}{figure.caption.9}%
+\contentsline {subsection}{\numberline {4.3.2}Design Constraints}{39}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}Design Methodology}{40}{subsection.4.3.3}%
+\contentsline {subsection}{\numberline {4.3.4}High Level Design}{40}{subsection.4.3.4}%
+\contentsline {subsubsection}{Conceptual or Logical Design}{40}{Item.43}%
+\contentsline {subsubsection}{Process (Module) Design}{41}{Item.43}%
+\contentsline {subsubsection}{Security}{41}{figure.caption.12}%
+\contentsline {subsection}{\numberline {4.3.5}Database Design}{41}{subsection.4.3.5}%
+\contentsline {subsubsection}{Adding Data}{42}{subsection.4.3.5}%
+\contentsline {subsubsection}{Reading Data}{42}{subsection.4.3.5}%
+\contentsline {subsection}{\numberline {4.3.6}GUI Design}{42}{subsection.4.3.6}%
+\contentsline {subsubsection}{Inputs}{42}{subsection.4.3.6}%
+\contentsline {subsubsection}{Outputs}{42}{subsection.4.3.6}%
+\contentsline {subsection}{\numberline {4.3.7}External Interfaces}{43}{subsection.4.3.7}%
+\contentsline {subsubsection}{Hardware Interfaces}{43}{subsection.4.3.7}%
+\contentsline {subsubsection}{Software Interfaces}{43}{subsection.4.3.7}%
+\contentsline {subsubsection}{Communication Interfaces}{43}{subsection.4.3.7}%
+\contentsline {subsubsection}{User Interfaces}{44}{subsection.4.3.7}%
+\contentsline {chapter}{References}{44}{subsection.4.3.7}%
+\contentsline {chapter}{Appendices}{55}{appendix*.14}%
