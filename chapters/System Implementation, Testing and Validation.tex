@@ -1,11 +1,11 @@
 \chapter{System Implementation, Testing and Validation}
 
 \section{Introduction}
-This chapter describes how Traxis was realized. Traxis' implementation, testing and validation was to make sure that it meets its set
+This chapter describes how Traxis was realized. Traxis's implementation, testing and validation was to make sure that it meets its set
 objectives and the requirement specifications that were identified.
 
 \section{System Implementation}
-This section gives an overview of the project implementation; it highlights
+This section gives an overview of the project implementation. It highlights
 the major components and the operation of the system as well as the different
 user interfaces and activities that allow users to interact with the system.
 
@@ -13,7 +13,7 @@ user interfaces and activities that allow users to interact with the system.
 The Traxis system was implemented using a modern, scalable technology stack selected to ensure performance, reliability, and adaptability within the Ugandan transport context.
 
 \textbf{Flutter (Dart)}
-The mobile applications (Passenger and Driver apps) were developed using Flutter, a cross-platform UI framework by Google, alongside the Dart programming language. Flutter enabled the development of a single codebase that runs on both Android and iOS devices, reducing development time and maintenance effort. Its widget-based architecture supported the creation of responsive and user-friendly interfaces suitable for a wide range of devices, including low- and mid-range smartphones commonly used in Uganda.
+The mobile application was developed using Flutter, a cross-platform UI framework by Google, alongside the Dart programming language. Flutter enabled the development of a single codebase that runs on both Android and iOS devices, reducing development time and maintenance effort. Its widget-based architecture supported the creation of responsive and user-friendly interfaces suitable for a wide range of devices, including low and mid-range smartphones commonly used in Uganda.
 
 \textbf{Django and Django REST Framework (DRF)}
 The backend system was implemented using Django, a high-level Python web framework, together with the Django REST Framework for API development. Django handled business logic, request processing, and system coordination, while DRF exposed RESTful APIs that facilitated secure communication between the mobile applications, admin portal, and external services.
@@ -33,7 +33,7 @@ The Google Maps Platform was used to provide mapping, navigation, and geolocatio
 \textbf{AWS (Amazon Web Services)}
 AWS was utilized for compute-intensive operations such as transcription and other backend processing tasks. Its scalable cloud infrastructure ensured efficient handling of resource-demanding processes without affecting overall system performance.
 
-\textbf{MCP (Model Control Plane)}
+\textbf{MCP (Model Control Protocol)}
 MCP was integrated to support AI-driven functionalities, including predictive analytics and intelligent system behavior. Implemented using Python, it enabled advanced features such as demand forecasting and improved coordination between passengers and shuttle operators.
 
 \textbf{Hive and Background Sync Mechanisms}
@@ -153,13 +153,13 @@ data flowed seamlessly between clients, the backend, and external services.
 \textbf{System and Load Testing}: To evaluate system performance under realistic usage conditions, load tests simulated up to 200 concurrent driver and passenger sessions using tools such as k6 or Locust. Performance metrics, including GPS update latency, were monitored to confirm that updates remained under 4 seconds even on 3G networks. These tests validated the system’s scalability, responsiveness, and resilience under peak loads.
 
 \textbf{Real-World Field Testing}: 
-Controlled simulations alone were not sufficient to capture the practical challenges faced in private shuttle operations, particularly those identified during the interview with Hills Link Express. Instead, the system design and evaluation were guided by real-world operational scenarios derived from the interview findings.
+Controlled simulations alone were not sufficient to capture the practical challenges faced in private shuttle operations, particularly those identified during the interview with HillsLink Express. Instead, the system design and evaluation were guided by real-world operational scenarios derived from the interview findings.
 
 These scenarios included common activities such as seat booking via phone, managing no-shows, handling mid-route passenger drop-offs, coordinating parcel deliveries, and responding to frequent customer inquiries about vehicle location and delivery status. By modelling these real-life interactions within the Traxis system, the study was able to assess how effectively the proposed solution addresses existing inefficiencies.
 
 This approach ensured that the system was grounded in actual user needs and operational constraints, including limited digital literacy, reliance on phone communication, and the need for flexible booking and tracking mechanisms. As a result, Traxis was evaluated based on its ability to improve coordination, enhance transparency, and reduce operational burden within the context of private shuttle services.
 
-\textbf{User Acceptance Testing (UAT)}: Finally, the system underwent UAT with Hillsling passenger alongside the operator. Participants performed typical tasks using the system over a two-week period. Think-aloud sessions and standardized questionnaires such as the System Usability Scale (SUS) were employed to capture qualitative and quantitative feedback, validating that the system met user needs and expectations.
+\textbf{User Acceptance Testing (UAT)}: Finally, the system underwent UAT(User Acceptance Tests) with a Hillslink passenger alongside the operator. Participants performed typical tasks using the system over a two-week period. Think-aloud sessions and standardized questionnaires such as the SUS(System Usability Scale) were employed to capture qualitative and quantitative feedback, validating that the system met user needs and expectations.
 The testing strategy leveraged a variety of professional tools, including Postman for API testing, Flutter DevTools for debugging and performance profiling,
 Firebase Test Lab for real-device testing, Sentry for crash reporting from the earliest stages of development, and Firebase Performance Monitoring for continuous perfor
 mance evaluation. 

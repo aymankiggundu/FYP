@@ -54,8 +54,8 @@ To ensure effective and well-coordinated project management, the Agile software 
 The system was architected around two primary entities to guarantee reliable communication, scalability, data consistency, and overall operational efficiency across the platform.
 
 \begin{itemize}
-    \item \textbf{Clients}: Two dedicated mobile applications were deployed on the smartphones of passengers and drivers.  
-    \textit{The Passenger Application and the Driver Application that functioned as client-side components, handling user interactions, location updates, and real-time requests while communicating securely with the backend services.}
+    \item \textbf{Clients}: A mobile application deployed on the smartphones of passengers and drivers.  
+    \textit{The Application that functioned as client-side components, handling user interactions, location updates, and real-time requests while communicating securely with the backend services.}
 
     \item \textbf{Server} (Single Source of Truth): A centralized, cloud-hosted backend system that acted as the authoritative source for all application data and system state. The server was responsible for coordinating passenger–driver matching, enforcing business rules, synchronizing data across all connected clients, and maintaining consistency in real-time operations. Additionally, it handled secure data storage, backups, authentication, logging, and fault tolerance, ensuring data integrity, system reliability, and recoverability in the event of failures or network disruptions.
 \end{itemize}
@@ -69,15 +69,11 @@ The client-side design adopted a modular architecture, where each functional fea
 The client application integrated the following technologies:
 
 \begin{itemize}
-    \item \textbf{Firebase Authentication (Firestore Auth)} was used to manage user authentication and identity for both passengers and drivers. Firebase provided a secure and scalable platform for login, registration, and session management, allowing the development team to focus on core application functionality.
-    
-    \item \textbf{Firebase Cloud Messaging (FCM)} delivered real-time notifications such as ride requests, trip updates, and system alerts. FCM enabled reliable and low-latency push messaging across devices without requiring custom notification infrastructure.
-    
     \item \textbf{Google Maps API} supported geolocation services, route visualization, distance calculations, and real-time location tracking. It provided a robust mapping platform that integrated seamlessly with mobile applications.
     
     \item \textbf{AWS Services} were used to implement transcription and other compute-intensive features. AWS (Amazon Web Services) offered scalable cloud-based computing resources, ensuring that tasks such as voice-to-text conversion were processed efficiently and reliably.
     
-    \item \textbf{MCP (Model Control Plane)} was employed to enable AI-powered features implemented in \textbf{Python}, a high-level programming language well-suited for machine learning, data processing, and AI integration. MCP allowed the client to interact with intelligent services through well-defined APIs.
+    \item \textbf{MCP (Model Control Protocol)} was employed to enable AI-powered features implemented in \textbf{Python}, a high-level programming language well-suited for machine learning, data processing, and AI integration. MCP allowed the client to interact with intelligent services through well-defined APIs.
 \end{itemize}
 
 Overall, the client design prioritized responsiveness, scalability, and seamless integration with backend services while maintaining a clear separation between presentation logic and data handling.
@@ -140,8 +136,8 @@ The technology stack had been carefully chosen to prioritize rapid development, 
     \item \textbf{Backend \& RESTful API: Django + Django REST Framework (DRF)} \\
           Django, a high-level Python web framework, served as the core backend. Python was widely known for its readability, extensive library ecosystem, and suitability for rapid development. Django provided a secure and production-ready framework with a built-in admin interface, ORM for database management, and strong security practices. The Django REST Framework exposed RESTful APIs, enabling secure, scalable, and standardized communication between client applications, the admin portal, and external services.
 
-    \item \textbf{Real-time Features: Firebase Realtime Database / Firestore + Cloud Messaging} \\
-          Firebase supported real-time data synchronization and push notifications. This ensured sub-second location updates for rides, immediate notifications for drivers and passengers, and consistent system state even on low-bandwidth 2G/3G networks. Firebase also offered a generous free tier for MVP deployment, minimizing costs during early stages while allowing seamless scaling as the user base grew.
+     \item \textbf{Real-time Features: Firebase Realtime Database / Firestore + Push Notifications} \\
+              Firebase supported real-time data synchronization and push notifications. This ensured sub-second location updates for rides, immediate push notifications for drivers and passengers, and consistent system state even on low-bandwidth 2G/3G networks. Firebase also offered a generous free tier for MVP deployment, minimizing costs during early stages while allowing seamless scaling as the user base grew.
 
     \item \textbf{Primary Database: PostgreSQL with PostGIS extension} \\
           PostgreSQL was a robust, open-source relational database chosen for its reliability, ACID (Atomicity, Consistency, Isolation, Durability) compliance, and strong support for complex queries. The PostGIS extension added advanced geospatial capabilities, enabling efficient nearest-driver calculations, route mapping, and stage boundary management. Its open-source nature reduced licensing costs while providing enterprise-grade features.
@@ -190,7 +186,7 @@ The architecture followed a \textbf{layered client-server model}, which divided 
 
     \item \textbf{External Services Layer:} Third-party services were integrated to enhance functionality:
         \begin{itemize}
-            \item \textbf{Firebase} for authentication, messaging, and real-time notifications.
+            \item \textbf{Firebase} for authentication and real-time notifications.
             \item \textbf{Google Maps API} for geolocation, routing, and mapping.
             \item \textbf{AWS Services} for compute-intensive tasks like transcription.
             \item \textbf{MCP (Model Control Plane)} to enable AI-driven features.
@@ -200,11 +196,11 @@ The architecture followed a \textbf{layered client-server model}, which divided 
 \subsubsection{Interaction Overview}
 
 \begin{itemize}
-    \item The Passenger and Driver Apps communicated with the backend to send ride requests, location updates, and receive notifications in real time.
+    \item The App communicates with the backend to send ride requests, location updates, and receive notifications in real time.
     
-    \item The Admin Portal queried the backend for system data, performed administrative operations, and managed configurations. All actions were logged for accountability.
+    \item The Admin Portal queries the backend for system data, performed administrative operations, and managed configurations. All actions are logged for accountability.
     
-    \item External services were accessed through secure backend APIs or directly by clients when necessary, enabling geolocation, messaging, AI processing, and transcription features.
+    \item External services are accessed through secure backend APIs or directly by clients when necessary, enabling geolocation, messaging, AI processing, and transcription features.
 \end{itemize}
 
 \subsubsection{Architecture Justification}
@@ -236,7 +232,7 @@ A high-level system architecture diagram illustrated:
 
 \begin{figure}[h]
 \centering
-\includegraphics[width=0.8\textwidth]{images/methodology_2.png}
+\includegraphics[width=0.8\textwidth]{images/methodology_3.png}
 \caption{Methodology diagram of the entire system flow}
 \label{fig:methodology}
 \end{figure}

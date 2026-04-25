@@ -102,9 +102,9 @@ The system was designed to be user-friendly and accessible to individuals with v
 \subsection{System Requirements}
 
 \begin{itemize}
-    \item \textbf{Platform Compatibility:} The application must be compatible with Android 8.0 (API level 26) and above, as well as iOS 12.0 and above.
-    \item \textbf{Network Connectivity:} An active internet connection (3G/4G/5G or Wi-Fi) is required for real-time synchronisation of location data, bookings, and notifications.
-    \item \textbf{Hardware:} A standard mobile device equipped with location service capabilities (GPS) and a minimum of 2\,GB RAM.
+    \item \textbf{Platform Compatibility:} The application must be compatible with Android 13 (API level 33) and above, as well as iOS 17 and above.
+        \item \textbf{Network Connectivity:} An active internet connection (3G/4G/5G or Wi-Fi) is required for real-time synchronisation of location data, bookings, and notifications.
+        \item \textbf{Hardware:} A standard mobile device equipped with location service capabilities (GPS) and a minimum of 2\,GB RAM.
 \end{itemize}
 
 \section{System Design}
@@ -133,7 +133,7 @@ The use case diagram below illustrates the different types of users of the syste
 
 \begin{figure}[h]
 \centering
-\includegraphics[width=0.85\textwidth]{images/FYP/fig41_usecase_diagram.png}
+\includegraphics[width=0.85\textwidth]{images/use_case_diagram.png}
 % \caption{Use case diagram showing how users interact with the Traxis system}
 \label{fig:use_case}
 \end{figure}
@@ -144,19 +144,19 @@ A context diagram describes the logical flow of data within the system, illustra
 
 \begin{figure}[h]
 \centering
-\includegraphics[width=0.80\textwidth]{images/FYP/fig42_level0_context.png}
-% \caption{Level 0 Context Diagram showing the overall system boundary and external entities}
+\includegraphics[width=0.80\textwidth]{images/context_diagram.png}
+\caption{Level 0 Context Diagram showing the overall system boundary and external entities}
 \label{fig:context_l0}
 \end{figure}
 
-The Level 1 diagram decomposes the system further, revealing the core internal processes, data stores, and information flows between passengers, operators, and the Traxis platform.
+% The Level 1 diagram decomposes the system further, revealing the core internal processes, data stores, and information flows between passengers, operators, and the Traxis platform.
 
-\begin{figure}[h]
-\centering
-\includegraphics[width=0.85\textwidth]{images/FYP/fig43_level1_context.png}
+% \begin{figure}[h]
+% \centering
+% \includegraphics[width=0.85\textwidth]{images/FYP/fig43_level1_context.png}
 % \caption{Level 1 Context Diagram showing internal processes and data flows}
-\label{fig:context_l1}
-\end{figure}
+% \label{fig:context_l1}
+% \end{figure}
 
 \subsection{Design Constraints}
 
@@ -201,17 +201,17 @@ This view is for project management and code organisation. The components are or
 
 \begin{itemize}
     \item \textbf{Authentication Module:} Manages the entry threshold securely through Role Selection and OTP Verification screens.
-    \item \textbf{Customer Module:} Features route planning, interactive seat mapping, and generation of the boarding pass (\texttt{search\_booking\_screen}, \texttt{seat\_selection\_screen}, \texttt{digital\_ticket\_screen}).
-    \item \textbf{Operator Module:} Fetches enterprise-level metrics to render bookings and financial revenue on specialised dashboards (\texttt{operator\_dashboard\_screen}, \texttt{operator\_bookings\_screen}).
-    \item \textbf{Tracking and Delivery Module:} Interfaces with map SDKs to parse and display real-time coordinate updates for vehicles (\texttt{live\_tracking\_screen}, \texttt{package\_delivery\_screen}).
+    \item \textbf{Customer Module:} Features route planning, interactive seat mapping, and generation of the boarding pass.
+    \item \textbf{Operator Module:} Fetches enterprise-level metrics to render bookings and financial revenue on specialised dashboards.
+    \item \textbf{Tracking and Delivery Module:} Interfaces with map SDKs to parse and display real-time coordinate updates for vehicles.
 \end{itemize}
 
-\begin{figure}[h]
-\centering
-\includegraphics[width=0.80\textwidth]{images/FYP/fig44_module_structure.png}
+% \begin{figure}[h]
+% \centering
+% \includegraphics[width=0.80\textwidth]{images/FYP/fig44_module_structure.png}
 % \caption{Directory structure of the build and development environment}
-\label{fig:module}
-\end{figure}
+% \label{fig:module}
+% \end{figure}
 
 \subsubsection{Security}
 
@@ -285,3 +285,10 @@ Data is retrieved from the backend via RESTful API calls authenticated using ses
 \subsubsection{User Interfaces}
 
 The user-facing platform consists of dynamic, touch-responsive screens built with the Flutter framework. Core aesthetic elements include custom modern typography, a tailored colour palette featuring vibrant interactive gradients, and specialised glassmorphic overlays (blur orbs, translucent card panels). Navigation is provided through a carved-out bottom navigation bar with clear active/inactive visual states. Transition animations between application states are set to an optimal 400\,ms duration, prioritising fluidity over abrupt page loads. Integral interactive elements include OTP \texttt{TextFields}, responsive map layouts, and dynamic seating grids. The interface adopts \textbf{distinct dashboard layouts} for Operators (emphasising KPIs and operational data) and Passengers (emphasising action buttons, interactive maps, and ticketing) while rigorously adhering to a globally unified theme defined in \texttt{app\_theme.dart}.
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.80\textwidth]{images/level_one_context.png}
+\caption{The Level 1 diagram decomposes the system further, revealing the core internal processes, data stores, and information flows between passengers, operators, and the Traxis platform.}
+\label{fig:module}
+\end{figure}
