@@ -7,7 +7,8 @@
 \providecommand{\BIBentrySTDinterwordspacing}{\spaceskip=0pt\relax}
 \providecommand{\BIBentryALTinterwordstretchfactor}{4}
 \providecommand{\BIBentryALTinterwordspacing}{\spaceskip=\fontdimen2\font plus
-\BIBentryALTinterwordstretchfactor\fontdimen3\font minus \fontdimen4\font\relax}
+\BIBentryALTinterwordstretchfactor\fontdimen3\font minus
+  \fontdimen4\font\relax}
 \providecommand{\BIBforeignlanguage}[2]{{%
 \expandafter\ifx\csname l@#1\endcsname\relax
 \typeout{** WARNING: IEEEtran.bst: No hyphenation pattern has been}%
@@ -22,422 +23,615 @@
 
 \bibitem{mak2026kampala}
 \BIBentryALTinterwordspacing
-{Makerere University}. (2026) Kampala at a crossroads: What new research reveals about mobility, governance, and the city’s public health risks. Published January 8, 2026. [Online]. Available: \url{https://www.mak.ac.ug/index.php/headlines/37215}
+{Makerere University}. (2026) Kampala at a crossroads: What new research
+  reveals about mobility, governance, and the city’s public health risks.
+  Published January 8, 2026. [Online]. Available:
+  \url{https://www.mak.ac.ug/index.php/headlines/37215}
 \BIBentrySTDinterwordspacing
 
 \bibitem{rugamba2020lowcarbon}
 \BIBentryALTinterwordspacing
-A.~Rugamba, ``Country scoping of research priorities on low-carbon transport in uganda,'' 2020, funded by DFID/UKAID under the Energy and Economic Growth Programme. [Online]. Available: \url{https://transport-links.com/hvt-publications/country-scoping-of-research-priorities-on-low-carbon-transport-in-uganda}
+A.~Rugamba, ``Country scoping of research priorities on low-carbon transport in
+  uganda,'' 2020, funded by DFID/UKAID under the Energy and Economic Growth
+  Programme. [Online]. Available:
+  \url{https://transport-links.com/hvt-publications/country-scoping-of-research-priorities-on-low-carbon-transport-in-uganda}
 \BIBentrySTDinterwordspacing
 
 \bibitem{bmau2025transport}
 \BIBentryALTinterwordspacing
-{Government of Uganda, Ministry of Finance, Planning and Economic Development}, ``Integrated transport infrastructure services annual monitoring report fy 2024/25,'' 2025, accessed 2026. [Online]. Available: \url{https://www.finance.go.ug/sites/default/files/reports/Integrated%20Transport%20Infrastructure%20Services%20Annual%20Monitoring%20FY2024-25%20Report.pdf}
+{Government of Uganda, Ministry of Finance, Planning and Economic Development},
+  ``Integrated transport infrastructure services annual monitoring report fy
+  2024/25,'' 2025, accessed 2026. [Online]. Available:
+  \url{https://www.finance.go.ug/sites/default/files/reports/Integrated%20Transport%20Infrastructure%20Services%20Annual%20Monitoring%20FY2024-25%20Report.pdf}
 \BIBentrySTDinterwordspacing
 
 \bibitem{masinde2024uganda}
 \BIBentryALTinterwordspacing
-E.~Masinde. (2024) Urban transportation sustainability in uganda: A critical analysis of kampala's transport challenges and climate-resilient solutions. Accessed via Scribd; document upload. [Online]. Available: \url{https://www.scribd.com/document/938112103/Uganda-s-Transportation-Crisis}
+E.~Masinde. (2024) Urban transportation sustainability in uganda: A critical
+  analysis of kampala's transport challenges and climate-resilient solutions.
+  Accessed via Scribd; document upload. [Online]. Available:
+  \url{https://www.scribd.com/document/938112103/Uganda-s-Transportation-Crisis}
 \BIBentrySTDinterwordspacing
 
 \bibitem{itd2026couriercomparison}
 \BIBentryALTinterwordspacing
-{ITD Services}. (2026) Courier software vs manual management: A comparison. Accessed 2026-04-13. [Online]. Available: \url{https://itdservices.in/Courier_Software_vs_Manual_Management_A_Comparison.php}
+{ITD Services}. (2026) Courier software vs manual management: A comparison.
+  Accessed 2026-04-13. [Online]. Available:
+  \url{https://itdservices.in/Courier_Software_vs_Manual_Management_A_Comparison.php}
 \BIBentrySTDinterwordspacing
 
 \bibitem{ucc2024sectorreport}
 \BIBentryALTinterwordspacing
-{Uganda Communications Commission}. (2025) New communications sector report highlights efforts to bridge access and usage gaps. Published 15 December 2025, accessed 2026-04-13. [Online]. Available: \url{https://www.ucc.co.ug/new-communications-sector-report-highlights-efforts-to-bridge-access-and-usage-gaps/}
+{Uganda Communications Commission}. (2025) New communications sector report
+  highlights efforts to bridge access and usage gaps. Published 15 December
+  2025, accessed 2026-04-13. [Online]. Available:
+  \url{https://www.ucc.co.ug/new-communications-sector-report-highlights-efforts-to-bridge-access-and-usage-gaps/}
 \BIBentrySTDinterwordspacing
 
 \bibitem{vocal2026busbooking}
 \BIBentryALTinterwordspacing
-{Codeware Limited}. (2023) Benefits of implementing online bus seat booking system, pos and mobile application. Accessed 2026-04-13. [Online]. Available: \url{https://vocal.media/journal/benefits-of-implementing-online-bus-seat-booking-system-pos-and-mobile-application}
+{Codeware Limited}. (2023) Benefits of implementing online bus seat booking
+  system, pos and mobile application. Accessed 2026-04-13. [Online]. Available:
+  \url{https://vocal.media/journal/benefits-of-implementing-online-bus-seat-booking-system-pos-and-mobile-application}
 \BIBentrySTDinterwordspacing
 
 \bibitem{sayyed2024mobilecx}
 \BIBentryALTinterwordspacing
-A.~H. Sayyed. (2024) The role of mobile apps in enhancing customer experience in 2024. LinkedIn Pulse article, accessed 2026-04-13. [Online]. Available: \url{https://www.linkedin.com/pulse/role-mobile-apps-enhancing-customer-experience-2024-sayyed--stt1c}
+A.~H. Sayyed. (2024) The role of mobile apps in enhancing customer experience
+  in 2024. LinkedIn Pulse article, accessed 2026-04-13. [Online]. Available:
+  \url{https://www.linkedin.com/pulse/role-mobile-apps-enhancing-customer-experience-2024-sayyed--stt1c}
 \BIBentrySTDinterwordspacing
 
 \bibitem{ndibatya2020kampala}
 \BIBentryALTinterwordspacing
-I.~Ndibatya and M.~J. Booysen, ``Minibus taxis in kampala's paratransit system: Operations, economics and efficiency,'' \emph{Journal of Transport Geography}, vol.~88, p. 102853, 2020. [Online]. Available: \url{https://www.sciencedirect.com/science/article/pii/S0966692320304415}
+I.~Ndibatya and M.~J. Booysen, ``Minibus taxis in kampala's paratransit system:
+  Operations, economics and efficiency,'' \emph{Journal of Transport
+  Geography}, vol.~88, p. 102853, 2020. [Online]. Available:
+  \url{https://www.sciencedirect.com/science/article/pii/S0966692320304415}
 \BIBentrySTDinterwordspacing
 
 \bibitem{courtright2021uganda}
 \BIBentryALTinterwordspacing
-T.~Courtright, E.~Mbabazi, A.~Oursler, and T.~H. Tun. (2021) Reorganizing informal transport in uganda: Achieving a multimodality that works for all. Published October 14, 2021, accessed 2026-04-13. [Online]. Available: \url{https://thecityfix.com/blog/reorganizing-informal-transport-in-uganda-achieving-a-multimodality-that-works-for-all/}
+T.~Courtright, E.~Mbabazi, A.~Oursler, and T.~H. Tun. (2021) Reorganizing
+  informal transport in uganda: Achieving a multimodality that works for all.
+  Published October 14, 2021, accessed 2026-04-13. [Online]. Available:
+  \url{https://thecityfix.com/blog/reorganizing-informal-transport-in-uganda-achieving-a-multimodality-that-works-for-all/}
 \BIBentrySTDinterwordspacing
 
 \bibitem{howwemadeit2023ugandaTransport}
 \BIBentryALTinterwordspacing
-{How we made it in Africa}. (2023) Uganda: A tech solution for making public transport less ‘hectic’. Published 8 February 2023, accessed 2026-04-13. [Online]. Available: \url{https://www.howwemadeitinafrica.com/uganda-a-tech-solution-for-making-public-transport-less-hectic/151149/}
+{How we made it in Africa}. (2023) Uganda: A tech solution for making public
+  transport less ‘hectic’. Published 8 February 2023, accessed 2026-04-13.
+  [Online]. Available:
+  \url{https://www.howwemadeitinafrica.com/uganda-a-tech-solution-for-making-public-transport-less-hectic/151149/}
 \BIBentrySTDinterwordspacing
 
 \bibitem{manwaring2021informal}
 \BIBentryALTinterwordspacing
-P.~Manwaring and S.~Wani, ``Informal transport reform in kampala: Learning from cross-country experience,'' International Growth Centre (IGC), Tech. Rep., August 2021, policy Brief. [Online]. Available: \url{https://www.theigc.org/sites/default/files/2021/09/Manwaring-et-al-August-2021-Policy-brief.pdf}
+P.~Manwaring and S.~Wani, ``Informal transport reform in kampala: Learning from
+  cross-country experience,'' International Growth Centre (IGC), Tech. Rep.,
+  August 2021, policy Brief. [Online]. Available:
+  \url{https://www.theigc.org/sites/default/files/2021/09/Manwaring-et-al-August-2021-Policy-brief.pdf}
 \BIBentrySTDinterwordspacing
 
 \bibitem{entebbe2026privateTransfers}
 \BIBentryALTinterwordspacing
-{Entebbe Airport Shuttle}. (2026) Private airport transfers. Accessed 2026-04-13. [Online]. Available: \url{https://www.entebbeairportshuttle.com/private-airport-transfers/}
+{Entebbe Airport Shuttle}. (2026) Private airport transfers. Accessed
+  2026-04-13. [Online]. Available:
+  \url{https://www.entebbeairportshuttle.com/private-airport-transfers/}
 \BIBentrySTDinterwordspacing
 
 \bibitem{intalinc2021kampala}
 \BIBentryALTinterwordspacing
-{International Network for Transport and Accessibility in Low Income Communities (INTALInC)}, ``Transport and social exclusion in uganda: Kampala case study report,'' VREF (Volvo Research and Educational Foundations), Tech. Rep., 2021, kampala case study report, accessed 2026-04-13. [Online]. Available: \url{https://intalinc.org/wp-content/uploads/2021/03/kampala-vref_report.pdf}
+{International Network for Transport and Accessibility in Low Income
+  Communities (INTALInC)}, ``Transport and social exclusion in uganda: Kampala
+  case study report,'' VREF (Volvo Research and Educational Foundations), Tech.
+  Rep., 2021, kampala case study report, accessed 2026-04-13. [Online].
+  Available:
+  \url{https://intalinc.org/wp-content/uploads/2021/03/kampala-vref_report.pdf}
 \BIBentrySTDinterwordspacing
 
 \bibitem{petersen_behr_2024}
 \BIBentryALTinterwordspacing
-D.~Petersen and A.~Behr, ``The role of information technology in sustainable urban mobility development,'' \emph{Research Square}, 2024. [Online]. Available: \url{https://doi.org/10.21203/rs.3.rs-4351903/v1}
+D.~Petersen and A.~Behr, ``The role of information technology in sustainable
+  urban mobility development,'' \emph{Research Square}, 2024. [Online].
+  Available: \url{https://doi.org/10.21203/rs.3.rs-4351903/v1}
 \BIBentrySTDinterwordspacing
 
 \bibitem{sun2021mobile}
 \BIBentryALTinterwordspacing
-Y.~Sun, C.~Liu, and C.~Zhang, ``Mobile technology and studies on transport behavior: A literature analysis, integrated research model, and future research agenda,'' \emph{Mobile Information Systems}, 2021. [Online]. Available: \url{https://doi.org/10.1155/2021/9309904}
+Y.~Sun, C.~Liu, and C.~Zhang, ``Mobile technology and studies on transport
+  behavior: A literature analysis, integrated research model, and future
+  research agenda,'' \emph{Mobile Information Systems}, 2021. [Online].
+  Available: \url{https://doi.org/10.1155/2021/9309904}
 \BIBentrySTDinterwordspacing
 
 \bibitem{worldbank2024P1737510}
 \BIBentryALTinterwordspacing
-D.~G. Rami~Amin, ``Affordable devices for all; innovative financing solutions and policy options to bride global digital divides,'' World Bank, Tech. Rep., 2024. [Online]. Available: \url{https://documents1.worldbank.org/curated/en/099080723143031193/pdf/P1737510ac79240b90aaa10618d282c1780.pdf}
+D.~G. Rami~Amin, ``Affordable devices for all; innovative financing solutions
+  and policy options to bride global digital divides,'' World Bank, Tech. Rep.,
+  2024. [Online]. Available:
+  \url{https://documents1.worldbank.org/curated/en/099080723143031193/pdf/P1737510ac79240b90aaa10618d282c1780.pdf}
 \BIBentrySTDinterwordspacing
 
 \bibitem{mike2025tecno_infinix_itel}
 \BIBentryALTinterwordspacing
-Mike, ``Tecno, infinix, and itel: The secret behind their dominance in africa’s smartphone market,'' 2025. [Online]. Available: \url{https://tremhost.com/blog/tecno-infinix-and-itel-the-secret-behind-their-dominance-in-africas-smartphone-market/}
+Mike, ``Tecno, infinix, and itel: The secret behind their dominance in
+  africa’s smartphone market,'' 2025. [Online]. Available:
+  \url{https://tremhost.com/blog/tecno-infinix-and-itel-the-secret-behind-their-dominance-in-africas-smartphone-market/}
 \BIBentrySTDinterwordspacing
 
 \bibitem{hogarty2025cheapphones}
 \BIBentryALTinterwordspacing
-S.~Hogarty, ``7 best cheap phones that prove budget smartphones aren’t rubbish,'' \emph{The Independent (IndyBest)}, February 2025. [Online]. Available: \url{https://www.independent.co.uk/extras/indybest/gadgets-tech/phones-accessories/best-cheap-phones-budget-b2505303.html}
+S.~Hogarty, ``7 best cheap phones that prove budget smartphones aren’t
+  rubbish,'' \emph{The Independent (IndyBest)}, February 2025. [Online].
+  Available:
+  \url{https://www.independent.co.uk/extras/indybest/gadgets-tech/phones-accessories/best-cheap-phones-budget-b2505303.html}
 \BIBentrySTDinterwordspacing
 
 \bibitem{lanlehin2025_tecno_infinix_cheap}
 \BIBentryALTinterwordspacing
-H.~Lanlehin, ``Why are infinix and tecno phones so cheap? the real reasons explained,'' \emph{TechCabal}, October 2025. [Online]. Available: \url{https://techcabal.com/2025/10/20/why-are-infinix-and-tecno-phones-so-cheap-the-real-reasons-explained/}
+H.~Lanlehin, ``Why are infinix and tecno phones so cheap? the real reasons
+  explained,'' \emph{TechCabal}, October 2025. [Online]. Available:
+  \url{https://techcabal.com/2025/10/20/why-are-infinix-and-tecno-phones-so-cheap-the-real-reasons-explained/}
 \BIBentrySTDinterwordspacing
 
 \bibitem{BARKA2024101098}
 \BIBentryALTinterwordspacing
-R.~E. Barka and I.~Politis, ``Driving into the future: A scoping review of smartwatch use for real-time driver monitoring,'' \emph{Transportation Research Interdisciplinary Perspectives}, vol.~25, p. 101098, 2024. [Online]. Available: \url{https://www.sciencedirect.com/science/article/pii/S2590198224000848}
+R.~E. Barka and I.~Politis, ``Driving into the future: A scoping review of
+  smartwatch use for real-time driver monitoring,'' \emph{Transportation
+  Research Interdisciplinary Perspectives}, vol.~25, p. 101098, 2024. [Online].
+  Available:
+  \url{https://www.sciencedirect.com/science/article/pii/S2590198224000848}
 \BIBentrySTDinterwordspacing
 
 \bibitem{preciado‑ortiz2021mobile_apps_transport}
 \BIBentryALTinterwordspacing
-C.~L. Preciado‑Ortiz, ``Quality and use of mobile applications for transportation service: Influence on satisfaction,'' \emph{MYN (Morelia, Mich.)}, 2021. [Online]. Available: \url{https://www.redalyc.org/journal/5718/571867949003/}
+C.~L. Preciado‑Ortiz, ``Quality and use of mobile applications for
+  transportation service: Influence on satisfaction,'' \emph{MYN (Morelia,
+  Mich.)}, 2021. [Online]. Available:
+  \url{https://www.redalyc.org/journal/5718/571867949003/}
 \BIBentrySTDinterwordspacing
 
 \bibitem{SoftwareAdviceGPSVehicleTracking2025}
-{Software Advice}, ``Gps vehicle tracking system — reviews, pricing \& demo,'' \url{https://www.softwareadvice.com.au/software/279003/gps-vehicle-tracking-system}, 2025, fleet management software with real‑time GPS tracking, driver behavior reports, and vehicle maintenance features.
+{Software Advice}, ``Gps vehicle tracking system — reviews, pricing \&
+  demo,''
+  \url{https://www.softwareadvice.com.au/software/279003/gps-vehicle-tracking-system},
+  2025, fleet management software with real‑time GPS tracking, driver
+  behavior reports, and vehicle maintenance features.
 
 \bibitem{cao2022built_environment}
 \BIBentryALTinterwordspacing
-Y.~Cao, Y.~Tian, J.~Tian, K.~Liu, and Y.~Wang, ``Impact of built environment on residential online car-hailing trips: Based on mgwr model,'' \emph{PLoS One}, vol.~17, 2022. [Online]. Available: \url{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9671434/}
+Y.~Cao, Y.~Tian, J.~Tian, K.~Liu, and Y.~Wang, ``Impact of built environment on
+  residential online car-hailing trips: Based on mgwr model,'' \emph{PLoS One},
+  vol.~17, 2022. [Online]. Available:
+  \url{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9671434/}
 \BIBentrySTDinterwordspacing
 
 \bibitem{ivanova2021_digitization_payments_public_transport}
 \BIBentryALTinterwordspacing
-E.~Ivanova, ``Digitization of payments: Key to broader adoption of public transport,'' 2021. [Online]. Available: \url{https://therecursive.com/digitization-of-payments-key-to-broader-adoption-of-public-transport-2/}
+E.~Ivanova, ``Digitization of payments: Key to broader adoption of public
+  transport,'' 2021. [Online]. Available:
+  \url{https://therecursive.com/digitization-of-payments-key-to-broader-adoption-of-public-transport-2/}
 \BIBentrySTDinterwordspacing
 
 \bibitem{lexingham2024_cashless_travelling}
-PHS, ``Everything you need to know about cashless travelling,'' \url{https://lexingham.com/everything-you-need-to-know-about-cashless-travelling/}, 2024.
+PHS, ``Everything you need to know about cashless travelling,''
+  \url{https://lexingham.com/everything-you-need-to-know-about-cashless-travelling/},
+  2024.
 
 \bibitem{apta2016shared_mobility}
 \BIBentryALTinterwordspacing
-S.~M. Center and A.~P.~T. Association, ``Shared mobility and the transformation of public transit,'' American Public Transportation Association, Tech. Rep., 2016. [Online]. Available: \url{https://www.apta.com/wp-content/uploads/Resources/resources/reportsandpublications/Documents/APTA-Shared-Mobility.pdf}
+S.~M. Center and A.~P.~T. Association, ``Shared mobility and the transformation
+  of public transit,'' American Public Transportation Association, Tech. Rep.,
+  2016. [Online]. Available:
+  \url{https://www.apta.com/wp-content/uploads/Resources/resources/reportsandpublications/Documents/APTA-Shared-Mobility.pdf}
 \BIBentrySTDinterwordspacing
 
 \bibitem{uber2025_payment_options_uganda}
 \BIBentryALTinterwordspacing
-Uber, ``Uber payment options in uganda,'' 2025. [Online]. Available: \url{https://www.uber.com/en-UG/blog/uber-payment-options-uganda/}
+Uber, ``Uber payment options in uganda,'' 2025. [Online]. Available:
+  \url{https://www.uber.com/en-UG/blog/uber-payment-options-uganda/}
 \BIBentrySTDinterwordspacing
 
 \bibitem{kanamanzi2019_safeboda_topup}
 \BIBentryALTinterwordspacing
-N.~J. Kamanzi, ``3 ways to topup your safeboda wallet,'' October 2019. [Online]. Available: \url{https://medium.com/safeboda/3-ways-to-topup-your-safeboda-wallet-64c81a6176f8}
+N.~J. Kamanzi, ``3 ways to topup your safeboda wallet,'' October 2019.
+  [Online]. Available:
+  \url{https://medium.com/safeboda/3-ways-to-topup-your-safeboda-wallet-64c81a6176f8}
 \BIBentrySTDinterwordspacing
 
 \bibitem{bolt2025_payments}
 \BIBentryALTinterwordspacing
-Bolt, ``Alternative payment method offerings in bolt payments,'' 2025. [Online]. Available: \url{https://help.bolt.com/add-ons/bolt-payments/}
+Bolt, ``Alternative payment method offerings in bolt payments,'' 2025.
+  [Online]. Available: \url{https://help.bolt.com/add-ons/bolt-payments/}
 \BIBentrySTDinterwordspacing
 
 \bibitem{factmr_ride_hailing_2023}
 \BIBentryALTinterwordspacing
-{Fact.MR}, ``Ride-hailing service market analysis by vehicle type (four wheeler, others (two wheeler, three wheeler)), by end-user type (personal, business), and region - global market insights 2023 to 2033,'' Fact.MR, Tech. Rep., 2023. [Online]. Available: \url{https://www.factmr.com/report/ride-hailing-service-market}
+{Fact.MR}, ``Ride-hailing service market analysis by vehicle type (four
+  wheeler, others (two wheeler, three wheeler)), by end-user type (personal,
+  business), and region - global market insights 2023 to 2033,'' Fact.MR, Tech.
+  Rep., 2023. [Online]. Available:
+  \url{https://www.factmr.com/report/ride-hailing-service-market}
 \BIBentrySTDinterwordspacing
 
 \bibitem{IEEE}
-K.~Kukk, ``The role of satellite communication in the creation of global data transmission networks,'' in \emph{Proceedings of The 2nd International Conference on Satellite Communications}, vol.~4, 1996.
+K.~Kukk, ``The role of satellite communication in the creation of global data
+  transmission networks,'' in \emph{Proceedings of The 2nd International
+  Conference on Satellite Communications}, vol.~4, 1996.
 
 \bibitem{stopher2025_waze_revolutionizing_navigation}
 \BIBentryALTinterwordspacing
-D.~Stopher, ``Waze: The community-driven gps app revolutionizing navigation,'' 2025. [Online]. Available: \url{https://nwconnected.co.uk/waze-the-community-driven-gps-app-revolutionizing-navigation/}
+D.~Stopher, ``Waze: The community-driven gps app revolutionizing navigation,''
+  2025. [Online]. Available:
+  \url{https://nwconnected.co.uk/waze-the-community-driven-gps-app-revolutionizing-navigation/}
 \BIBentrySTDinterwordspacing
 
 \bibitem{kan2018estimating}
 \BIBentryALTinterwordspacing
-W.~Team, ``On route: How cellular connectivity keeps public transport running in real time,'' 2024. [Online]. Available: \url{https://webbingsolutions.com/the-role-of-cellular-connectivity-in-modern-public-transport/}
+W.~Team, ``On route: How cellular connectivity keeps public transport running
+  in real time,'' 2024. [Online]. Available:
+  \url{https://webbingsolutions.com/the-role-of-cellular-connectivity-in-modern-public-transport/}
 \BIBentrySTDinterwordspacing
 
 \bibitem{goto2002new_passenger_support_system}
 \BIBentryALTinterwordspacing
-K.~Goto and Y.~Kambayashi, ``A new passenger support system for public transport using mobile database access,'' in \emph{Proceedings of the 28th VLDB Conference}, 2002. [Online]. Available: \url{https://www.vldb.org/conf/2002/S28P01.pdf}
+K.~Goto and Y.~Kambayashi, ``A new passenger support system for public
+  transport using mobile database access,'' in \emph{Proceedings of the 28th
+  VLDB Conference}, 2002. [Online]. Available:
+  \url{https://www.vldb.org/conf/2002/S28P01.pdf}
 \BIBentrySTDinterwordspacing
 
 \bibitem{uitp2022_ticketing_maas}
 \BIBentryALTinterwordspacing
-Geotabteam, ``The ultimate 2025 guide to fleet telematics: Maximize safety \& efficiency,'' Tech. Rep., 2025 2025. [Online]. Available: \url{https://www.geotab.com/blog/fleet-telematics-safety-efficiency-guide/}
+Geotabteam, ``The ultimate 2025 guide to fleet telematics: Maximize safety \&
+  efficiency,'' Tech. Rep., 2025 2025. [Online]. Available:
+  \url{https://www.geotab.com/blog/fleet-telematics-safety-efficiency-guide/}
 \BIBentrySTDinterwordspacing
 
 \bibitem{Ghosh_2025}
 \BIBentryALTinterwordspacing
-A.~Ghosh, ``Mdm for fleet telematics: Vehicle management made smarter,'' Aug 2025. [Online]. Available: \url{https://blog.scalefusion.com/mdm-for-fleet-telematics/#:~:text=Fleet%20telematics%20is%20essential%20for%20any%20organization,(OBD)%20and%20GPS%20is%20known%20as%20telematics.}
+A.~Ghosh, ``Mdm for fleet telematics: Vehicle management made smarter,'' Aug
+  2025. [Online]. Available:
+  \url{https://blog.scalefusion.com/mdm-for-fleet-telematics/#:~:text=Fleet%20telematics%20is%20essential%20for%20any%20organization,(OBD)%20and%20GPS%20is%20known%20as%20telematics.}
 \BIBentrySTDinterwordspacing
 
 \bibitem{KURNIADI}
-W.~Kurniadi, ``Digital transformation in the transportation and logistics industry,'' \emph{Siber Journal of Transportation and Logistics}, vol.~3, pp. 1--6, 05 2025.
+W.~Kurniadi, ``Digital transformation in the transportation and logistics
+  industry,'' \emph{Siber Journal of Transportation and Logistics}, vol.~3, pp.
+  1--6, 05 2025.
 
 \bibitem{Modeshift_CloudTransit_2024}
 \BIBentryALTinterwordspacing
-{Modeshift}, ``Cloud-based transit systems explained: What are they and how do they work?'' \emph{Modeshift Blog}, March 2024. [Online]. Available: \url{https://www.modeshift.com/cloud-based-transit-systems-explained-what-are-they-and-how-do-they-work/}
+{Modeshift}, ``Cloud-based transit systems explained: What are they and how do
+  they work?'' \emph{Modeshift Blog}, March 2024. [Online]. Available:
+  \url{https://www.modeshift.com/cloud-based-transit-systems-explained-what-are-they-and-how-do-they-work/}
 \BIBentrySTDinterwordspacing
 
 \bibitem{Ridewyze_RideHailingCloud}
 \BIBentryALTinterwordspacing
-{RideWyze}, ``Why ride-hailing businesses need robust cloud-based solutions,'' \emph{RideWyze Blog}. [Online]. Available: \url{https://www.ridewyze.com/blog/why-ride-hailing-businesses-need-robust-cloud-based-solutions}
+{RideWyze}, ``Why ride-hailing businesses need robust cloud-based solutions,''
+  \emph{RideWyze Blog}. [Online]. Available:
+  \url{https://www.ridewyze.com/blog/why-ride-hailing-businesses-need-robust-cloud-based-solutions}
 \BIBentrySTDinterwordspacing
 
 \bibitem{Lucidchart_ReliabilityAvailability}
 \BIBentryALTinterwordspacing
-{Lucidchart}, ``Reliability and availability in cloud computing,'' \emph{Lucidchart Blog}. [Online]. Available: \url{https://www.lucidchart.com/blog/reliability-availability-in-cloud-computing}
+{Lucidchart}, ``Reliability and availability in cloud computing,''
+  \emph{Lucidchart Blog}. [Online]. Available:
+  \url{https://www.lucidchart.com/blog/reliability-availability-in-cloud-computing}
 \BIBentrySTDinterwordspacing
 
 \bibitem{Appicial_TaxiZambia_2024}
 \BIBentryALTinterwordspacing
-Nuvizzteam, ``How real-time route planning boosts on-time deliveries \& cuts costs in logistics,'' \emph{Nuvizz Blog}, 2025. [Online]. Available: \url{https://nuvizz.com/blog/real-time-route-planning-boosts-deliveries-cut-costs-in-logistics/}
+Nuvizzteam, ``How real-time route planning boosts on-time deliveries \& cuts
+  costs in logistics,'' \emph{Nuvizz Blog}, 2025. [Online]. Available:
+  \url{https://nuvizz.com/blog/real-time-route-planning-boosts-deliveries-cut-costs-in-logistics/}
 \BIBentrySTDinterwordspacing
 
 \bibitem{Cloudester_AIRouteOptimization}
 \BIBentryALTinterwordspacing
-RideWyzeTeam, ``Automated ride scheduling: The future of dispatch software,'' \emph{RideWyze Blog}, 2025. [Online]. Available: \url{https://www.ridewyze.com/blog/automated-ride-scheduling-the-future-of-dispatch-software}
+RideWyzeTeam, ``Automated ride scheduling: The future of dispatch software,''
+  \emph{RideWyze Blog}, 2025. [Online]. Available:
+  \url{https://www.ridewyze.com/blog/automated-ride-scheduling-the-future-of-dispatch-software}
 \BIBentrySTDinterwordspacing
 
 \bibitem{Ridewyze_AutomatedScheduling}
 \BIBentryALTinterwordspacing
-{RideWyze}, ``Automated ride scheduling: The future of dispatch software,'' \emph{RideWyze Blog}, accessed online. [Online]. Available: \url{https://www.ridewyze.com/blog/automated-ride-scheduling-the-future-of-dispatch-software}
+{RideWyze}, ``Automated ride scheduling: The future of dispatch software,''
+  \emph{RideWyze Blog}, accessed online. [Online]. Available:
+  \url{https://www.ridewyze.com/blog/automated-ride-scheduling-the-future-of-dispatch-software}
 \BIBentrySTDinterwordspacing
 
 \bibitem{Waehner_DynamicPricing_Kafka}
 \BIBentryALTinterwordspacing
-K.~Waehner, ``Dynamic pricing, real-time data streaming with apache kafka and flink,'' \emph{Medium}. [Online]. Available: \url{https://kai-waehner.medium.com/dynamic-pricing-real-time-data-streaming-with-apache-kafka-and-flink-1e7517055661}
+K.~Waehner, ``Dynamic pricing, real-time data streaming with apache kafka and
+  flink,'' \emph{Medium}. [Online]. Available:
+  \url{https://kai-waehner.medium.com/dynamic-pricing-real-time-data-streaming-with-apache-kafka-and-flink-1e7517055661}
 \BIBentrySTDinterwordspacing
 
 \bibitem{Cloudfresh_CICD_DevOps}
 \BIBentryALTinterwordspacing
-{Cloudfresh}, ``10 reasons why ci/cd is important for devops,'' \emph{Cloudfresh Blog}. [Online]. Available: \url{https://cloudfresh.com/en/blog/10-reasons-why-ci-cd-is-important-for-devops/}
+{Cloudfresh}, ``10 reasons why ci/cd is important for devops,''
+  \emph{Cloudfresh Blog}. [Online]. Available:
+  \url{https://cloudfresh.com/en/blog/10-reasons-why-ci-cd-is-important-for-devops/}
 \BIBentrySTDinterwordspacing
 
 \bibitem{Moiboo_VehicleDiagnostics_USA}
 \BIBentryALTinterwordspacing
-{Moiboo}, ``Vehicle diagnostics and maintenance in usa,'' \emph{Moiboo Blog}. [Online]. Available: \url{https://www.moiboo.com/blog/usa-united-states/vehicle-diagnostics-and-maintenance-in-usa/}
+{Moiboo}, ``Vehicle diagnostics and maintenance in usa,'' \emph{Moiboo Blog}.
+  [Online]. Available:
+  \url{https://www.moiboo.com/blog/usa-united-states/vehicle-diagnostics-and-maintenance-in-usa/}
 \BIBentrySTDinterwordspacing
 
 \bibitem{Amola}
 \BIBentryALTinterwordspacing
-M.~Amola, ``Cloud computing in enhancing cyber security for businesses,'' 03 2025. [Online]. Available: \url{https://www.researchgate.net/publication/389879495_Cloud_Computing_in_Enhancing_Cyber_security_for_Businesses}
+M.~Amola, ``Cloud computing in enhancing cyber security for businesses,'' 03
+  2025. [Online]. Available:
+  \url{https://www.researchgate.net/publication/389879495_Cloud_Computing_in_Enhancing_Cyber_security_for_Businesses}
 \BIBentrySTDinterwordspacing
 
 \bibitem{GoogleCloudGDPR2025}
 \BIBentryALTinterwordspacing
-{Google Cloud}, ``Gdpr and google cloud,'' 2025. [Online]. Available: \url{https://cloud.google.com/privacy/gdpr}
+{Google Cloud}, ``Gdpr and google cloud,'' 2025. [Online]. Available:
+  \url{https://cloud.google.com/privacy/gdpr}
 \BIBentrySTDinterwordspacing
 
 \bibitem{uber2026about}
 \BIBentryALTinterwordspacing
-{Uber Technologies Inc.} (2026) About us. Accessed 2026-04-13. [Online]. Available: \url{https://www.uber.com/us/en/about/}
+{Uber Technologies Inc.} (2026) About us. Accessed 2026-04-13. [Online].
+  Available: \url{https://www.uber.com/us/en/about/}
 \BIBentrySTDinterwordspacing
 
 \bibitem{uber2026rentalfaq}
 \BIBentryALTinterwordspacing
-------. (2026) Uber car rental faq. Accessed 2026-04-13. [Online]. Available: \url{https://help.uber.com/driving-and-delivering/article/uber-car-rental-faq?nodeId=32cbf39c-44e7-4cee-a99f-bb97382089a2}
+------. (2026) Uber car rental faq. Accessed 2026-04-13. [Online]. Available:
+  \url{https://help.uber.com/driving-and-delivering/article/uber-car-rental-faq?nodeId=32cbf39c-44e7-4cee-a99f-bb97382089a2}
 \BIBentrySTDinterwordspacing
 
 \bibitem{uber2026howitworks}
 \BIBentryALTinterwordspacing
-------. (2026) How does uber work? Accessed 2026-04-13. [Online]. Available: \url{https://www.uber.com/us/en/about/how-does-uber-work/}
+------. (2026) How does uber work? Accessed 2026-04-13. [Online]. Available:
+  \url{https://www.uber.com/us/en/about/how-does-uber-work/}
 \BIBentrySTDinterwordspacing
 
 \bibitem{Kayi2019}
 \BIBentryALTinterwordspacing
-R.~Kayi, ``Effects of uber transport to tourism development in kampala city,'' Master's thesis, Makerere University, Kampala, Uganda, 2019. [Online]. Available: \url{https://dissertations.mak.ac.ug/handle/20.500.12281/6381}
+R.~Kayi, ``Effects of uber transport to tourism development in kampala city,''
+  Master's thesis, Makerere University, Kampala, Uganda, 2019. [Online].
+  Available: \url{https://dissertations.mak.ac.ug/handle/20.500.12281/6381}
 \BIBentrySTDinterwordspacing
 
 \bibitem{IsaacXXXX}
 \BIBentryALTinterwordspacing
-D.~Isaac, ``Impact of uber transportations on the informal public transport operation in uganda,'' unpublished manuscript. [Online]. Available: \url{IMPACT_OF_UBER_TRANSPORTATIONS_ON_THE_INFORMAL_PUBLIC_TRANSPORT_OPERATION_IN_UGANDA_By_DESIRE_ISAAC_0700193521_rtf}
+D.~Isaac, ``Impact of uber transportations on the informal public transport
+  operation in uganda,'' unpublished manuscript. [Online]. Available:
+  \url{IMPACT_OF_UBER_TRANSPORTATIONS_ON_THE_INFORMAL_PUBLIC_TRANSPORT_OPERATION_IN_UGANDA_By_DESIRE_ISAAC_0700193521_rtf}
 \BIBentrySTDinterwordspacing
 
 \bibitem{Monitor2016UberKampala}
 \BIBentryALTinterwordspacing
-M.~Staff, ``Uber, online taxi firm launched in kampala,'' \emph{Daily Monitor (Uganda)}, June 2016, accessed: 2025-11-18. [Online]. Available: \url{https://www.monitor.co.ug/uganda/news/national/uber-online-taxi-firm-launched-in-kampala-1652628}
+M.~Staff, ``Uber, online taxi firm launched in kampala,'' \emph{Daily Monitor
+  (Uganda)}, June 2016, accessed: 2025-11-18. [Online]. Available:
+  \url{https://www.monitor.co.ug/uganda/news/national/uber-online-taxi-firm-launched-in-kampala-1652628}
 \BIBentrySTDinterwordspacing
 
 \bibitem{musinguzi2022safeboda}
 \BIBentryALTinterwordspacing
-B.~Musinguzi and T.~Courtright. (2022) Uganda’s safeboda has upset its riders and disappointed its customers. Published March 24, 2022, accessed 2026-04-13. [Online]. Available: \url{https://restofworld.org/2022/ugandas-safeboda-has-upset-its-riders-and-disappointed-its-customers/}
+B.~Musinguzi and T.~Courtright. (2022) Uganda’s safeboda has upset its riders
+  and disappointed its customers. Published March 24, 2022, accessed
+  2026-04-13. [Online]. Available:
+  \url{https://restofworld.org/2022/ugandas-safeboda-has-upset-its-riders-and-disappointed-its-customers/}
 \BIBentrySTDinterwordspacing
 
 \bibitem{muhindo2025rideculture}
 \BIBentryALTinterwordspacing
-J.~Muhindo. (2025) Rewriting the ride culture in kampala. Published May 16, 2025, accessed 2026-04-13. [Online]. Available: \url{https://www.safeboda.com/safeboda-blog/rewriting-the-ride-culture-in-kampala}
+J.~Muhindo. (2025) Rewriting the ride culture in kampala. Published May 16,
+  2025, accessed 2026-04-13. [Online]. Available:
+  \url{https://www.safeboda.com/safeboda-blog/rewriting-the-ride-culture-in-kampala}
 \BIBentrySTDinterwordspacing
 
 \bibitem{safeboda2026faqs}
 \BIBentryALTinterwordspacing
-{SafeBoda}. (2026) Frequently asked questions (uganda). Accessed 2026-04-13. [Online]. Available: \url{https://www.safeboda.com/uganda-website/faqs-nbo}
+{SafeBoda}. (2026) Frequently asked questions (uganda). Accessed 2026-04-13.
+  [Online]. Available: \url{https://www.safeboda.com/uganda-website/faqs-nbo}
 \BIBentrySTDinterwordspacing
 
 \bibitem{safeboda2024acceptingrides}
 \BIBentryALTinterwordspacing
-------. (2024) Safecar drivers online training: Accepting rides. Driver training module, accessed 2026-04-13. [Online]. Available: \url{https://www.safeboda.com/drivers-online-training/safecar/kla/en/course-page}
+------. (2024) Safecar drivers online training: Accepting rides. Driver
+  training module, accessed 2026-04-13. [Online]. Available:
+  \url{https://www.safeboda.com/drivers-online-training/safecar/kla/en/course-page}
 \BIBentrySTDinterwordspacing
 
 \bibitem{alqahami2022safeboda}
 \BIBentryALTinterwordspacing
-N.~AlQatami. (2022) Can digital uptake help transform societies in ldcs? how safeboda is championing reliable delivery and transport services in kampala. Published May 30, 2022, accessed 2026-04-13. [Online]. Available: \url{https://www.uncdf.org/article/7731/safeboda-may2022}
+N.~AlQatami. (2022) Can digital uptake help transform societies in ldcs? how
+  safeboda is championing reliable delivery and transport services in kampala.
+  Published May 30, 2022, accessed 2026-04-13. [Online]. Available:
+  \url{https://www.uncdf.org/article/7731/safeboda-may2022}
 \BIBentrySTDinterwordspacing
 
 \bibitem{DignitedUberTaxifySafeBoda}
 \BIBentryALTinterwordspacing
-Dignited, ``Uber vs taxify vs safeboda uganda: Price and feature comparison,'' 2018. [Online]. Available: \url{https://www.dignited.com/26966/uber-vs-taxify-vs-vs-safeboda-uganda-prices-and-feature-comparison/}
+Dignited, ``Uber vs taxify vs safeboda uganda: Price and feature comparison,''
+  2018. [Online]. Available:
+  \url{https://www.dignited.com/26966/uber-vs-taxify-vs-vs-safeboda-uganda-prices-and-feature-comparison/}
 \BIBentrySTDinterwordspacing
 
 \bibitem{ShellFoundationSafeBodaImpact}
 \BIBentryALTinterwordspacing
-S.~Saddier, ``Are motorcycle taxis competing with collective public transport? analyzing the role of boda-bodas in kampala's urban mobility system,'' Tech. Rep., 2025. [Online]. Available: \url{https://www.sciencedirect.com/science/article/pii/S0739885925000459}
+S.~Saddier, ``Are motorcycle taxis competing with collective public transport?
+  analyzing the role of boda-bodas in kampala's urban mobility system,'' Tech.
+  Rep., 2025. [Online]. Available:
+  \url{https://www.sciencedirect.com/science/article/pii/S0739885925000459}
 \BIBentrySTDinterwordspacing
 
 \bibitem{ObwotSafeCar2022}
 \BIBentryALTinterwordspacing
-D.~Katushabe, ``Safecar by safeboda becomes the most preferred car-hailing service for safety and convenience,'' \emph{SafeBoda}, 2025. [Online]. Available: \url{https://www.safeboda.com/safeboda-blog/safecar-by-safeboda-becomes-the-most-preferred-car-hailing-service-for-safety-and-convenience}
+D.~Katushabe, ``Safecar by safeboda becomes the most preferred car-hailing
+  service for safety and convenience,'' \emph{SafeBoda}, 2025. [Online].
+  Available:
+  \url{https://www.safeboda.com/safeboda-blog/safecar-by-safeboda-becomes-the-most-preferred-car-hailing-service-for-safety-and-convenience}
 \BIBentrySTDinterwordspacing
 
 \bibitem{taxify2018centralasia}
 \BIBentryALTinterwordspacing
-{Trend News Agency}. (2018) Taxify says central asia a “very interesting” region. Published 1 August 2018, accessed 2026-04-14. [Online]. Available: \url{https://www.trend.az/business/economy/2935990.html}
+{Trend News Agency}. (2018) Taxify says central asia a “very interesting”
+  region. Published 1 August 2018, accessed 2026-04-14. [Online]. Available:
+  \url{https://www.trend.az/business/economy/2935990.html}
 \BIBentrySTDinterwordspacing
 
 \bibitem{aPurple_BoltBusinessModel}
 \BIBentryALTinterwordspacing
-aPurple, ``Bolt business model,'' Jun 2025. [Online]. Available: \url{https://www.apurple.co/bolt-business-model/}
+aPurple, ``Bolt business model,'' Jun 2025. [Online]. Available:
+  \url{https://www.apurple.co/bolt-business-model/}
 \BIBentrySTDinterwordspacing
 
 \bibitem{Quartz_TaxifyToBolt}
 \BIBentryALTinterwordspacing
-Q.~Africa, ``Uber rival taxify changes name to bolt, adds scooters,'' 2019. [Online]. Available: \url{https://qz.com/africa/1568416/uber-rival-taxify-changes-name-to-bolt-adds-scooters?utm_medium=sharefromsite&utm_source=quartz_link}
+Q.~Africa, ``Uber rival taxify changes name to bolt, adds scooters,'' 2019.
+  [Online]. Available:
+  \url{https://qz.com/africa/1568416/uber-rival-taxify-changes-name-to-bolt-adds-scooters?utm_medium=sharefromsite&utm_source=quartz_link}
 \BIBentrySTDinterwordspacing
 
 \bibitem{Pctech_TaxifyUganda2017}
-P.~T. Magazine, ``Ride-sharing service taxify officially launches in uganda,'' \url{https://pctechmag.com/2017/10/ride-sharing-service-taxify-officially-launches-in-uganda/}, Oct 2017.
+P.~T. Magazine, ``Ride-sharing service taxify officially launches in uganda,''
+  \url{https://pctechmag.com/2017/10/ride-sharing-service-taxify-officially-launches-in-uganda/},
+  Oct 2017.
 
 \bibitem{Salmon2023RideHailingMonitor}
 \BIBentryALTinterwordspacing
-J.~Salmon, ``Driving or ride‑hailing: Which one is cheaper?'' \emph{Daily Monitor (Uganda)}, 2023. [Online]. Available: \url{https://www.monitor.co.ug/uganda/business/prosper/driving-or-ride-hailing-which-one-is-cheaper--4299538}
+J.~Salmon, ``Driving or ride‑hailing: Which one is cheaper?'' \emph{Daily
+  Monitor (Uganda)}, 2023. [Online]. Available:
+  \url{https://www.monitor.co.ug/uganda/business/prosper/driving-or-ride-hailing-which-one-is-cheaper--4299538}
 \BIBentrySTDinterwordspacing
 
 \bibitem{relawding2021lyft}
 \BIBentryALTinterwordspacing
-A.~Shoaib. (2021) Meet lyft: “uber’s twin” in the usa and canada. Published February 19, 2021, accessed 2026-04-14. [Online]. Available: \url{https://www.relawding.com/meet-lyft-ubers-twin-in-the-usa-and-canada/}
+A.~Shoaib. (2021) Meet lyft: “uber’s twin” in the usa and canada.
+  Published February 19, 2021, accessed 2026-04-14. [Online]. Available:
+  \url{https://www.relawding.com/meet-lyft-ubers-twin-in-the-usa-and-canada/}
 \BIBentrySTDinterwordspacing
 
 \bibitem{yahoo2022lyftshared}
 \BIBentryALTinterwordspacing
-{Yahoo News}. (2022) Lyft brings shared rides back. Published May 5, 2022, accessed 2026-04-14. [Online]. Available: \url{https://news.yahoo.com/lyft-brings-shared-rides-back-021404116.html}
+{Yahoo News}. (2022) Lyft brings shared rides back. Published May 5, 2022,
+  accessed 2026-04-14. [Online]. Available:
+  \url{https://news.yahoo.com/lyft-brings-shared-rides-back-021404116.html}
 \BIBentrySTDinterwordspacing
 
 \bibitem{lyft2026riderpolicies}
 \BIBentryALTinterwordspacing
-{Lyft Inc.} (2026) Rider policies for lyft rides. Accessed 2026-04-14. [Online]. Available: \url{https://help.lyft.com/hc/en-ca/all/articles/115013080388-Rider-policies-for-Lyft-rides}
+{Lyft Inc.} (2026) Rider policies for lyft rides. Accessed 2026-04-14.
+  [Online]. Available:
+  \url{https://help.lyft.com/hc/en-ca/all/articles/115013080388-Rider-policies-for-Lyft-rides}
 \BIBentrySTDinterwordspacing
 
 \bibitem{pymnts2020lyftdelivery}
 \BIBentryALTinterwordspacing
-{PYMNTS}. (2020) Lyft turns to meal, grocery deliveries. Published April 16, 2020, accessed 2026-04-14. [Online]. Available: \url{https://www.pymnts.com/news/ridesharing/2020/lyft-turns-to-meal-grocery-deliveries/}
+{PYMNTS}. (2020) Lyft turns to meal, grocery deliveries. Published April 16,
+  2020, accessed 2026-04-14. [Online]. Available:
+  \url{https://www.pymnts.com/news/ridesharing/2020/lyft-turns-to-meal-grocery-deliveries/}
 \BIBentrySTDinterwordspacing
 
 \bibitem{rideshareguy2023lyftdelivery}
 \BIBentryALTinterwordspacing
-{The Rideshare Guy}. (2023) Lyft delivery driver: How it works and what to expect. Accessed 2026-04-14. [Online]. Available: \url{https://therideshareguy.com/lyft-delivery-driver/}
+{The Rideshare Guy}. (2023) Lyft delivery driver: How it works and what to
+  expect. Accessed 2026-04-14. [Online]. Available:
+  \url{https://therideshareguy.com/lyft-delivery-driver/}
 \BIBentrySTDinterwordspacing
 
 \bibitem{fastcompany2020lyft}
 \BIBentryALTinterwordspacing
-A.~J. Hawkins. (2020) Lyft launches essential deliveries—but it’s not an uber eats competitor. Published April 15, 2020, accessed 2026-04-14. [Online]. Available: \url{https://www.fastcompany.com/90491483/lyft-launches-essential-deliveries-but-its-not-an-uber-eats-competitor}
+A.~J. Hawkins. (2020) Lyft launches essential deliveries—but it’s not an
+  uber eats competitor. Published April 15, 2020, accessed 2026-04-14.
+  [Online]. Available:
+  \url{https://www.fastcompany.com/90491483/lyft-launches-essential-deliveries-but-its-not-an-uber-eats-competitor}
 \BIBentrySTDinterwordspacing
 
 \bibitem{littman2021lyftolo}
 \BIBentryALTinterwordspacing
-J.~Littman. (2021) Lyft, olo partner to offer restaurant delivery. Published December 14, 2021, accessed 2026-04-14. [Online]. Available: \url{https://www.restaurantdive.com/news/lyft-olo-partner-to-offer-restaurant-delivery/611486/}
+J.~Littman. (2021) Lyft, olo partner to offer restaurant delivery. Published
+  December 14, 2021, accessed 2026-04-14. [Online]. Available:
+  \url{https://www.restaurantdive.com/news/lyft-olo-partner-to-offer-restaurant-delivery/611486/}
 \BIBentrySTDinterwordspacing
 
 \bibitem{wiklund2021lyftstrategy}
 \BIBentryALTinterwordspacing
-J.~Wiklund. (2021) How is lyft’s food-delivery strategy different? Published December 21, 2021, accessed 2026-04-14. [Online]. Available: \url{https://foodinstitute.com/focus/how-is-lyfts-food-delivery-strategy-different/}
+J.~Wiklund. (2021) How is lyft’s food-delivery strategy different? Published
+  December 21, 2021, accessed 2026-04-14. [Online]. Available:
+  \url{https://foodinstitute.com/focus/how-is-lyfts-food-delivery-strategy-different/}
 \BIBentrySTDinterwordspacing
 
 \bibitem{moovit2026about}
 \BIBentryALTinterwordspacing
-{Moovit Inc.} (2026) About moovit: The leading maas solutions provider. Accessed 2026-04-14. [Online]. Available: \url{https://moovit.com/about-us/}
+{Moovit Inc.} (2026) About moovit: The leading maas solutions provider.
+  Accessed 2026-04-14. [Online]. Available: \url{https://moovit.com/about-us/}
 \BIBentrySTDinterwordspacing
 
 \bibitem{moovit2026navigating}
 \BIBentryALTinterwordspacing
-------. (2026) Mastering your commute: A guide to navigating with the moovit app. Published 21 January 2026, accessed 2026-04-14. [Online]. Available: \url{https://moovit.com/blog/navigating-with-moovit/}
+------. (2026) Mastering your commute: A guide to navigating with the moovit
+  app. Published 21 January 2026, accessed 2026-04-14. [Online]. Available:
+  \url{https://moovit.com/blog/navigating-with-moovit/}
 \BIBentrySTDinterwordspacing
 
 \bibitem{TransitApp2025}
 \BIBentryALTinterwordspacing
-TransitApp, ``Transit app: Real-time public transport and micromobility planning,'' 2025. [Online]. Available: \url{https://transitapp.com/vision}
+TransitApp, ``Transit app: Real-time public transport and micromobility
+  planning,'' 2025. [Online]. Available: \url{https://transitapp.com/vision}
 \BIBentrySTDinterwordspacing
 
 \bibitem{transit2026howtouse}
 \BIBentryALTinterwordspacing
-{Transit App}. (2026) How to use transit. Accessed 2026-04-14. [Online]. Available: \url{https://help.transitapp.com/article/93-how-to-use-transit}
+{Transit App}. (2026) How to use transit. Accessed 2026-04-14. [Online].
+  Available: \url{https://help.transitapp.com/article/93-how-to-use-transit}
 \BIBentrySTDinterwordspacing
 
 \bibitem{SWVL2024HolidayInnSiemensBosch}
 \BIBentryALTinterwordspacing
-{Swvl Holdings Corp}, ``Transforming urban transit: How swvl tackles mea’s biggest mobility challenges,'' August 2025. [Online]. Available: \url{https://www.swvl.com/blog/transforming-urban-transit-how-swvl-tackles-meas-biggest-mobility-challenges}
+{Swvl Holdings Corp}, ``Transforming urban transit: How swvl tackles mea’s
+  biggest mobility challenges,'' August 2025. [Online]. Available:
+  \url{https://www.swvl.com/blog/transforming-urban-transit-how-swvl-tackles-meas-biggest-mobility-challenges}
 \BIBentrySTDinterwordspacing
 
 \bibitem{narain2025swvlmobility}
 \BIBentryALTinterwordspacing
-S.~Narain. (2025) Transforming urban transit: How swvl tackles mea’s biggest mobility challenges. Published August 22, 2025, accessed 2026-04-14. [Online]. Available: \url{https://www.swvl.com/blog/transforming-urban-transit-how-swvl-tackles-meas-biggest-mobility-challenges}
+S.~Narain. (2025) Transforming urban transit: How swvl tackles mea’s biggest
+  mobility challenges. Published August 22, 2025, accessed 2026-04-14.
+  [Online]. Available:
+  \url{https://www.swvl.com/blog/transforming-urban-transit-how-swvl-tackles-meas-biggest-mobility-challenges}
 \BIBentrySTDinterwordspacing
 
 \bibitem{ViaIreland2025}
 \BIBentryALTinterwordspacing
-{Via Transportation, Inc.}, ``Via’s vision for smart demand‑responsive transport in ireland,'' 2025. [Online]. Available: \url{https://ridewithvia.com/ireland}
+{Via Transportation, Inc.}, ``Via’s vision for smart demand‑responsive
+  transport in ireland,'' 2025. [Online]. Available:
+  \url{https://ridewithvia.com/ireland}
 \BIBentrySTDinterwordspacing
 
 \bibitem{via2026howitworks}
 \BIBentryALTinterwordspacing
-{Business Model Canvas Template}. (2026) Via: How it works. Accessed 2026-04-14. [Online]. Available: \url{https://businessmodelcanvastemplate.com/blogs/how-it-works/via-how-it-works}
+{Business Model Canvas Template}. (2026) Via: How it works. Accessed
+  2026-04-14. [Online]. Available:
+  \url{https://businessmodelcanvastemplate.com/blogs/how-it-works/via-how-it-works}
 \BIBentrySTDinterwordspacing
 
 \bibitem{Wu2025GrabBusinessModel}
 \BIBentryALTinterwordspacing
-Z.~Wu, ``The analysis of grab’s business model and revenue strategies,'' \emph{Advances in Economics Management and Political Sciences}, vol. 145, no.~1, pp. 21--29, 2025. [Online]. Available: \url{https://www.researchgate.net/publication/387716884_The_Analysis_of_Grab%27s_Business_Model_and_Revenue_Strategies}
+Z.~Wu, ``The analysis of grab’s business model and revenue strategies,''
+  \emph{Advances in Economics Management and Political Sciences}, vol. 145,
+  no.~1, pp. 21--29, 2025. [Online]. Available:
+  \url{https://www.researchgate.net/publication/387716884_The_Analysis_of_Grab%27s_Business_Model_and_Revenue_Strategies}
 \BIBentrySTDinterwordspacing
 
 \bibitem{jugnoo2022grabmodel}
 \BIBentryALTinterwordspacing
-{Jugnoo}. (2022) How grab works: The on-demand business model. Accessed 2026-04-14. [Online]. Available: \url{https://jugnoo.io/how-grab-works-the-on-demand-business-model/}
+{Jugnoo}. (2022) How grab works: The on-demand business model. Accessed
+  2026-04-14. [Online]. Available:
+  \url{https://jugnoo.io/how-grab-works-the-on-demand-business-model/}
 \BIBentrySTDinterwordspacing
 
 \end{thebibliography}
