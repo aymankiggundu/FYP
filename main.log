@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.12.18)  25 APR 2026 16:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.12.18)  26 APR 2026 20:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -764,18 +764,19 @@ File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
 (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
 code.tex
 File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
-))
-Package hyperref Info: Option `colorlinks' set `true' on input line 36.
+)) (/usr/local/texlive/2025/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count355
+\float@exts=\toks40
+\float@box=\box89
+\@float@everytoks=\toks41
+\@floatcapt=\box90
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 37.
 \@nomenclaturefile=\write4
 \openout4 = `main.nlo'.
 
-Package nomencl Info: Writing nomenclature file main.nlo on input line 38.
-
-
-Package fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less.
-(fancyhdr)                Please consider using the `twoside' option on input l
-ine 43.
+Package nomencl Info: Writing nomenclature file main.nlo on input line 39.
 
 
 Package fancyhdr Warning: \fancyhead's `E' option without twoside option is use
@@ -783,60 +784,63 @@ less.
 (fancyhdr)                Please consider using the `twoside' option on input l
 ine 44.
 
+
+Package fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less.
+(fancyhdr)                Please consider using the `twoside' option on input l
+ine 45.
+
 (/usr/local/texlive/2025/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2025/01/04 v2.17 Sectioning titles
-\ttl@box=\box89
+\ttl@box=\box91
 \beforetitleunit=\skip114
 \aftertitleunit=\skip115
 \ttl@plus=\dimen306
 \ttl@minus=\dimen307
-\ttl@toksa=\toks40
+\ttl@toksa=\toks42
 \titlewidth=\dimen308
 \titlewidthlast=\dimen309
 \titlewidthfirst=\dimen310
 )
 (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/rotating.sty
 Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
-\c@r@tfl@t=\count355
+\c@r@tfl@t=\count356
 \rotFPtop=\skip116
 \rotFPbot=\skip117
-\rot@float@box=\box90
-\rot@mess@toks=\toks41
+\rot@float@box=\box92
+\rot@mess@toks=\toks43
 )
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 57
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 58
 .
 
 (/usr/local/texlive/2025/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (./main.aux
 
-LaTeX Warning: Label `fig:module' multiply defined.
-
-
 LaTeX Warning: Label `fig:passenger-interfaces' multiply defined.
 
 )
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-Package hyperref Info: Link coloring ON on input line 57.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+Package hyperref Info: Link coloring ON on input line 58.
  (./main.out) (./main.out)
 \@outlinefile=\write5
 \openout5 = `main.out'.
@@ -878,17 +882,17 @@ Package hyperref Info: Link coloring ON on input line 57.
 
 (/usr/local/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count356
+\scratchcounter=\count357
 \scratchdimen=\dimen311
-\scratchbox=\box91
-\nofMPsegments=\count357
-\nofMParguments=\count358
-\everyMPshowfont=\toks42
-\MPscratchCnt=\count359
+\scratchbox=\box93
+\nofMPsegments=\count358
+\nofMParguments=\count359
+\everyMPshowfont=\toks44
+\MPscratchCnt=\count360
 \MPscratchDim=\dimen312
-\MPnumerator=\count360
-\makeMPintoPDFobject=\count361
-\everyMPtoPDFconversion=\toks43
+\MPnumerator=\count361
+\makeMPintoPDFobject=\count362
+\everyMPtoPDFconversion=\toks45
 ) (/usr/local/texlive/2025/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -905,6 +909,7 @@ Package: ninecolors 2022-02-13 v2022D Select colors with proper color contrast
 Package: xparse 2024-08-16 L3 Experimental document command parser
 ))
 Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
 Package caption Info: rotating package is loaded.
 Package caption Info: End \AtBeginDocument code.
 
@@ -3465,7 +3470,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [26]
-<images/methodology_3.png, id=698, 5272.69875pt x 2565.585pt>
+<images/methodology_3.png, id=703, 5272.69875pt x 2565.585pt>
 File: images/methodology_3.png Graphic file (type png)
 <use images/methodology_3.png>
 Package pdftex.def Info: images/methodology_3.png  used on input line 235.
@@ -3496,7 +3501,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [28]
-<images/gantt_2.png, id=709, 1850.112pt x 1110.0672pt>
+<images/gantt_2.png, id=714, 1850.112pt x 1110.0672pt>
 File: images/gantt_2.png Graphic file (type png)
 <use images/gantt_2.png>
 Package pdftex.def Info: images/gantt_2.png  used on input line 284.
@@ -3586,15 +3591,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [35]
-<images/use_case_diagram.png, id=776, 4178.61125pt x 6631.77625pt>
+<images/use_case_diagram.png, id=781, 4178.61125pt x 6631.77625pt>
 File: images/use_case_diagram.png Graphic file (type png)
 <use images/use_case_diagram.png>
 Package pdftex.def Info: images/use_case_diagram.png  used on input line 136.
-(pdftex.def)             Requested size: 399.29463pt x 633.66824pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
+(pdftex.def)             Requested size: 305.33789pt x 484.5103pt.
 
 
 
@@ -3604,17 +3605,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[36]
-<images/FYP/fig44_module_structure.png, id=781, 982.872pt x 985.7628pt>
-File: images/FYP/fig44_module_structure.png Graphic file (type png)
-<use images/FYP/fig44_module_structure.png>
-Package pdftex.def Info: images/FYP/fig44_module_structure.png  used on input l
-ine 211.
-(pdftex.def)             Requested size: 375.80544pt x 376.91016pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
+[36 <./images/use_case_diagram.png>]
+<images/context_diagram.png, id=787, 3789.15625pt x 2208.25pt>
+File: images/context_diagram.png Graphic file (type png)
+<use images/context_diagram.png>
+Package pdftex.def Info: images/context_diagram.png  used on input line 147.
+(pdftex.def)             Requested size: 375.80544pt x 218.9847pt.
 
 
 
@@ -3624,7 +3620,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[37{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}]
+[37 <./images/context_diagram.png>]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[38{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}]
 Overfull \hbox (17.08018pt too wide) in paragraph at lines 225--226
 []\T1/lmr/bx/n/12 Users: \T1/lmtt/m/n/12 user_id\T1/lmr/m/n/12 , \T1/lmtt/m/n/1
 2 role_type \T1/lmr/m/n/12 (cus-tomer vs. op-er-a-tor), \T1/lmtt/m/n/12 phone_n
@@ -3655,26 +3660,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[38]
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
 [39]
-<images/level_one_context.png, id=799, 4453.63875pt x 4660.41125pt>
-File: images/level_one_context.png Graphic file (type png)
-<use images/level_one_context.png>
-Package pdftex.def Info: images/level_one_context.png  used on input line 291.
-(pdftex.def)             Requested size: 375.80544pt x 393.24968pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-) (./chapters/System Implementation, Testing and Validation.tex
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3692,7 +3678,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[41 <./images/use_case_diagram.png>]
+[41]
+<images/level_one_context.png, id=815, 4453.63875pt x 4660.41125pt>
+File: images/level_one_context.png Graphic file (type png)
+<use images/level_one_context.png>
+Package pdftex.def Info: images/level_one_context.png  used on input line 291.
+(pdftex.def)             Requested size: 375.80544pt x 393.24968pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) (./chapters/System Implementation, Testing and Validation.tex
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3701,7 +3697,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[42 <./images/FYP/fig44_module_structure.png>]
+[42]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3726,19 +3722,19 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [45]
-<images/FYP/Operator dashboard.PNG, id=830, 1174.3875pt x 2541.495pt>
+<images/FYP/Operator dashboard.PNG, id=833, 1174.3875pt x 2541.495pt>
 File: images/FYP/Operator dashboard.PNG Graphic file (type png)
 <use images/FYP/Operator dashboard.PNG>
 Package pdftex.def Info: images/FYP/Operator dashboard.PNG  used on input line 
 60.
 (pdftex.def)             Requested size: 150.32504pt x 325.28699pt.
-<images/FYP/Operator profile.PNG, id=831, 1174.3875pt x 2541.495pt>
+<images/FYP/Operator profile.PNG, id=834, 1174.3875pt x 2541.495pt>
 File: images/FYP/Operator profile.PNG Graphic file (type png)
 <use images/FYP/Operator profile.PNG>
 Package pdftex.def Info: images/FYP/Operator profile.PNG  used on input line 66
 .
 (pdftex.def)             Requested size: 150.32504pt x 325.28699pt.
-<images/FYP/Company registration.PNG, id=832, 1174.3875pt x 2541.495pt>
+<images/FYP/Company registration.PNG, id=835, 1174.3875pt x 2541.495pt>
 File: images/FYP/Company registration.PNG Graphic file (type png)
 <use images/FYP/Company registration.PNG>
 Package pdftex.def Info: images/FYP/Company registration.PNG  used on input lin
@@ -3755,36 +3751,36 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [46 <./images/FYP/Operator dashboard.PNG> <./images/FYP/Operator profile.PNG> <
 ./images/FYP/Company registration.PNG>]
-<images/FYP/Passenger dashboard.PNG, id=839, 1174.3875pt x 2541.495pt>
+<images/FYP/Passenger dashboard.PNG, id=842, 1174.3875pt x 2541.495pt>
 File: images/FYP/Passenger dashboard.PNG Graphic file (type png)
 <use images/FYP/Passenger dashboard.PNG>
 Package pdftex.def Info: images/FYP/Passenger dashboard.PNG  used on input line
  91.
 (pdftex.def)             Requested size: 150.32504pt x 325.28699pt.
-<images/FYP/Route details.PNG, id=840, 1174.3875pt x 2541.495pt>
+<images/FYP/Route details.PNG, id=843, 1174.3875pt x 2541.495pt>
 File: images/FYP/Route details.PNG Graphic file (type png)
 <use images/FYP/Route details.PNG>
 Package pdftex.def Info: images/FYP/Route details.PNG  used on input line 97.
 (pdftex.def)             Requested size: 150.32504pt x 325.28699pt.
-<images/FYP/Parcel delivery details.PNG, id=841, 1174.3875pt x 2541.495pt>
+<images/FYP/Parcel delivery details.PNG, id=844, 1174.3875pt x 2541.495pt>
 File: images/FYP/Parcel delivery details.PNG Graphic file (type png)
 <use images/FYP/Parcel delivery details.PNG>
 Package pdftex.def Info: images/FYP/Parcel delivery details.PNG  used on input 
 line 103.
 (pdftex.def)             Requested size: 150.32504pt x 325.28699pt.
-<images/FYP/Ongoing trip tracking.PNG, id=842, 1174.3875pt x 2541.495pt>
+<images/FYP/Ongoing trip tracking.PNG, id=845, 1174.3875pt x 2541.495pt>
 File: images/FYP/Ongoing trip tracking.PNG Graphic file (type png)
 <use images/FYP/Ongoing trip tracking.PNG>
 Package pdftex.def Info: images/FYP/Ongoing trip tracking.PNG  used on input li
 ne 117.
 (pdftex.def)             Requested size: 150.32504pt x 325.28699pt.
-<images/FYP/Tracking upcoming trips.PNG, id=843, 1174.3875pt x 2541.495pt>
+<images/FYP/Tracking upcoming trips.PNG, id=846, 1174.3875pt x 2541.495pt>
 File: images/FYP/Tracking upcoming trips.PNG Graphic file (type png)
 <use images/FYP/Tracking upcoming trips.PNG>
 Package pdftex.def Info: images/FYP/Tracking upcoming trips.PNG  used on input 
 line 123.
 (pdftex.def)             Requested size: 150.32504pt x 325.28699pt.
-<images/FYP/Digital Ticket.PNG, id=844, 1174.3875pt x 2541.495pt>
+<images/FYP/Digital Ticket.PNG, id=847, 1174.3875pt x 2541.495pt>
 File: images/FYP/Digital Ticket.PNG Graphic file (type png)
 <use images/FYP/Digital Ticket.PNG>
 Package pdftex.def Info: images/FYP/Digital Ticket.PNG  used on input line 129.
@@ -4040,10 +4036,10 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 0FE6003381B3F6F4AA74D69A6B2CA278;9707.
  ) 
 Here is how much of TeX's memory you used:
- 20359 strings out of 473190
- 371071 string characters out of 5715799
- 984481 words of memory out of 5000000
- 42949 multiletter control sequences out of 15000+600000
+ 20420 strings out of 473190
+ 371975 string characters out of 5715799
+ 986295 words of memory out of 5000000
+ 43006 multiletter control sequences out of 15000+600000
  611899 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  110i,12n,131p,1443b,1202s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -4054,10 +4050,10 @@ cal/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive
 s/type1/public/lm/lmsy10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/pu
 blic/lm/lmtt12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/times/ut
 mb8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on main.pdf (70 pages, 5901041 bytes).
+Output written on main.pdf (70 pages, 5985834 bytes).
 PDF statistics:
- 1165 PDF objects out of 1200 (max. 8388607)
- 1042 compressed objects within 11 object streams
+ 1168 PDF objects out of 1200 (max. 8388607)
+ 1045 compressed objects within 11 object streams
  274 named destinations out of 1000 (max. 500000)
  605 words of extra memory for PDF output out of 10000 (max. 10000000)
 

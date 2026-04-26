@@ -131,10 +131,10 @@ The architecture is divided into four principal layers:
 
 The use case diagram below illustrates the different types of users of the system and how they interact with it. Two primary actors are identified: the \textbf{Passenger} and the \textbf{Operator}. The diagram provides a simplified graphical representation of the system's functionalities and the interactions each actor may perform.
 
-\begin{figure}[h]
+\begin{figure}[H]
 \centering
-\includegraphics[width=0.85\textwidth]{images/use_case_diagram.png}
-% \caption{Use case diagram showing how users interact with the Traxis system}
+\includegraphics[width=0.65\textwidth]{images/use_case_diagram.png}
+\caption{Use case diagram showing how users interact with the Traxis system}
 \label{fig:use_case}
 \end{figure}
 
@@ -142,7 +142,7 @@ The use case diagram below illustrates the different types of users of the syste
 
 A context diagram describes the logical flow of data within the system, illustrating how each user type interacts with the system from authentication through to completing their primary tasks. The Level 0 diagram below presents the system as a single process, showing all external entities and their data exchanges with the system.
 
-\begin{figure}[h]
+\begin{figure}[H]
 \centering
 \includegraphics[width=0.80\textwidth]{images/context_diagram.png}
 \caption{Level 0 Context Diagram showing the overall system boundary and external entities}
@@ -189,7 +189,7 @@ This view shows the logical functional elements of the system, clearly indicatin
 At a logical level, the system separates actions driven by user roles that interact with shared data entities:
 
 \begin{itemize}
-    \item \textbf{Entities:} Users, Trips, Bookings, Tickets, Packages, and Transport Vehicles.
+    \item \textbf{Entities:} Users, Trips, Bookings, Tickets, Packages and Transport Vehicles.
     \item A \textit{Passenger} interacts with the system to create multiple Bookings and package requests.
     \item A \textit{Booking} generates exactly one Digital Ticket and links a User to a specific Seat on a scheduled Trip.
     \item An \textit{Operator} orchestrates Trips and views aggregated metadata spanning numerous Bookings.
