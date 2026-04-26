@@ -4,11 +4,10 @@
 \contentsline {figure}{\numberline {3.1}{\ignorespaces Methodology diagram of the entire system flow}}{27}{figure.caption.7}%
 \contentsline {figure}{\numberline {3.2}{\ignorespaces Gantt Chart showing the intended work plan}}{29}{figure.caption.8}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Use case diagram showing how users interact with the Traxis system}}{36}{figure.caption.9}%
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Level 0 Context Diagram showing the overall system boundary and external entities}}{37}{figure.caption.10}%
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Level 1 Context Diagram showing internal processes and data flows}}{43}{figure.caption.11}%
-\contentsline {figure}{\numberline {4.4}{\ignorespaces Directory structure of the build and development environment}}{44}{figure.caption.12}%
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Level 0 Context Diagram showing the overall system boundary and external entities}}{42}{figure.caption.10}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces The Level 1 diagram decomposes the system further, revealing the core internal processes, data stores, and information flows between passengers, operators, and the Traxis platform.}}{43}{figure.caption.11}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5.1}{\ignorespaces Operator interfaces}}{47}{figure.caption.13}%
-\contentsline {figure}{\numberline {5.2}{\ignorespaces Operator interfaces}}{48}{figure.caption.14}%
-\contentsline {figure}{\numberline {5.3}{\ignorespaces Operator interfaces}}{49}{figure.caption.15}%
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Authentucation interfaces}}{46}{figure.caption.12}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Operator interfaces}}{47}{figure.caption.13}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Operator interfaces}}{48}{figure.caption.14}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Operator interfaces}}{49}{figure.caption.15}%
