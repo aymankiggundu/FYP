@@ -79,9 +79,9 @@
 \contentsline {subsection}{\numberline {5.2.1}Implementation tools}{44}{subsection.5.2.1}%
 \contentsline {subsection}{\numberline {5.2.2}User interface design}{45}{subsection.5.2.2}%
 \contentsline {subsubsection}{Account Creation}{45}{subsection.5.2.2}%
-\contentsline {subsubsection}{Operator Actions}{46}{subsection.5.2.2}%
-\contentsline {subsubsection}{Passenger Actions}{46}{figure.caption.12}%
-\contentsline {subsection}{\numberline {5.2.3}System Testing and Validation}{47}{subsection.5.2.3}%
+\contentsline {subsubsection}{Operator Actions}{47}{figure.caption.12}%
+\contentsline {subsubsection}{Passenger Actions}{48}{figure.caption.13}%
+\contentsline {subsection}{\numberline {5.2.3}System Testing and Validation}{49}{subsection.5.2.3}%
 \contentsline {subsection}{\numberline {5.2.4}Testing strategy and tools}{49}{subsection.5.2.4}%
 \contentsline {chapter}{References}{50}{subsection.5.2.4}%
 \contentsline {chapter}{Appendices}{59}{appendix*.16}%
