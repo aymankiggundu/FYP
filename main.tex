@@ -55,6 +55,9 @@
 \usepackage{caption}
 \usepackage{subcaption}
 
+% Custom command to add a thin border around screenshots
+\newcommand{\bordergraphics}[2][]{\begingroup\setlength{\fboxsep}{0pt}\setlength{\fboxrule}{0.5pt}\fbox{\includegraphics[#1]{#2}}\endgroup}
+
 \begin{document}
 
 \pagenumbering{roman} % Use roman numerals for front matter
