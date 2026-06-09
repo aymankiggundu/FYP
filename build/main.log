@@ -1,9 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.17)  26 APR 2026 15:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.17)  9 JUN 2026 15:39
 entering extended mode
  \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
-**main.tex
-(./main.tex
+**/Users/aymankiggundu/Desktop/FYP/FYP/main.tex
+(/Users/aymankiggundu/Desktop/FYP/FYP/main.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
 (/usr/local/texlive/2026basic/texmf-dist/tex/latex/base/report.cls
@@ -23,16 +24,13 @@ File: size12.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
 \bibindent=\dimen148
-)
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/base/inputenc.sty
+) (/usr/local/texlive/2026basic/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2024/02/08 v1.3d Input encoding file
 \inpenc@prehook=\toks17
 \inpenc@posthook=\toks18
-)
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/base/fontenc.sty
+) (/usr/local/texlive/2026basic/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
-)
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/lm/lmodern.sty
+) (/usr/local/texlive/2026basic/texmf-dist/tex/latex/lm/lmodern.sty
 Package: lmodern 2015/05/01 v1.6.1 Latin Modern Fonts
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
@@ -66,35 +64,24 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
-)
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/hyperref/hyperref.sty
+) (/usr/local/texlive/2026basic/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2026-01-29 v7.01p Hypertext links for LaTeX
-
-(/usr/local/texlive/2026basic/texmf-dist/tex/generic/iftex/iftex.sty
+ (/usr/local/texlive/2026basic/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2024/12/12 v1.0g TeX engine tests
-)
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/graphics/keyval.sty
+) (/usr/local/texlive/2026basic/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks19
-)
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+) (/usr/local/texlive/2026basic/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
-)
-(/usr/local/texlive/2026basic/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.
-sty
+) (/usr/local/texlive/2026basic/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-)
-(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+) (/usr/local/texlive/2026basic/texmf-dist/tex/generic/pdfescape/pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-
-(/usr/local/texlive/2026basic/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+ (/usr/local/texlive/2026basic/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
-)
-(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
-)
-
-(/usr/local/texlive/2026basic/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+) (/usr/local/texlive/2026basic/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (/usr/local/texlive/2026basic/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
@@ -102,45 +89,34 @@ Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )) (/usr/local/texlive/2026basic/texmf-dist/tex/latex/hycolor/hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
-)
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/hyperref/nameref.sty
+) (/usr/local/texlive/2026basic/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2026-01-29 v2.58 Cross-referencing by name of section
-
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/refcount/refcount.sty
+ (/usr/local/texlive/2026basic/texmf-dist/tex/latex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-)
-(/usr/local/texlive/2026basic/texmf-dist/tex/generic/gettitlestring/gettitlestr
-ing.sty
+) (/usr/local/texlive/2026basic/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
-
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+ (/usr/local/texlive/2026basic/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
 \c@section@level=\count284
-)
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+) (/usr/local/texlive/2026basic/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count285
-)
-(/usr/local/texlive/2026basic/texmf-dist/tex/generic/stringenc/stringenc.sty
-Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
-)
+) (/usr/local/texlive/2026basic/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
 )
 \@linkdim=\dimen149
 \Hy@linkcounter=\count286
 \Hy@pagecounter=\count287
-
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/hyperref/pd1enc.def
+ (/usr/local/texlive/2026basic/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2026-01-29 v7.01p Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
-)
-(/usr/local/texlive/2026basic/texmf-dist/tex/generic/intcalc/intcalc.sty
+) (/usr/local/texlive/2026basic/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
 \Hy@SavedSpaceFactor=\count288
-
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/hyperref/puenc.def
+ (/usr/local/texlive/2026basic/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2026-01-29 v7.01p Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
@@ -153,20 +129,16 @@ Package hyperref Info: Backreferencing OFF on input line 4221.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4468.
 \c@Hy@tempcnt=\count289
-
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/url/url.sty
+ (/usr/local/texlive/2026basic/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4807.
 \XeTeXLinkMargin=\dimen150
-
-(/usr/local/texlive/2026basic/texmf-dist/tex/generic/bitset/bitset.sty
+ (/usr/local/texlive/2026basic/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
-
-(/usr/local/texlive/2026basic/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
-Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
-)
+ (/usr/local/texlive/2026basic/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
 \Fld@menulength=\count290
 \Field@Width=\dimen151
@@ -187,24 +159,17 @@ Package hyperref Info: Driver (autodetected): hpdftex.
 File: hpdftex.def 2026-01-29 v7.01p Hyperref driver for pdfTeX
 \Fld@listcount=\count294
 \c@bookmark@seq@number=\count295
-
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/rerunfilecheck/rerunfilechec
-k.sty
+ (/usr/local/texlive/2026basic/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
-
-(/usr/local/texlive/2026basic/texmf-dist/tex/generic/uniquecounter/uniquecounte
-r.sty
+ (/usr/local/texlive/2026basic/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
-84.
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 284.
 )
 \Hy@SectionHShift=\skip51
-)
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/geometry/geometry.sty
+) (/usr/local/texlive/2026basic/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
-
-(/usr/local/texlive/2026basic/texmf-dist/tex/generic/iftex/ifvtex.sty
+ (/usr/local/texlive/2026basic/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
 \Gm@cnth=\count296
@@ -219,44 +184,34 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layouthoffset=\dimen159
 \Gm@layoutvoffset=\dimen160
 \Gm@dimlist=\toks20
-)
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/base/textcomp.sty
+) (/usr/local/texlive/2026basic/texmf-dist/tex/latex/base/textcomp.sty
 Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
-)
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/graphics/graphicx.sty
+) (/usr/local/texlive/2026basic/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
-
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/graphics/graphics.sty
+ (/usr/local/texlive/2026basic/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
-
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/graphics/trig.sty
+ (/usr/local/texlive/2026basic/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
-)
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+) (/usr/local/texlive/2026basic/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 106.
-
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/graphics-def/pdftex.def
+ (/usr/local/texlive/2026basic/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen161
 \Gin@req@width=\dimen162
-)
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/cite/cite.sty
+) (/usr/local/texlive/2026basic/texmf-dist/tex/latex/cite/cite.sty
 LaTeX Info: Redefining \cite on input line 302.
 LaTeX Info: Redefining \nocite on input line 332.
 Package: cite 2015/02/27  v 5.5
-)
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/xcolor/xcolor.sty
+) (/usr/local/texlive/2026basic/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
-
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/graphics-cfg/color.cfg
+ (/usr/local/texlive/2026basic/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 274.
-
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+ (/usr/local/texlive/2026basic/texmf-dist/tex/latex/graphics/mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
 Package xcolor Info: Model `RGB' extended on input line 1365.
@@ -266,25 +221,21 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
-)
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/amsmath/amsmath.sty
+) (/usr/local/texlive/2026basic/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2025/07/09 v2.17z AMS math features
 \@mathmargin=\skip52
 
 For additional information on amsmath, use the `?' option.
 (/usr/local/texlive/2026basic/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2024/11/17 v2.01 AMS text
-
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/amsmath/amsgen.sty
+ (/usr/local/texlive/2026basic/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks21
 \ex@=\dimen163
-))
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/amsmath/amsbsy.sty
+)) (/usr/local/texlive/2026basic/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen164
-)
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/amsmath/amsopn.sty
+) (/usr/local/texlive/2026basic/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
 \inf@bad=\count299
@@ -334,22 +285,18 @@ LaTeX Info: Redefining \Relbar on input line 970.
 \mathdisplay@stack=\toks25
 LaTeX Info: Redefining \[ on input line 2950.
 LaTeX Info: Redefining \] on input line 2951.
-)
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/amsfonts/amssymb.sty
+) (/usr/local/texlive/2026basic/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
-
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+ (/usr/local/texlive/2026basic/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-))
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/algorithms/algorithmic.sty
+)) (/usr/local/texlive/2026basic/texmf-dist/tex/latex/algorithms/algorithmic.sty
 Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
-
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/base/ifthen.sty
+ (/usr/local/texlive/2026basic/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
 )
 \c@ALC@unique=\count311
@@ -358,10 +305,8 @@ Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
 \c@ALC@depth=\count314
 \ALC@tlm=\skip55
 \algorithmicindent=\skip56
-)
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+) (/usr/local/texlive/2026basic/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
-
 \f@nch@headwidth=\skip57
 \f@nch@offset@elh=\skip58
 \f@nch@offset@erh=\skip59
@@ -377,42 +322,30 @@ Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
 \f@nch@widthC=\skip69
 \f@nch@widthR=\skip70
 \@temptokenb=\toks26
-)
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/nomencl/nomencl.sty
+) (/usr/local/texlive/2026basic/texmf-dist/tex/latex/nomencl/nomencl.sty
 Package: nomencl 2021/11/10 v5.6 Nomenclature package
-
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+ (/usr/local/texlive/2026basic/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2025/11/04 v2.10 package option processing (HA)
-
-(/usr/local/texlive/2026basic/texmf-dist/tex/generic/xkeyval/xkeyval.tex
-(/usr/local/texlive/2026basic/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+ (/usr/local/texlive/2026basic/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/local/texlive/2026basic/texmf-dist/tex/generic/xkeyval/xkvutils.tex
 \XKV@toks=\toks27
 \XKV@tempa@toks=\toks28
 \XKV@tempb@toks=\toks29
 )
 \XKV@depth=\count315
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-))
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/koma-script/tocbasic.sty
+)) (/usr/local/texlive/2026basic/texmf-dist/tex/latex/koma-script/tocbasic.sty
 Package: tocbasic 2026/02/02 v3.49.2 KOMA-Script package (handling toc-files)
-
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/koma-script/scrbase.sty
-Package: scrbase 2026/02/02 v3.49.2 KOMA-Script package (KOMA-Script-independen
-t basics and keyval usage)
-
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/koma-script/scrlfile.sty
+ (/usr/local/texlive/2026basic/texmf-dist/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2026/02/02 v3.49.2 KOMA-Script package (KOMA-Script-independent basics and keyval usage)
+ (/usr/local/texlive/2026basic/texmf-dist/tex/latex/koma-script/scrlfile.sty
 Package: scrlfile 2026/02/02 v3.49.2 KOMA-Script package (file load hooks)
-
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/koma-script/scrlfile-hook.st
-y
-Package: scrlfile-hook 2026/02/02 v3.49.2 KOMA-Script package (using LaTeX hook
-s)
+ (/usr/local/texlive/2026basic/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
+Package: scrlfile-hook 2026/02/02 v3.49.2 KOMA-Script package (using LaTeX hooks)
  (/usr/local/texlive/2026basic/texmf-dist/tex/latex/koma-script/scrlogo.sty
 Package: scrlogo 2026/02/02 v3.49.2 KOMA-Script package (logo)
 )))
 Applying: [2021/05/01] Usage of raw or classic option list on input line 254.
-Already applied: [0000/00/00] Usage of raw or classic option list on input line
- 370.
+Already applied: [0000/00/00] Usage of raw or classic option list on input line 370.
 )
 \scr@dte@tocline@numberwidth=\skip71
 \scr@dte@tocline@numbox=\box55
@@ -429,8 +362,7 @@ Package: appendix 2020/02/08 v1.2c extra appendix facilities
 \c@@pps=\count316
 \c@@ppsavesec=\count317
 \c@@ppsaveapp=\count318
-)
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/tocloft/tocloft.sty
+) (/usr/local/texlive/2026basic/texmf-dist/tex/latex/tocloft/tocloft.sty
 Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
 Package tocloft Info: The document has chapter divisions on input line 51.
 \cftparskip=\skip73
@@ -469,11 +401,9 @@ Package tocloft Info: The document has chapter divisions on input line 51.
 \cftbeforetabskip=\skip104
 \cfttabindent=\skip105
 \cfttabnumwidth=\skip106
-)
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/tools/tabularx.sty
+) (/usr/local/texlive/2026basic/texmf-dist/tex/latex/tools/tabularx.sty
 Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
-
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/tools/array.sty
+ (/usr/local/texlive/2026basic/texmf-dist/tex/latex/tools/array.sty
 Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
 \col@sep=\dimen174
 \ar@mcellbox=\box56
@@ -490,14 +420,12 @@ Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
 \TX@delta=\dimen180
 \TX@cols=\count321
 \TX@ftn=\toks31
-)
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/colortbl/colortbl.sty
+) (/usr/local/texlive/2026basic/texmf-dist/tex/latex/colortbl/colortbl.sty
 Package: colortbl 2024/10/29 v1.0k Color table columns (DPC)
 \everycr=\toks32
 \minrowclearance=\skip109
 \rownum=\count322
-)
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/tools/longtable.sty
+) (/usr/local/texlive/2026basic/texmf-dist/tex/latex/tools/longtable.sty
 Package: longtable 2025-10-13 v4.24 Multi-page Table package (DPC)
 \LTleft=\skip110
 \LTright=\skip111
@@ -515,19 +443,13 @@ Package: longtable 2025-10-13 v4.24 Multi-page Table package (DPC)
 \c@LT@tables=\count326
 \c@LT@chunks=\count327
 \LT@p@ftn=\toks33
-)
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/tabularray/tabularray.sty
+) (/usr/local/texlive/2026basic/texmf-dist/tex/latex/tabularray/tabularray.sty
 Package: tabularray 2025-11-27 v2025C Typeset tabulars and arrays with LaTeX3
-
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/ninecolors/ninecolors.sty
+ (/usr/local/texlive/2026basic/texmf-dist/tex/latex/ninecolors/ninecolors.sty
 Package: ninecolors 2022-02-13 v2022D Select colors with proper color contrast
-
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/l3kernel/expl3.sty
+ (/usr/local/texlive/2026basic/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (/usr/local/texlive/2026basic/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2026-01-19 L3 programming layer (loader) 
-
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/l3backend/l3backend-pdftex.d
-ef
+ (/usr/local/texlive/2026basic/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count328
 ))
@@ -657,14 +579,11 @@ Package: xparse 2025-10-09 L3 Experimental document command parser
 \l__tblr_last_cell_table_dp_dim=\dimen294
 \l__tblr_last_vline_wd_dim=\dimen295
 \l__tblr_tikz_node_box=\box90
-)
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/caption/subcaption.sty
+) (/usr/local/texlive/2026basic/texmf-dist/tex/latex/caption/subcaption.sty
 Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
-
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/caption/caption.sty
+ (/usr/local/texlive/2026basic/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2023/08/05 v3.6o Customizing captions (AR)
-
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/caption/caption3.sty
+ (/usr/local/texlive/2026basic/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
 \caption@tempdima=\dimen296
 \captionmargin=\dimen297
@@ -680,16 +599,14 @@ Package caption Info: Standard document class detected.
 \c@continuedfloat=\count368
 Package caption Info: hyperref package is loaded.
 Package caption Info: longtable package is loaded.
-
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/caption/ltcaption.sty
+ (/usr/local/texlive/2026basic/texmf-dist/tex/latex/caption/ltcaption.sty
 Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 ))
 Package caption Info: New subtype `subfigure' on input line 238.
 \c@subfigure=\count369
 Package caption Info: New subtype `subtable' on input line 238.
 \c@subtable=\count370
-)
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/booktabs/booktabs.sty
+) (/usr/local/texlive/2026basic/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \heavyrulewidth=\dimen304
 \lightrulewidth=\dimen305
@@ -708,78 +625,51 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \@thisruleclass=\count373
 \@lastruleclass=\count374
 \@thisrulewidth=\dimen316
-)
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/svg/svg.sty
+) (/usr/local/texlive/2026basic/texmf-dist/tex/latex/svg/svg.sty
 Package: svg 2020/11/26 v2.02k (include SVG pictures)
-
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+ (/usr/local/texlive/2026basic/texmf-dist/tex/latex/trimspaces/trimspaces.sty
 Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
-)
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/tools/shellesc.sty
+) (/usr/local/texlive/2026basic/texmf-dist/tex/latex/tools/shellesc.sty
 Package: shellesc 2023/07/08 v1.0d unified shell escape interface for LaTeX
 Package shellesc Info: Unrestricted shell escape enabled on input line 75.
-)
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/ifplatform/ifplatform.sty
+) (/usr/local/texlive/2026basic/texmf-dist/tex/latex/ifplatform/ifplatform.sty
 Package: ifplatform 2017/10/13 v0.4a Testing for the operating system
-
-(/usr/local/texlive/2026basic/texmf-dist/tex/generic/catchfile/catchfile.sty
+ (/usr/local/texlive/2026basic/texmf-dist/tex/generic/catchfile/catchfile.sty
 Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
-
-(/usr/local/texlive/2026basic/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+ (/usr/local/texlive/2026basic/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
-))
-(/usr/local/texlive/2026basic/texmf-dist/tex/generic/iftex/ifluatex.sty
+)) (/usr/local/texlive/2026basic/texmf-dist/tex/generic/iftex/ifluatex.sty
 Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
 )
 runsystem(uname -s > "main.w18")...executed.
 
-
-(./main.w18)
+ (./main.w18)
 runsystem(rm -- "main.w18")...executed.
 
 )
 \c@svg@param@lastpage=\count375
 \svg@box=\box91
 \c@svg@param@currpage=\count376
-)
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/transparent/transparent.sty
+) (/usr/local/texlive/2026basic/texmf-dist/tex/latex/transparent/transparent.sty
 Package: transparent 2025-06-23 v1.6 Transparency with color stacks
-
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/transparent/transparent-nome
-tadata.sty
-Package: transparent-nometadata 2025-06-23 v1.6 Transparency via pdfTeX's color
- stack (HO)
-
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/auxhook/auxhook.sty
+ (/usr/local/texlive/2026basic/texmf-dist/tex/latex/transparent/transparent-nometadata.sty
+Package: transparent-nometadata 2025-06-23 v1.6 Transparency via pdfTeX's color stack (HO)
+ (/usr/local/texlive/2026basic/texmf-dist/tex/latex/auxhook/auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
-)))
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
-(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/utilities/pgfutil-comm
-on.tex
+))) (/usr/local/texlive/2026basic/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (/usr/local/texlive/2026basic/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
 \pgfutil@everybye=\toks34
 \pgfutil@tempdima=\dimen317
 \pgfutil@tempdimb=\dimen318
-)
-(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/utilities/pgfutil-late
-x.def
+) (/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
 \pgfutil@abb=\box92
-)
-(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.
-tex (/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+) (/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex (/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/pgf.revision.tex)
 Package: pgfrcs 2025-08-29 v3.1.11a (3.1.11a)
-))
-(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.cod
-e.tex
+)) (/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
 Package: pgfsys 2025-08-29 v3.1.11a (3.1.11a)
-
-(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code
-.tex
+ (/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
 \pgfkeys@pathtoks=\toks35
 \pgfkeys@temptoks=\toks36
-
-(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibra
-ryfiltered.code.tex
+ (/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.code.tex
 \pgfkeys@tmptoks=\toks37
 ))
 \pgf@x=\dimen319
@@ -802,102 +692,86 @@ ryfiltered.code.tex
 \t@pgf@tokb=\toks39
 \t@pgf@tokc=\toks40
 \pgf@sys@id@count=\count381
-
-(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+ (/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2025-08-29 v3.1.11a (3.1.11a)
 )
 Driver file for pgf: pgfsys-pdftex.def
-
-(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdf
-tex.def
+ (/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
 File: pgfsys-pdftex.def 2025-08-29 v3.1.11a (3.1.11a)
-
-(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-com
-mon-pdf.def
+ (/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
 File: pgfsys-common-pdf.def 2025-08-29 v3.1.11a (3.1.11a)
-)))
-(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoft
-path.code.tex
+))) (/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfsyssoftpath@smallbuffer@items=\count382
 \pgfsyssoftpath@bigbuffer@items=\count383
-)
-(/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprot
-ocol.code.tex
+) (/usr/local/texlive/2026basic/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-))
-Package hyperref Info: Option `colorlinks' set `true' on input line 36.
+)) (/usr/local/texlive/2026basic/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count384
+\float@exts=\toks41
+\float@box=\box93
+\@float@everytoks=\toks42
+\@floatcapt=\box94
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 37.
 \@nomenclaturefile=\write4
 \openout4 = `main.nlo'.
 
-Package nomencl Info: Writing nomenclature file main.nlo on input line 38.
+Package nomencl Info: Writing nomenclature file main.nlo on input line 39.
 
 
-Package fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less.
-(fancyhdr)                Please consider using the `twoside' option on input l
-ine 43.
+Package fancyhdr Warning: \fancyhead's `E' option without twoside option is useless.
+(fancyhdr)                Please consider using the `twoside' option on input line 44.
 
 
-Package fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less.
-(fancyhdr)                Please consider using the `twoside' option on input l
-ine 44.
+Package fancyhdr Warning: \fancyhead's `E' option without twoside option is useless.
+(fancyhdr)                Please consider using the `twoside' option on input line 45.
 
 (/usr/local/texlive/2026basic/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2025/01/04 v2.17 Sectioning titles
-\ttl@box=\box93
+\ttl@box=\box95
 \beforetitleunit=\skip114
 \aftertitleunit=\skip115
 \ttl@plus=\dimen329
 \ttl@minus=\dimen330
-\ttl@toksa=\toks41
+\ttl@toksa=\toks43
 \titlewidth=\dimen331
 \titlewidthlast=\dimen332
 \titlewidthfirst=\dimen333
-)
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/graphics/rotating.sty
+) (/usr/local/texlive/2026basic/texmf-dist/tex/latex/graphics/rotating.sty
 Package: rotating 2025/01/14 v2.16e rotated objects in LaTeX
-\c@r@tfl@t=\count384
+\c@r@tfl@t=\count385
 \rotFPtop=\skip116
 \rotFPbot=\skip117
-\rot@float@box=\box94
-\rot@mess@toks=\toks42
+\rot@float@box=\box96
+\rot@mess@toks=\toks44
 )
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 57
-.
-
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/lm/t1lmr.fd
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 58.
+ (/usr/local/texlive/2026basic/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-) (build/main.aux
-
-LaTeX Warning: Label `fig:operator-interfaces' multiply defined.
-
-
-LaTeX Warning: Label `fig:passenger-interfaces' multiply defined.
-
-)
+) (build/main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-Package hyperref Info: Link coloring ON on input line 57.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+Package hyperref Info: Link coloring ON on input line 58.
  (build/main.out) (build/main.out)
 \@outlinefile=\write5
 \openout5 = `main.out'.
@@ -939,29 +813,25 @@ Package hyperref Info: Link coloring ON on input line 57.
 
 (/usr/local/texlive/2026basic/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count385
+\scratchcounter=\count386
 \scratchdimen=\dimen334
-\scratchbox=\box95
-\nofMPsegments=\count386
-\nofMParguments=\count387
-\everyMPshowfont=\toks43
-\MPscratchCnt=\count388
+\scratchbox=\box97
+\nofMPsegments=\count387
+\nofMParguments=\count388
+\everyMPshowfont=\toks45
+\MPscratchCnt=\count389
 \MPscratchDim=\dimen335
-\MPnumerator=\count389
-\makeMPintoPDFobject=\count390
-\everyMPtoPDFconversion=\toks44
-)
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.s
-ty
+\MPnumerator=\count390
+\makeMPintoPDFobject=\count391
+\everyMPtoPDFconversion=\toks46
+) (/usr/local/texlive/2026basic/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-85.
-
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/usr/local/texlive/2026basic/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
 Package caption Info: rotating package is loaded.
 Package caption Info: End \AtBeginDocument code.
  (./titlepage.tex
@@ -977,79 +847,62 @@ Package pdftex.def Info: images/red _line.png  used on input line 7.
 (pdftex.def)             Requested size: 469.78587pt x 5.68878pt.
  [1
 
-{/usr/local/texlive/2026basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/us
-r/local/texlive/2026basic/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc} <./images/Lo
-go2.png> <./images/red _line.png>]) (./declaration.tex
-LaTeX Font Info:    Trying to load font information for T1+ptm on input line 8.
-
-
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/psnfss/t1ptm.fd
+{/usr/local/texlive/2026basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2026basic/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc} <./images/Logo2.png> <./images/red _line.png>]) (./declaration.tex
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 12.
+ (/usr/local/texlive/2026basic/texmf-dist/tex/latex/psnfss/t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 9
-.
-
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/lm/ot1lmr.fd
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 14.
+ (/usr/local/texlive/2026basic/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 9
-.
-
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/lm/omllmm.fd
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 14.
+ (/usr/local/texlive/2026basic/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-9.
-
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/lm/omslmsy.fd
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 14.
+ (/usr/local/texlive/2026basic/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-9.
-
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/lm/omxlmex.fd
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 14.
+ (/usr/local/texlive/2026basic/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 9.
+(Font)              <12> on input line 14.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 9.
+(Font)              <8> on input line 14.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 9.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 9.
-
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/amsfonts/umsa.fd
+(Font)              <6> on input line 14.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 14.
+ (/usr/local/texlive/2026basic/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 9.
-
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/amsfonts/umsb.fd
+LaTeX Font Info:    Trying to load font information for U+msb on input line 14.
+ (/usr/local/texlive/2026basic/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (10.4347pt too wide) in paragraph at lines 9--23
+Overfull \hbox (10.4347pt too wide) in paragraph at lines 14--25
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--23
+Underfull \hbox (badness 10000) in paragraph at lines 14--25
 
  []
 
 ) (./approval.tex
-pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has 
-been already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.1 \chapter
             *{Approval} [1
 
-{/usr/local/texlive/2026basic/texmf-dist/fonts/enc/dvips/base/8r.enc}]) (./dedi
-cation.tex [2
+{/usr/local/texlive/2026basic/texmf-dist/fonts/enc/dvips/base/8r.enc}]) (./dedication.tex [2
 
 ]) (./acknowledgements.tex [3
 
-])
-(./abstract.tex [4
+]) (./abstract.tex [4
 
 ]) [5
 
@@ -1061,8 +914,7 @@ cation.tex [2
 \tf@lof=\write7
 \openout7 = `main.lof'.
 
-
-(build/main.lot)
+ (build/main.lot)
 \tf@lot=\write8
 \openout8 = `main.lot'.
 
@@ -1079,8 +931,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [2]
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 5
-8.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 158.
  (/usr/local/texlive/2026basic/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -1176,1138 +1027,1132 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [14]
-Overfull \hbox (2.55156pt too wide) in paragraph at lines 160--160
-|[]\T1/lmr/bx/n/14.4 Comparative anal-y-sis ta-ble of the dif-fer-ent ride-hail
-ing plat-
+Overfull \hbox (2.55156pt too wide) in paragraph at lines 641--641
+|[]\T1/lmr/bx/n/14.4 Comparative anal-y-sis ta-ble of the dif-fer-ent ride-hailing plat-
  []
 
 
-Overfull \hbox (8.3027pt too wide) in paragraph at lines 309--309
+Overfull \hbox (8.3027pt too wide) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Transport
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Booking
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Route
  []
 
 
-Underfull \hbox (badness 1365) in paragraph at lines 309--309
+Underfull \hbox (badness 1365) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Seat man-
  []
 
 
-Overfull \hbox (4.12946pt too wide) in paragraph at lines 309--309
+Overfull \hbox (4.12946pt too wide) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Operational
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 co-or-di-na-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Pricing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Courier
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 in-te-gra-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Fixed-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 route
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 pri-vate
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 shut-tle
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 co-or-di-
  []
 
 
-Overfull \hbox (6.73666pt too wide) in paragraph at lines 309--309
+Overfull \hbox (6.73666pt too wide) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Independent
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
-\T1/lmr/m/n/12 seat-based
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Fixed
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 in-ter-city
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 routes
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 (e.g.,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 Kam-
  []
 
 
-Overfull \hbox (10.97969pt too wide) in paragraph at lines 309--309
+Overfull \hbox (10.97969pt too wide) in paragraph at lines 726--726
 \T1/lmr/m/n/12 pala^^UKabale) 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Real-time
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 seat al-lo-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Operator-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 level
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 shut-tle
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 man-age-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Fixed
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 fare per
  []
 
 
-Underfull \hbox (badness 6978) in paragraph at lines 309--309
+Underfull \hbox (badness 6978) in paragraph at lines 726--726
 \T1/lmr/m/n/12 seat and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 courier
  []
 
 
-Underfull \hbox (badness 1466) in paragraph at lines 309--309
+Underfull \hbox (badness 1466) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Fully in-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 te-grated
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 pas-sen-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 ger and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 par-cel
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Point-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 to-point
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 nav-i-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 ga-tion
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or trip
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 plan-ning
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Dynamic
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or user-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 PNot ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 posed to
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Driver-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 passenger
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 match-ing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or route
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Dynamic
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 distance-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Separate
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or lim-
  []
 
 
-Overfull \hbox (3.99478pt too wide) in paragraph at lines 309--309
+Overfull \hbox (3.99478pt too wide) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Safeboda 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Point-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 to-point
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 nav-i-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 ga-tion
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or trip
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 plan-ning
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Dynamic
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or user-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 PNot ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 posed to
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Driver-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 passenger
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 match-ing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or route
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Dynamic
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 distance-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Separate
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or lim-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Taxify
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Point-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 to-point
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 nav-i-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 ga-tion
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or trip
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 plan-ning
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Dynamic
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or user-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 PNot ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 posed to
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Driver-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 passenger
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 match-ing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or route
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Dynamic
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 distance-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Separate
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or lim-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Point-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 to-point
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 nav-i-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 ga-tion
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or trip
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 plan-ning
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Dynamic
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or user-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 PNot ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 posed to
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Driver-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
-\T1/lmr/m/n/12 passenger
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 pas-sen-ger
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 match-ing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or route
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Dynamic
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 distance-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Separate
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or lim-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Point-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 to-point
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 nav-i-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 ga-tion
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or trip
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 plan-ning
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Dynamic
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or user-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 PNot ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 posed to
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Driver-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 passenger
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 match-ing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or route
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Dynamic
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 distance-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Separate
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or lim-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Transit
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Point-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 to-point
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 nav-i-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 ga-tion
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or trip
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 plan-ning
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Dynamic
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or user-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 PNot ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 posed to
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Driver-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 passenger
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 match-ing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or route
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Dynamic
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 distance-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Separate
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or lim-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Shared
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 mass
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 tran-sit
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 (bus-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 like
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 sys-
  []
 
 
-Overfull \hbox (27.12207pt too wide) in paragraph at lines 309--309
+Overfull \hbox (27.12207pt too wide) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Grouped/shared
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 ride
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 match-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Algorithm-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 optimized
  []
 
 
-Underfull \hbox (badness 3343) in paragraph at lines 309--309
+Underfull \hbox (badness 3343) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or flex-i-ble
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Limited
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 group-ing,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 not seat-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 by-seat
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 System-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 level fleet
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 op-ti-miza-
  []
 
 
-Overfull \hbox (30.443pt too wide) in paragraph at lines 309--309
+Overfull \hbox (30.443pt too wide) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Variable/shared
  []
 
 
-Underfull \hbox (badness 1067) in paragraph at lines 309--309
+Underfull \hbox (badness 1067) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Not core
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 func-tion-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Shared
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 mass
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 tran-sit
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 (bus-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 like
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 sys-
  []
 
 
-Overfull \hbox (27.12207pt too wide) in paragraph at lines 309--309
+Overfull \hbox (27.12207pt too wide) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Grouped/shared
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 ride
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 match-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Algorithm-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 optimized
  []
 
 
-Underfull \hbox (badness 3343) in paragraph at lines 309--309
+Underfull \hbox (badness 3343) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or flex-i-ble
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Limited
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 group-ing,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 not seat-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 by-seat
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 System-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 level fleet
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 op-ti-miza-
  []
 
 
-Overfull \hbox (30.443pt too wide) in paragraph at lines 309--309
+Overfull \hbox (30.443pt too wide) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Variable/shared
  []
 
 
-Underfull \hbox (badness 1067) in paragraph at lines 309--309
+Underfull \hbox (badness 1067) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Not core
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 func-tion-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Point-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 to-point
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 nav-i-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 ga-tion
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or trip
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 plan-ning
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Dynamic
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or user-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 PNot ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 posed to
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Driver-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 passenger
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 match-ing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or route
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Dynamic
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 distance-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Separate
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or lim-
  []
 
 
-Overfull \hbox (8.3027pt too wide) in paragraph at lines 309--309
+Overfull \hbox (8.3027pt too wide) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Transport
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Booking
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Route
  []
 
 
-Underfull \hbox (badness 1365) in paragraph at lines 309--309
+Underfull \hbox (badness 1365) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Seat man-
  []
 
 
-Overfull \hbox (4.12946pt too wide) in paragraph at lines 309--309
+Overfull \hbox (4.12946pt too wide) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Operational
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 co-or-di-na-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Pricing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Courier
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 in-te-gra-
  []
 
@@ -2319,632 +2164,627 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [15]
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Fixed-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 route
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 pri-vate
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 shut-tle
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 co-or-di-
  []
 
 
-Overfull \hbox (6.73666pt too wide) in paragraph at lines 309--309
+Overfull \hbox (6.73666pt too wide) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Independent
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
-\T1/lmr/m/n/12 seat-based
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Fixed
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 in-ter-city
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 routes
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 (e.g.,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 Kam-
  []
 
 
-Overfull \hbox (10.97969pt too wide) in paragraph at lines 309--309
+Overfull \hbox (10.97969pt too wide) in paragraph at lines 726--726
 \T1/lmr/m/n/12 pala^^UKabale) 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Real-time
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 seat al-lo-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Operator-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 level
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 shut-tle
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 man-age-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Fixed
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 fare per
  []
 
 
-Underfull \hbox (badness 6978) in paragraph at lines 309--309
+Underfull \hbox (badness 6978) in paragraph at lines 726--726
 \T1/lmr/m/n/12 seat and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 courier
  []
 
 
-Underfull \hbox (badness 1466) in paragraph at lines 309--309
+Underfull \hbox (badness 1466) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Fully in-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 te-grated
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 pas-sen-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 ger and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 par-cel
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Point-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 to-point
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 nav-i-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 ga-tion
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or trip
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 plan-ning
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Dynamic
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or user-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 PNot ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 posed to
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Driver-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 passenger
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 match-ing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or route
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Dynamic
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 distance-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Separate
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or lim-
  []
 
 
-Overfull \hbox (3.99478pt too wide) in paragraph at lines 309--309
+Overfull \hbox (3.99478pt too wide) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Safeboda 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Point-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 to-point
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 nav-i-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 ga-tion
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or trip
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 plan-ning
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Dynamic
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or user-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 PNot ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 posed to
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Driver-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 passenger
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 match-ing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or route
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Dynamic
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 distance-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Separate
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or lim-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Taxify
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Point-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 to-point
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 nav-i-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 ga-tion
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or trip
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 plan-ning
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Dynamic
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or user-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 PNot ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 posed to
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Driver-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 passenger
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 match-ing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or route
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Dynamic
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 distance-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Separate
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or lim-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Point-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 to-point
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 nav-i-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 ga-tion
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or trip
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 plan-ning
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Dynamic
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or user-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 PNot ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 posed to
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Driver-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
-\T1/lmr/m/n/12 passenger
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 pas-sen-ger
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 match-ing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or route
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Dynamic
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 distance-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Separate
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or lim-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Point-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 to-point
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 nav-i-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 ga-tion
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or trip
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 plan-ning
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Dynamic
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or user-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 PNot ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 posed to
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Driver-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 passenger
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 match-ing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or route
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Dynamic
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 distance-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Separate
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or lim-
  []
 
 
-Overfull \hbox (42.4098pt too wide) detected at line 309
+Overfull \hbox (42.4098pt too wide) detected at line 726
  [] 
  []
 
@@ -2956,422 +2796,422 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [16]
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Transit
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Point-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 to-point
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 nav-i-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 ga-tion
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or trip
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 plan-ning
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Dynamic
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or user-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 PNot ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 posed to
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Driver-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 passenger
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 match-ing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or route
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Dynamic
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 distance-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Separate
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or lim-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Shared
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 mass
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 tran-sit
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 (bus-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 like
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 sys-
  []
 
 
-Overfull \hbox (27.12207pt too wide) in paragraph at lines 309--309
+Overfull \hbox (27.12207pt too wide) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Grouped/shared
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 ride
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 match-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Algorithm-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 optimized
  []
 
 
-Underfull \hbox (badness 3343) in paragraph at lines 309--309
+Underfull \hbox (badness 3343) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or flex-i-ble
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Limited
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 group-ing,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 not seat-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 by-seat
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 System-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 level fleet
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 op-ti-miza-
  []
 
 
-Overfull \hbox (30.443pt too wide) in paragraph at lines 309--309
+Overfull \hbox (30.443pt too wide) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Variable/shared
  []
 
 
-Underfull \hbox (badness 1067) in paragraph at lines 309--309
+Underfull \hbox (badness 1067) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Not core
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 func-tion-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Shared
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 mass
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 tran-sit
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 (bus-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 like
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 sys-
  []
 
 
-Overfull \hbox (27.12207pt too wide) in paragraph at lines 309--309
+Overfull \hbox (27.12207pt too wide) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Grouped/shared
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 ride
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 match-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Algorithm-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 optimized
  []
 
 
-Underfull \hbox (badness 3343) in paragraph at lines 309--309
+Underfull \hbox (badness 3343) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or flex-i-ble
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Limited
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 group-ing,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 not seat-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 by-seat
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 System-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 level fleet
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 op-ti-miza-
  []
 
 
-Overfull \hbox (30.443pt too wide) in paragraph at lines 309--309
+Overfull \hbox (30.443pt too wide) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Variable/shared
  []
 
 
-Underfull \hbox (badness 1067) in paragraph at lines 309--309
+Underfull \hbox (badness 1067) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Not core
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 func-tion-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Point-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 to-point
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 nav-i-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 ga-tion
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or trip
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 plan-ning
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Dynamic
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or user-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 PNot ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 posed to
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Driver-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 passenger
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 match-ing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or route
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Dynamic
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 distance-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Separate
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
 \T1/lmr/m/n/12 or lim-
  []
 
 
-Overfull \hbox (42.4098pt too wide) detected at line 309
+Overfull \hbox (42.4098pt too wide) detected at line 726
  [] 
  []
 
@@ -3419,9 +3259,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [22]
-Overfull \hbox (4.94406pt too wide) in paragraph at lines 127--128
-\T1/lmr/m/n/12 The tech-nol-ogy stack had been care-fully cho-sen to pri-or-i-t
-ize rapid de-vel-op-ment, cost-efficiency,
+Overfull \hbox (4.94406pt too wide) in paragraph at lines 252--256
+\T1/lmr/m/n/12 The tech-nol-ogy stack had been care-fully cho-sen to pri-or-i-tize rapid de-vel-op-ment, cost-efficiency,
  []
 
 
@@ -3440,7 +3279,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [24]
-Underfull \hbox (badness 10000) in paragraph at lines 160--161
+Underfull \hbox (badness 10000) in paragraph at lines 351--352
 
  []
 
@@ -3460,17 +3299,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [26]
-<images/methodology_3.png, id=703, 5272.69875pt x 2565.585pt>
+<images/methodology_3.png, id=711, 398.9304pt x 552.3837pt>
 File: images/methodology_3.png Graphic file (type png)
 <use images/methodology_3.png>
-Package pdftex.def Info: images/methodology_3.png  used on input line 235.
-(pdftex.def)             Requested size: 375.80544pt x 182.85855pt.
-
-Overfull \hbox (6.53448pt too wide) in paragraph at lines 249--250
-[]\T1/lmr/m/n/12 Database setup with \T1/lmr/bx/n/12 Post-greSQL \T1/lmr/m/n/12
- and the \T1/lmr/bx/n/12 Post-GIS \T1/lmr/m/n/12 ex-ten-sion, sup-port-ing geos
-pa-
- []
+Package pdftex.def Info: images/methodology_3.png  used on input line 485.
+(pdftex.def)             Requested size: 281.85587pt x 390.29028pt.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3480,6 +3313,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [27 <./images/methodology_3.png>]
+Overfull \hbox (6.53448pt too wide) in paragraph at lines 509--512
+[]\T1/lmr/m/n/12 Database setup with \T1/lmr/bx/n/12 Post-greSQL \T1/lmr/m/n/12 and the \T1/lmr/bx/n/12 Post-GIS \T1/lmr/m/n/12 ex-ten-sion, sup-port-ing geospa-
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -3488,22 +3325,20 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [28]
-<images/gantt_2.png, id=714, 1850.112pt x 1110.0672pt>
-File: images/gantt_2.png Graphic file (type png)
-<use images/gantt_2.png>
-Package pdftex.def Info: images/gantt_2.png  used on input line 284.
-(pdftex.def)             Requested size: 493.2442pt x 295.94492pt.
+<images/gantt_3.png, id=722, 1067.187pt x 418.6842pt>
+File: images/gantt_3.png Graphic file (type png)
+<use images/gantt_3.png>
+Package pdftex.def Info: images/gantt_3.png  used on input line 574.
+(pdftex.def)             Requested size: 493.2442pt x 193.51703pt.
 
-Overfull \hbox (23.48918pt too wide) in paragraph at lines 284--285
+Overfull \hbox (23.48918pt too wide) in paragraph at lines 574--575
  [][] 
  []
 
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 2
-93.
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 584.
 (/usr/local/texlive/2026basic/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-))
-(./chapters/System Analysis and Design.tex
+)
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -3511,7 +3346,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[29 <./images/gantt_2.png>]
+[29 <./images/gantt_3.png>]) (./chapters/System Analysis and Design.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -3548,17 +3383,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [34]
-Overfull \hbox (27.29944pt too wide) in paragraph at lines 121--122
-[]\T1/lmr/bx/n/12 Presentation Layer: \T1/lmr/m/n/12 En-com-passes all in-ter-a
-c-tive Flut-ter screens (e.g., \T1/lmtt/m/n/12 dashboard_screen\T1/lmr/m/n/12 ,
-
+Overfull \hbox (27.29944pt too wide) in paragraph at lines 281--283
+[]\T1/lmr/bx/n/12 Presentation Layer: \T1/lmr/m/n/12 En-com-passes all in-ter-ac-tive Flut-ter screens (e.g., \T1/lmtt/m/n/12 dashboard_screen\T1/lmr/m/n/12 , 
  []
 
 
-Overfull \hbox (59.73817pt too wide) in paragraph at lines 123--124
-[]\T1/lmr/bx/n/12 Core / Do-main Layer: \T1/lmr/m/n/12 Houses the busi-ness log
-ic, util-is-ing providers (e.g., \T1/lmtt/m/n/12 auth_provider.dart\T1/lmr/m/n/
-12 )
+Overfull \hbox (59.73817pt too wide) in paragraph at lines 289--292
+[]\T1/lmr/bx/n/12 Core / Do-main Layer: \T1/lmr/m/n/12 Houses the busi-ness logic, util-is-ing providers (e.g., \T1/lmtt/m/n/12 auth_provider.dart\T1/lmr/m/n/12 )
  []
 
 
@@ -3569,22 +3400,25 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [35]
-<images/use_case_diagram.png, id=781, 4178.61125pt x 6631.77625pt>
+<images/use_case_diagram.png, id=789, 1085.05376pt x 1596.96625pt>
 File: images/use_case_diagram.png Graphic file (type png)
 <use images/use_case_diagram.png>
-Package pdftex.def Info: images/use_case_diagram.png  used on input line 136.
-(pdftex.def)             Requested size: 399.29463pt x 633.66824pt.
+Package pdftex.def Info: images/use_case_diagram.png  used on input line 319.
+(pdftex.def)             Requested size: 305.33789pt x 449.38934pt.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-<images/context_diagram.png, id=782, 3789.15625pt x 2208.25pt>
+[36 <./images/use_case_diagram.png>]
+<images/context_diagram.png, id=795, 1187.43625pt x 899.36pt>
 File: images/context_diagram.png Graphic file (type png)
 <use images/context_diagram.png>
-Package pdftex.def Info: images/context_diagram.png  used on input line 147.
-(pdftex.def)             Requested size: 375.80544pt x 218.9847pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
+Package pdftex.def Info: images/context_diagram.png  used on input line 336.
+(pdftex.def)             Requested size: 375.80544pt x 284.63104pt.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3593,7 +3427,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[36]
+[37 <./images/context_diagram.png>]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -3601,36 +3435,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[37{/usr/local/texlive/2026basic/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}]
-Overfull \hbox (17.08018pt too wide) in paragraph at lines 225--226
-[]\T1/lmr/bx/n/12 Users: \T1/lmtt/m/n/12 user_id\T1/lmr/m/n/12 , \T1/lmtt/m/n/1
-2 role_type \T1/lmr/m/n/12 (cus-tomer vs. op-er-a-tor), \T1/lmtt/m/n/12 phone_n
-umber\T1/lmr/m/n/12 , \T1/lmtt/m/n/12 profile_metadata\T1/lmr/m/n/12 . 
- []
+[38{/usr/local/texlive/2026basic/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}]
+<images/FYP/eda.png, id=810, 988.69376pt x 775.89874pt>
+File: images/FYP/eda.png Graphic file (type png)
+<use images/FYP/eda.png>
+Package pdftex.def Info: images/FYP/eda.png  used on input line 511.
+(pdftex.def)             Requested size: 446.26582pt x 350.21674pt.
 
-
-Overfull \hbox (19.56969pt too wide) in paragraph at lines 226--227
-[]\T1/lmr/bx/n/12 Trips / Routes: \T1/lmtt/m/n/12 trip_id\T1/lmr/m/n/12 , \T1/l
-mtt/m/n/12 operator_id\T1/lmr/m/n/12 , \T1/lmtt/m/n/12 departure_location\T1/lm
-r/m/n/12 , \T1/lmtt/m/n/12 destination_location\T1/lmr/m/n/12 ,
- []
-
-
-Overfull \hbox (37.72989pt too wide) in paragraph at lines 228--229
-[]\T1/lmr/bx/n/12 Packages: \T1/lmtt/m/n/12 package_id\T1/lmr/m/n/12 , \T1/lmtt
-/m/n/12 sender_id\T1/lmr/m/n/12 , \T1/lmtt/m/n/12 receiver_info\T1/lmr/m/n/12 ,
- \T1/lmtt/m/n/12 assigned_trip_id\T1/lmr/m/n/12 , \T1/lmtt/m/n/12 delivery_stat
-us\T1/lmr/m/n/12 . 
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[38]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -3639,15 +3450,65 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [39]
-<images/level_one_context.png, id=804, 4453.63875pt x 4660.41125pt>
+Overfull \hbox (62.1231pt too wide) in paragraph at lines 533--539
+\T1/lmr/m/n/12 fields such as \T1/lmtt/m/n/12 company_name\T1/lmr/m/n/12 , \T1/lmtt/m/n/12 company_registration_number\T1/lmr/m/n/12 , \T1/lmtt/m/n/12 company_address\T1/lmr/m/n/12 , \T1/lmtt/m/n/12 vehicle_count\T1/lmr/m/n/12 ,
+ []
+
+
+Overfull \hbox (8.02202pt too wide) in paragraph at lines 540--546
+\T1/lmr/m/n/12 In-cludes fields such as \T1/lmtt/m/n/12 route_code\T1/lmr/m/n/12 , \T1/lmtt/m/n/12 route_name\T1/lmr/m/n/12 , \T1/lmtt/m/n/12 origin\T1/lmr/m/n/12 , \T1/lmtt/m/n/12 destination\T1/lmr/m/n/12 , \T1/lmtt/m/n/12 via\T1/lmr/m/n/12 , \T1/lmtt/m/n/12 base_fare\T1/lmr/m/n/12 ,
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[40 <./images/FYP/eda.png>]
+Overfull \hbox (32.76045pt too wide) in paragraph at lines 555--562
+\T1/lmr/m/n/12 as \T1/lmtt/m/n/12 route_name\T1/lmr/m/n/12 , \T1/lmtt/m/n/12 pickup_point\T1/lmr/m/n/12 , \T1/lmtt/m/n/12 dropoff_point\T1/lmr/m/n/12 , \T1/lmtt/m/n/12 travel_date\T1/lmr/m/n/12 , \T1/lmtt/m/n/12 seat_count\T1/lmr/m/n/12 , \T1/lmtt/m/n/12 quoted_amount\T1/lmr/m/n/12 ,
+ []
+
+
+Overfull \hbox (38.16473pt too wide) in paragraph at lines 563--572
+\T1/lmtt/m/n/12 tracking_number\T1/lmr/m/n/12 , \T1/lmtt/m/n/12 origin\T1/lmr/m/n/12 , \T1/lmtt/m/n/12 destination\T1/lmr/m/n/12 , \T1/lmtt/m/n/12 recipient_name\T1/lmr/m/n/12 , \T1/lmtt/m/n/12 recipient_phone\T1/lmr/m/n/12 , \T1/lmtt/m/n/12 description\T1/lmr/m/n/12 ,
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[41]
+Overfull \hbox (15.91241pt too wide) in paragraph at lines 652--656
+[]\T1/lmr/bx/n/12 Tickets, Ride his-tory and book-ing lists: \T1/lmr/m/n/12 Scrol-lable list views (\T1/lmtt/m/n/12 ride_history_screen\T1/lmr/m/n/12 ,
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[42]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[43]
+<images/level_one_context.png, id=833, 662.475pt x 724.7075pt>
 File: images/level_one_context.png Graphic file (type png)
 <use images/level_one_context.png>
-Package pdftex.def Info: images/level_one_context.png  used on input line 291.
-(pdftex.def)             Requested size: 375.80544pt x 393.24968pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
+Package pdftex.def Info: images/level_one_context.png  used on input line 728.
+(pdftex.def)             Requested size: 375.80544pt x 411.10817pt.
 ) (./chapters/System Implementation, Testing and Validation.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3656,51 +3517,21 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[40]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[41 <./images/use_case_diagram.png>]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[42 <./images/context_diagram.png>]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[43 <./images/level_one_context.png>]
+[44 <./images/level_one_context.png>]
 Chapter 5.
-[44
+[45
 
 ]
-<images/FYP/signup.png, id=830, 593.21625pt x 1284.8pt>
-File: images/FYP/signup.png Graphic file (type png)
-<use images/FYP/signup.png>
-Package pdftex.def Info: images/FYP/signup.png  used on input line 57.
-(pdftex.def)             Requested size: 150.32504pt x 325.571pt.
-<images/FYP/operatorlogin.png, id=831, 593.21625pt x 1284.8pt>
-File: images/FYP/operatorlogin.png Graphic file (type png)
-<use images/FYP/operatorlogin.png>
-Package pdftex.def Info: images/FYP/operatorlogin.png  used on input line 63.
-(pdftex.def)             Requested size: 150.32504pt x 325.571pt.
-<images/FYP/otpverification.png, id=832, 593.21625pt x 1284.8pt>
-File: images/FYP/otpverification.png Graphic file (type png)
-<use images/FYP/otpverification.png>
-Package pdftex.def Info: images/FYP/otpverification.png  used on input line 69.
-
-(pdftex.def)             Requested size: 150.32504pt x 325.571pt.
+<images/FYP/admin1.png, id=843, 1738.495pt x 1127.21124pt>
+File: images/FYP/admin1.png Graphic file (type png)
+<use images/FYP/admin1.png>
+Package pdftex.def Info: images/FYP/admin1.png  used on input line 98.
+(pdftex.def)             Requested size: 375.80544pt x 243.65288pt.
+<images/FYP/admin2.png, id=844, 1738.495pt x 1127.21124pt>
+File: images/FYP/admin2.png Graphic file (type png)
+<use images/FYP/admin2.png>
+Package pdftex.def Info: images/FYP/admin2.png  used on input line 104.
+(pdftex.def)             Requested size: 375.80544pt x 243.65288pt.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3709,34 +3540,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[45]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[46 <./images/FYP/signup.png> <./images/FYP/operatorlogin.png> <./images/FYP/ot
-pverification.png>]
-<images/FYP/Operator dashboard.PNG, id=843, 1174.3875pt x 2541.495pt>
-File: images/FYP/Operator dashboard.PNG Graphic file (type png)
-<use images/FYP/Operator dashboard.PNG>
-Package pdftex.def Info: images/FYP/Operator dashboard.PNG  used on input line 
-86.
-(pdftex.def)             Requested size: 150.32504pt x 325.28699pt.
-<images/FYP/Operator profile.PNG, id=844, 1174.3875pt x 2541.495pt>
-File: images/FYP/Operator profile.PNG Graphic file (type png)
-<use images/FYP/Operator profile.PNG>
-Package pdftex.def Info: images/FYP/Operator profile.PNG  used on input line 92
-.
-(pdftex.def)             Requested size: 150.32504pt x 325.28699pt.
-<images/FYP/Company registration.PNG, id=845, 1174.3875pt x 2541.495pt>
-File: images/FYP/Company registration.PNG Graphic file (type png)
-<use images/FYP/Company registration.PNG>
-Package pdftex.def Info: images/FYP/Company registration.PNG  used on input lin
-e 98.
-(pdftex.def)             Requested size: 150.32504pt x 325.28699pt.
+[46]
+<images/FYP/admin3.png, id=850, 1738.495pt x 1127.21124pt>
+File: images/FYP/admin3.png Graphic file (type png)
+<use images/FYP/admin3.png>
+Package pdftex.def Info: images/FYP/admin3.png  used on input line 115.
+(pdftex.def)             Requested size: 375.80544pt x 243.65288pt.
+<images/FYP/admin4.png, id=851, 1738.495pt x 1127.21124pt>
+File: images/FYP/admin4.png Graphic file (type png)
+<use images/FYP/admin4.png>
+Package pdftex.def Info: images/FYP/admin4.png  used on input line 121.
+(pdftex.def)             Requested size: 375.80544pt x 243.65288pt.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3745,53 +3559,66 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[47 <./images/FYP/Operator dashboard.PNG> <./images/FYP/Operator profile.PNG> <
-./images/FYP/Company registration.PNG>]
-<images/FYP/Passenger dashboard.PNG, id=850, 1174.3875pt x 2541.495pt>
-File: images/FYP/Passenger dashboard.PNG Graphic file (type png)
-<use images/FYP/Passenger dashboard.PNG>
-Package pdftex.def Info: images/FYP/Passenger dashboard.PNG  used on input line
- 117.
-(pdftex.def)             Requested size: 150.32504pt x 325.28699pt.
-<images/FYP/Route details.PNG, id=851, 1174.3875pt x 2541.495pt>
-File: images/FYP/Route details.PNG Graphic file (type png)
-<use images/FYP/Route details.PNG>
-Package pdftex.def Info: images/FYP/Route details.PNG  used on input line 123.
-(pdftex.def)             Requested size: 150.32504pt x 325.28699pt.
-<images/FYP/Parcel delivery details.PNG, id=852, 1174.3875pt x 2541.495pt>
-File: images/FYP/Parcel delivery details.PNG Graphic file (type png)
-<use images/FYP/Parcel delivery details.PNG>
-Package pdftex.def Info: images/FYP/Parcel delivery details.PNG  used on input 
-line 129.
-(pdftex.def)             Requested size: 150.32504pt x 325.28699pt.
-<images/FYP/Ongoing trip tracking.PNG, id=853, 1174.3875pt x 2541.495pt>
-File: images/FYP/Ongoing trip tracking.PNG Graphic file (type png)
-<use images/FYP/Ongoing trip tracking.PNG>
-Package pdftex.def Info: images/FYP/Ongoing trip tracking.PNG  used on input li
-ne 143.
-(pdftex.def)             Requested size: 150.32504pt x 325.28699pt.
-<images/FYP/Tracking upcoming trips.PNG, id=854, 1174.3875pt x 2541.495pt>
-File: images/FYP/Tracking upcoming trips.PNG Graphic file (type png)
-<use images/FYP/Tracking upcoming trips.PNG>
-Package pdftex.def Info: images/FYP/Tracking upcoming trips.PNG  used on input 
-line 149.
-(pdftex.def)             Requested size: 150.32504pt x 325.28699pt.
-<images/FYP/Digital Ticket.PNG, id=855, 1174.3875pt x 2541.495pt>
+[47 <./images/FYP/admin1.png> <./images/FYP/admin2.png>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[48 <./images/FYP/admin3.png> <./images/FYP/admin4.png>]
+<images/FYP/login.jpeg, id=866, 542.025pt x 1204.5pt>
+File: images/FYP/login.jpeg Graphic file (type jpg)
+<use images/FYP/login.jpeg>
+Package pdftex.def Info: images/FYP/login.jpeg  used on input line 147.
+(pdftex.def)             Requested size: 225.4804pt x 501.07121pt.
+<images/FYP/operatorlogin.jpeg, id=867, 542.025pt x 1204.5pt>
+File: images/FYP/operatorlogin.jpeg Graphic file (type jpg)
+<use images/FYP/operatorlogin.jpeg>
+Package pdftex.def Info: images/FYP/operatorlogin.jpeg  used on input line 153.
+(pdftex.def)             Requested size: 225.4804pt x 501.07121pt.
+<images/FYP/otpverification.jpeg, id=868, 542.025pt x 1204.5pt>
+File: images/FYP/otpverification.jpeg Graphic file (type jpg)
+<use images/FYP/otpverification.jpeg>
+Package pdftex.def Info: images/FYP/otpverification.jpeg  used on input line 183.
+(pdftex.def)             Requested size: 225.4804pt x 501.07121pt.
+<images/FYP/operatorDashboard.jpeg, id=869, 542.025pt x 1204.5pt>
+File: images/FYP/operatorDashboard.jpeg Graphic file (type jpg)
+<use images/FYP/operatorDashboard.jpeg>
+Package pdftex.def Info: images/FYP/operatorDashboard.jpeg  used on input line 189.
+(pdftex.def)             Requested size: 225.4804pt x 501.07121pt.
+<images/FYP/operatorProfile.jpeg, id=870, 542.025pt x 1204.5pt>
+File: images/FYP/operatorProfile.jpeg Graphic file (type jpg)
+<use images/FYP/operatorProfile.jpeg>
+Package pdftex.def Info: images/FYP/operatorProfile.jpeg  used on input line 202.
+(pdftex.def)             Requested size: 225.4804pt x 501.07121pt.
+<images/FYP/companyDetails.jpeg, id=871, 542.025pt x 1204.5pt>
+File: images/FYP/companyDetails.jpeg Graphic file (type jpg)
+<use images/FYP/companyDetails.jpeg>
+Package pdftex.def Info: images/FYP/companyDetails.jpeg  used on input line 208.
+(pdftex.def)             Requested size: 225.4804pt x 501.07121pt.
+<images/FYP/passengerDashboard.jpeg, id=872, 542.025pt x 1204.5pt>
+File: images/FYP/passengerDashboard.jpeg Graphic file (type jpg)
+<use images/FYP/passengerDashboard.jpeg>
+Package pdftex.def Info: images/FYP/passengerDashboard.jpeg  used on input line 239.
+(pdftex.def)             Requested size: 225.4804pt x 501.07121pt.
+<images/FYP/routes.jpeg, id=873, 542.025pt x 1204.5pt>
+File: images/FYP/routes.jpeg Graphic file (type jpg)
+<use images/FYP/routes.jpeg>
+Package pdftex.def Info: images/FYP/routes.jpeg  used on input line 245.
+(pdftex.def)             Requested size: 225.4804pt x 501.07121pt.
+<images/FYP/parcel.jpeg, id=874, 542.025pt x 1204.5pt>
+File: images/FYP/parcel.jpeg Graphic file (type jpg)
+<use images/FYP/parcel.jpeg>
+Package pdftex.def Info: images/FYP/parcel.jpeg  used on input line 258.
+(pdftex.def)             Requested size: 225.4804pt x 501.07121pt.
+<images/FYP/Digital Ticket.PNG, id=875, 1174.3875pt x 2541.495pt>
 File: images/FYP/Digital Ticket.PNG Graphic file (type png)
 <use images/FYP/Digital Ticket.PNG>
-Package pdftex.def Info: images/FYP/Digital Ticket.PNG  used on input line 155.
+Package pdftex.def Info: images/FYP/Digital Ticket.PNG  used on input line 264.
+(pdftex.def)             Requested size: 225.4804pt x 487.93048pt.
 
-(pdftex.def)             Requested size: 150.32504pt x 325.28699pt.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[48 <./images/FYP/Passenger dashboard.PNG> <./images/FYP/Route details.PNG> <./
-images/FYP/Parcel delivery details.PNG>]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -3799,8 +3626,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[49 <./images/FYP/Ongoing trip tracking.PNG> <./images/FYP/Tracking upcoming tr
-ips.PNG> <./images/FYP/Digital Ticket.PNG>]
+[49]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -3808,7 +3634,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[50]) (build/main.bbl
+[50 <./images/FYP/login.jpeg> <./images/FYP/operatorlogin.jpeg>]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -3816,35 +3642,71 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[51]
-Underfull \hbox (badness 1142) in paragraph at lines 73--77
-[]\T1/lmr/m/n/12 Codeware Lim-ited. (2023) Ben-e-fits of im-ple-ment-ing on-lin
-e bus
+[51 <./images/FYP/otpverification.jpeg> <./images/FYP/operatorDashboard.jpeg>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[52 <./images/FYP/operatorProfile.jpeg> <./images/FYP/companyDetails.jpeg>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[53 <./images/FYP/passengerDashboard.jpeg> <./images/FYP/routes.jpeg>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[54 <./images/FYP/parcel.jpeg> <./images/FYP/Digital Ticket.PNG>]) (build/main.bbl
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[55]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[56]
+Underfull \hbox (badness 1142) in paragraph at lines 55--57
+[]\T1/lmr/m/n/12 Codeware Lim-ited. (2023) Ben-e-fits of im-ple-ment-ing on-line bus
  []
 
 
-Underfull \hbox (badness 2717) in paragraph at lines 73--77
+Underfull \hbox (badness 2717) in paragraph at lines 55--57
 \T1/lmr/m/n/12 seat book-ing sys-tem, pos and mo-bile ap-pli-ca-tion. Ac-
  []
 
 
-Underfull \hbox (badness 1460) in paragraph at lines 73--77
-\T1/lmr/m/n/12 cessed 2026-04-13. [On-line]. Avail-able: [][]$https : / / vocal
- . media / journal /
+Underfull \hbox (badness 1460) in paragraph at lines 55--57
+\T1/lmr/m/n/12 cessed 2026-04-13. [On-line]. Avail-able: [][]$https : / / vocal . media / journal /
  []
 
-[52
+[57
 
 ]
-Overfull \hbox (12.73245pt too wide) in paragraph at lines 95--100
-\T1/lmr/m/n/12 reorganizing-[]informal-[]transport-[]in-[]uganda-[]achieving-[]
-a-[]multimodality-[]that-[]works-[]for-[]all/$[][] 
+Overfull \hbox (12.73245pt too wide) in paragraph at lines 70--72
+\T1/lmr/m/n/12 reorganizing-[]informal-[]transport-[]in-[]uganda-[]achieving-[]a-[]multimodality-[]that-[]works-[]for-[]all/$[][] 
  []
 
 
-Overfull \hbox (6.76852pt too wide) in paragraph at lines 159--163
-\T1/lmr/m/n/12 tecno-[]in^^\nix-[]and-[]itel-[]the-[]secret-[]behind-[]their-[]
-dominance-[]in-[]africas-[]smartphone-[]market/$[][] 
+Overfull \hbox (6.76852pt too wide) in paragraph at lines 110--112
+\T1/lmr/m/n/12 tecno-[]in^^\nix-[]and-[]itel-[]the-[]secret-[]behind-[]their-[]dominance-[]in-[]africas-[]smartphone-[]market/$[][] 
  []
 
 
@@ -3854,8 +3716,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[53]
-Underfull \hbox (badness 1400) in paragraph at lines 239--243
+[58]
+Underfull \hbox (badness 1400) in paragraph at lines 161--163
 []\T1/lmr/m/n/12 N. J. Ka-manzi, ``3 ways to topup your safeboda wal-
  []
 
@@ -3866,35 +3728,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[54]
-Underfull \hbox (badness 10000) in paragraph at lines 295--299
-\T1/lmr/m/n/12 ~ : text = Fleet % 20telematics % 20is % 20essential % 20for % 2
-0any % 20organization ,[] (OBD )
+[59]
+Underfull \hbox (badness 10000) in paragraph at lines 199--201
+\T1/lmr/m/n/12 ~ : text = Fleet % 20telematics % 20is % 20essential % 20for % 20any % 20organization ,[] (OBD )
  []
 
 
-Underfull \hbox (badness 1199) in paragraph at lines 321--325
-\T1/lmr/m/it/12 cid-chart Blog\T1/lmr/m/n/12 . [On-line]. Avail-able: [][]$http
-s : / / www . lucidchart . com / blog /
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[55]
-Underfull \hbox (badness 1117) in paragraph at lines 356--360
-\T1/lmr/m/it/12 Cloud-fresh Blog\T1/lmr/m/n/12 . [On-line]. Avail-able: [][]$ht
-tps : / / cloudfresh . com / en / blog /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 408--412
-\T1/lmr/m/n/12 UBER _ TRANSPORTATIONS _ ON _ THE _ INFORMAL _ PUBLIC _ TRANSPOR
-T _
+Underfull \hbox (badness 1199) in paragraph at lines 217--219
+\T1/lmr/m/it/12 cid-chart Blog\T1/lmr/m/n/12 . [On-line]. Avail-able: [][]$https : / / www . lucidchart . com / blog /
  []
 
 
@@ -3904,39 +3745,51 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[56]
-Underfull \hbox (badness 1009) in paragraph at lines 473--478
+[60]
+Underfull \hbox (badness 1117) in paragraph at lines 242--244
+\T1/lmr/m/it/12 Cloud-fresh Blog\T1/lmr/m/n/12 . [On-line]. Avail-able: [][]$https : / / cloudfresh . com / en / blog /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 282--284
+\T1/lmr/m/n/12 UBER _ TRANSPORTATIONS _ ON _ THE _ INFORMAL _ PUBLIC _ TRANSPORT _
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[61]
+Underfull \hbox (badness 1009) in paragraph at lines 327--329
 []\T1/lmr/m/n/12 D. Ka-tushabe, ``Safe-car by safeboda be-comes the most pre-
  []
 
 
-Underfull \hbox (badness 2426) in paragraph at lines 473--478
-\T1/lmr/m/n/12 2025. [On-line]. Avail-able: [][]$https : / / www . safeboda . c
-om / safeboda-[]blog /
+Underfull \hbox (badness 2426) in paragraph at lines 327--329
+\T1/lmr/m/n/12 2025. [On-line]. Avail-able: [][]$https : / / www . safeboda . com / safeboda-[]blog /
  []
 
 
-Overfull \hbox (41.73204pt too wide) in paragraph at lines 473--478
-\T1/lmr/m/n/12 safecar-[]by-[]safeboda-[]becomes-[]the-[]most-[]preferred-[]car
--[]hailing-[]service-[]for-[]safety-[]and-[]convenience$[][] 
+Overfull \hbox (41.73204pt too wide) in paragraph at lines 327--329
+\T1/lmr/m/n/12 safecar-[]by-[]safeboda-[]becomes-[]the-[]most-[]preferred-[]car-[]hailing-[]service-[]for-[]safety-[]and-[]convenience$[][] 
  []
 
 
-Underfull \hbox (badness 1210) in paragraph at lines 494--498
-\T1/lmr/m/n/12 scoot-ers,'' 2019. [On-line]. Avail-able: [][]$https : / / qz . 
-com / africa / 1568416 /
+Underfull \hbox (badness 1210) in paragraph at lines 342--344
+\T1/lmr/m/n/12 scoot-ers,'' 2019. [On-line]. Avail-able: [][]$https : / / qz . com / africa / 1568416 /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 494--498
-\T1/lmr/m/n/12 uber-[]rival-[]taxify-[]changes-[]name-[]to-[]bolt-[]adds-[]scoo
-ters ? utm _ medium = sharefromsite &
+Underfull \hbox (badness 10000) in paragraph at lines 342--344
+\T1/lmr/m/n/12 uber-[]rival-[]taxify-[]changes-[]name-[]to-[]bolt-[]adds-[]scooters ? utm _ medium = sharefromsite &
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 500--503
-\T1/lmr/m/n/12 / / pctechmag . com / 2017 / 10 / ride-[]sharing-[]service-[]tax
-ify-[]o^^^cially-[]launches-[]in-[]uganda/$[][],
+Underfull \hbox (badness 10000) in paragraph at lines 346--347
+\T1/lmr/m/n/12 / / pctechmag . com / 2017 / 10 / ride-[]sharing-[]service-[]taxify-[]o^^^cially-[]launches-[]in-[]uganda/$[][],
  []
 
 
@@ -3946,7 +3799,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[57]
+[62]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -3954,8 +3807,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[58]
-Underfull \hbox (badness 1275) in paragraph at lines 632--636
+[63]
+Underfull \hbox (badness 1275) in paragraph at lines 440--442
 []\T1/lmr/m/n/12 Jugnoo. (2022) How grab works: The on-demand busi-ness
  []
 
@@ -3967,17 +3820,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[59]
-Underfull \hbox (badness 4013) in paragraph at lines 23--23
+[64]
+Underfull \hbox (badness 4013) in paragraph at lines 25--25
 []|\T1/lmr/m/n/12 Research co-or-di-na-tion, data
  []
 
 
-Underfull \hbox (badness 1371) in paragraph at lines 23--23
+Underfull \hbox (badness 1371) in paragraph at lines 25--25
 []|\T1/lmr/m/n/12 Contingency and ad-min-is-tra-
  []
 
-[60
+[65
 
 ]) (./appendices/appendixB.tex
 
@@ -3987,7 +3840,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[61
+[66
 
 ])
 
@@ -3997,38 +3850,27 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[62] (build/main.aux)
+[67] (build/main.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
-
-
-LaTeX Warning: There were multiply-defined labels.
-
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: C611D359CED5A15855AA65741637D3FD;9707.
+(rerunfilecheck)             Checksum: 452E9A76AD5AAAE304E030D0D6EE45EF;9813.
  ) 
 Here is how much of TeX's memory you used:
- 21512 strings out of 469006
- 396885 string characters out of 5454813
- 921331 words of memory out of 5000000
- 49529 multiletter control sequences out of 15000+600000
+ 21612 strings out of 469006
+ 398447 string characters out of 5454813
+ 923278 words of memory out of 5000000
+ 49614 multiletter control sequences out of 15000+600000
  678533 words of font info for 74 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 110i,12n,131p,1443b,1605s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2026basic/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></u
-sr/local/texlive/2026basic/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/loc
-al/texlive/2026basic/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/tex
-live/2026basic/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/
-2026basic/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2026b
-asic/texmf-dist/fonts/type1/public/lm/lmtt12.pfb></usr/local/texlive/2026basic/
-texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2026basic/texmf
--dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on build/main.pdf (71 pages, 7567590 bytes).
+ 110i,12n,131p,585b,1605s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2026basic/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2026basic/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2026basic/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2026basic/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2026basic/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2026basic/texmf-dist/fonts/type1/public/lm/lmtt12.pfb></usr/local/texlive/2026basic/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2026basic/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
+Output written on build/main.pdf (76 pages, 4783228 bytes).
 PDF statistics:
- 1176 PDF objects out of 1200 (max. 8388607)
- 1049 compressed objects within 11 object streams
- 276 named destinations out of 1000 (max. 500000)
- 620 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1216 PDF objects out of 1440 (max. 8388607)
+ 1077 compressed objects within 11 object streams
+ 286 named destinations out of 1000 (max. 500000)
+ 635 words of extra memory for PDF output out of 10000 (max. 10000000)
 
