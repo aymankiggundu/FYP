@@ -378,11 +378,11 @@ INPUT ./chapters/System Analysis and Design.tex
 INPUT ./chapters/System Analysis and Design.tex
 INPUT ./chapters/System Analysis and Design.tex
 INPUT chapters/System Analysis and Design.tex
-INPUT ./images/use_case_diagram.png
-INPUT ./images/use_case_diagram.png
-INPUT ./images/use_case_diagram.png
-INPUT ./images/use_case_diagram.png
-INPUT ./images/use_case_diagram.png
+INPUT ./images/FYP/userdiagram.png
+INPUT ./images/FYP/userdiagram.png
+INPUT ./images/FYP/userdiagram.png
+INPUT ./images/FYP/userdiagram.png
+INPUT ./images/FYP/userdiagram.png
 INPUT ./images/context_diagram.png
 INPUT ./images/context_diagram.png
 INPUT ./images/context_diagram.png
