@@ -1,7 +1,7 @@
-PWD c:\Users\USER\Desktop\New folder\FYP-main\FYP
+PWD C:\Users\USER\Desktop\New folder\FYP-main\FYP
 INPUT C:\Users\USER\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\USER\Desktop\New folder\FYP-main\FYP\main.tex
-OUTPUT c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.log
+INPUT main.tex
+OUTPUT C:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.log
 INPUT C:\Users\USER\Desktop\MIKTEX\tex\latex\base\report.cls
 INPUT C:\Users\USER\Desktop\MIKTEX\tex\latex\base\report.cls
 INPUT C:\Users\USER\Desktop\MIKTEX\tex\latex\base\size12.clo
@@ -218,7 +218,7 @@ INPUT C:\Users\USER\Desktop\MIKTEX\tex\generic\pgf\systemlayer\pgfsysprotocol.co
 INPUT C:\Users\USER\Desktop\MIKTEX\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
 INPUT C:\Users\USER\Desktop\MIKTEX\tex\latex\float\float.sty
 INPUT C:\Users\USER\Desktop\MIKTEX\tex\latex\float\float.sty
-OUTPUT c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.nlo
+OUTPUT C:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.nlo
 INPUT C:\Users\USER\Desktop\MIKTEX\tex\latex\titlesec\titlesec.sty
 INPUT C:\Users\USER\Desktop\MIKTEX\tex\latex\titlesec\titlesec.sty
 INPUT C:\Users\USER\Desktop\MIKTEX\tex\latex\graphics\rotating.sty
@@ -227,18 +227,18 @@ INPUT C:\Users\USER\Desktop\MIKTEX\tex\latex\lm\t1lmr.fd
 INPUT C:\Users\USER\Desktop\MIKTEX\tex\latex\lm\t1lmr.fd
 INPUT C:\Users\USER\Desktop\MIKTEX\tex\latex\lm\t1lmr.fd
 INPUT C:\Users\USER\Desktop\MIKTEX\fonts\tfm\public\lm\ec-lmr12.tfm
-INPUT c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.aux
-INPUT c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.aux
-INPUT c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.aux
-OUTPUT c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.aux
-INPUT c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.out
-INPUT c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.out
-INPUT c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.out
-INPUT c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.out
-OUTPUT c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.pdf
-INPUT c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.out
-INPUT c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.out
-OUTPUT c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.out
+INPUT C:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.aux
+INPUT C:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.aux
+INPUT C:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.aux
+OUTPUT C:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.aux
+INPUT C:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.out
+INPUT C:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.out
+INPUT C:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.out
+INPUT C:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.out
+OUTPUT C:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.pdf
+INPUT C:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.out
+INPUT C:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.out
+OUTPUT C:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.out
 INPUT C:\Users\USER\Desktop\MIKTEX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\USER\Desktop\MIKTEX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\USER\Desktop\MIKTEX\tex\context\base\mkii\supp-pdf.mkii
@@ -336,18 +336,21 @@ INPUT .\abstract.tex
 INPUT .\abstract.tex
 INPUT .\abstract.tex
 INPUT abstract.tex
-INPUT c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.toc
-INPUT c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.toc
-INPUT c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.toc
-OUTPUT c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.toc
-INPUT c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.lof
-INPUT c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.lof
-INPUT c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.lof
-OUTPUT c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.lof
-INPUT c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.lot
-INPUT c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.lot
-INPUT c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.lot
-OUTPUT c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.lot
+INPUT .\acronyms.tex
+INPUT .\acronyms.tex
+INPUT acronyms.tex
+INPUT C:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.toc
+INPUT C:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.toc
+INPUT C:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.toc
+OUTPUT C:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.toc
+INPUT C:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.lof
+INPUT C:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.lof
+INPUT C:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.lof
+OUTPUT C:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.lof
+INPUT C:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.lot
+INPUT C:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.lot
+INPUT C:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.lot
+OUTPUT C:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.lot
 INPUT .\chapters\introduction.tex
 INPUT .\chapters\introduction.tex
 INPUT chapters\introduction.tex
@@ -520,9 +523,9 @@ INPUT .\images\FYP\Digital Ticket.PNG
 INPUT .\chapters\Recommendations, Conclusion, and future works.tex
 INPUT .\chapters\Recommendations, Conclusion, and future works.tex
 INPUT chapters\Recommendations, Conclusion, and future works.tex
-INPUT c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.bbl
-INPUT c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.bbl
-INPUT c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.bbl
+INPUT C:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.bbl
+INPUT C:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.bbl
+INPUT C:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.bbl
 INPUT .\appendices\appendixA.tex
 INPUT .\appendices\appendixA.tex
 INPUT appendices\appendixA.tex
@@ -532,9 +535,9 @@ INPUT appendices\appendixB.tex
 INPUT .\appendices\appendixC.tex
 INPUT .\appendices\appendixC.tex
 INPUT appendices\appendixC.tex
-INPUT c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.aux
-INPUT c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.out
-INPUT c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.out
+INPUT C:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.aux
+INPUT C:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.out
+INPUT C:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.out
 INPUT C:\Users\USER\Desktop\MIKTEX\fonts\type1\public\lm\lmbx12.pfb
 INPUT C:\Users\USER\Desktop\MIKTEX\fonts\type1\public\lm\lmbx12.pfb
 INPUT C:\Users\USER\Desktop\MIKTEX\fonts\type1\public\lm\lmr10.pfb

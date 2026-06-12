@@ -3,6 +3,7 @@
 all:
 	mkdir -p build
 	pdflatex -shell-escape -output-directory=build main.tex
+	makeindex -s nomencl.ist -o build/main.nls build/main.nlo || true
 	bibtex build/main || true
 	pdflatex -shell-escape -output-directory=build main.tex
 	pdflatex -shell-escape -output-directory=build main.tex

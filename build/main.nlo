@@ -1,0 +1,34 @@
+\nomenclatureentry{a3G@[{3G}]\begingroup Third Generation mobile network\nomeqref {0}|nompageref}{v}
+\nomenclatureentry{a4G@[{4G}]\begingroup Fourth Generation mobile network\nomeqref {0}|nompageref}{v}
+\nomenclatureentry{a5G@[{5G}]\begingroup Fifth Generation mobile network\nomeqref {0}|nompageref}{v}
+\nomenclatureentry{aACID@[{ACID}]\begingroup Atomicity, Consistency, Isolation, Durability\nomeqref {0}|nompageref}{v}
+\nomenclatureentry{aAI@[{AI}]\begingroup Artificial Intelligence\nomeqref {0}|nompageref}{v}
+\nomenclatureentry{aAPI@[{API}]\begingroup Application Programming Interface\nomeqref {0}|nompageref}{v}
+\nomenclatureentry{aAT&T@[{AT&T}]\begingroup American Telephone and Telegraph\nomeqref {0}|nompageref}{v}
+\nomenclatureentry{aAWS@[{AWS}]\begingroup Amazon Web Services\nomeqref {0}|nompageref}{v}
+\nomenclatureentry{aB2B@[{B2B}]\begingroup Business to Business\nomeqref {0}|nompageref}{v}
+\nomenclatureentry{aB2C@[{B2C}]\begingroup Business to Consumer\nomeqref {0}|nompageref}{v}
+\nomenclatureentry{aDRF@[{DRF}]\begingroup Django REST Framework\nomeqref {0}|nompageref}{v}
+\nomenclatureentry{aFCM@[{FCM}]\begingroup Firebase Cloud Messaging\nomeqref {0}|nompageref}{v}
+\nomenclatureentry{aGDPR@[{GDPR}]\begingroup General Data Protection Regulation\nomeqref {0}|nompageref}{v}
+\nomenclatureentry{aGPS@[{GPS}]\begingroup Global Positioning System\nomeqref {0}|nompageref}{v}
+\nomenclatureentry{aiOS@[{iOS}]\begingroup Apple mobile operating system acronym\nomeqref {0}|nompageref}{v}
+\nomenclatureentry{aKPI@[{KPI}]\begingroup Key Performance Indicators\nomeqref {0}|nompageref}{v}
+\nomenclatureentry{aMaaS@[{MaaS}]\begingroup Mobility as a Service\nomeqref {0}|nompageref}{v}
+\nomenclatureentry{aMCP@[{MCP}]\begingroup Model Control Protocol\nomeqref {0}|nompageref}{v}
+\nomenclatureentry{aNFC@[{NFC}]\begingroup Near Field Communication\nomeqref {0}|nompageref}{v}
+\nomenclatureentry{aOS@[{OS}]\begingroup Operating System\nomeqref {0}|nompageref}{v}
+\nomenclatureentry{aOSM@[{OSM}]\begingroup OpenStreetMap\nomeqref {0}|nompageref}{v}
+\nomenclatureentry{aOTP@[{OTP}]\begingroup One-Time Password\nomeqref {0}|nompageref}{v}
+\nomenclatureentry{aP2P@[{P2P}]\begingroup Person to Person\nomeqref {0}|nompageref}{v}
+\nomenclatureentry{aQR@[{QR}]\begingroup Quick Response\nomeqref {0}|nompageref}{v}
+\nomenclatureentry{aRAM@[{RAM}]\begingroup Random Access Memory\nomeqref {0}|nompageref}{v}
+\nomenclatureentry{aREST@[{REST}]\begingroup Representational State Transfer\nomeqref {0}|nompageref}{v}
+\nomenclatureentry{aRFID@[{RFID}]\begingroup Radio-Frequency Identification\nomeqref {0}|nompageref}{v}
+\nomenclatureentry{aSDK@[{SDK}]\begingroup Software Development Kit\nomeqref {0}|nompageref}{v}
+\nomenclatureentry{aSUS@[{SUS}]\begingroup System Usability Scale\nomeqref {0}|nompageref}{v}
+\nomenclatureentry{aUI/UX@[{UI/UX}]\begingroup User Interface / User Experience\nomeqref {0}|nompageref}{v}
+\nomenclatureentry{aUAT@[{UAT}]\begingroup User Acceptance Testing\nomeqref {0}|nompageref}{v}
+\nomenclatureentry{aUSSD@[{USSD}]\begingroup Unstructured Supplementary Service Data\nomeqref {0}|nompageref}{v}
+\nomenclatureentry{aUSA@[{USA}]\begingroup United States of America\nomeqref {0}|nompageref}{v}
+\nomenclatureentry{aHTTPS@[{HTTPS}]\begingroup HyperText Transfer Protocol Secure\nomeqref {0}|nompageref}{v}
