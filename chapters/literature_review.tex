@@ -682,12 +682,13 @@ discussed in the sections above.
 % \restoregeometry
 
 \begingroup
+\begin{adjustwidth}{-1cm}{-1cm}
 \begin{longtblr}[
 caption = {Comparative Analysis of Transportation Platform Features}, label =
 {tab:transport-comparison} ]{ colspec =
-{|p{1.5cm}|p{1.5cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}|p{1.8cm}|p{1.7cm}|}, rowhead = 1
-} \hline Feature & Transport Model & Booking structure & Route structure & Seat
-management  & Operational coordination & Pricing model  & Courier integration \\
+{|p{1.5cm}|p{2cm}|p{2cm}|p{2.5cm}|p{2cm}|p{2.5cm}|p{1.8cm}|p{1.7cm}|}, rowhead = 1
+} \hline \textbf{Feature} & \textbf{Transport Model} & \textbf{Booking structure} & \textbf{Route structure} & \textbf{Seat
+management}  & \textbf{Operational coordination} & \textbf{Pricing model}  & \textbf{Courier integration} \\
 \hline Traxis & Fixed-route private shuttle coordination & Independent seat-
 based booking & Fixed intercity routes (e.g., Kampala–Kabale) & Real-time seat
 allocation and  tracking & Operator-level shuttle management & Fixed fare per
@@ -712,20 +713,17 @@ based & Separate or limited \\ \hline Transit App & Point-to-point rides or
 navigation support & Whole ride per request or trip planning only & Dynamic or
 user-defined & PNot exposed to users & Driver-passenger matching or route
 guidance & Dynamic or distance-based & Separate or limited \\ \hline SWVL &
-Shared mass transit (bus-like systems) & Grouped/shared ride matching &
+Shared mass transit (bus-like systems) & Grouped or shared ride matching &
 Algorithm-optimized or flexible routes & Limited grouping, not seat-by-seat
-control & System-level fleet optimization & Variable/shared fares & Not core
+control & System-level fleet optimization & Variable or shared fares & Not core
 functionality \\ \hline Via & Shared mass transit (bus-like systems) &
-Grouped/shared ride matching & Algorithm-optimized or flexible routes & Limited
+Grouped or shared ride matching & Algorithm-optimized or flexible routes & Limited
 grouping, not seat-by-seat control & System-level fleet optimization &
-Variable/shared fares & Not core functionality \\ \hline Grab & Point-to-point
+Variable or shared fares & Not core functionality \\ \hline Grab & Point-to-point
 rides or navigation support & Whole ride per request or trip planning only &
 Dynamic or user-defined & PNot exposed to users & Driver-passenger matching or
 route guidance & Dynamic or distance-based & Separate or limited \\ \hline
-
-\end{longtblr}
-
-\endgroup
+\end{longtblr}\end{adjustwidth}\endgroup
 
 \section{Conclusion}
 In summary, the growth of ride-hailing and digital mobility platforms has marked

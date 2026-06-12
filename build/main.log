@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.4.20)  12 JUN 2026 13:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.4.20)  12 JUN 2026 22:07
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/USER/Desktop/New folder/FYP-main/main.tex"
-(c:/Users/USER/Desktop/New folder/FYP-main/main.tex
+**"c:/Users/USER/Desktop/New folder/FYP-main/FYP/main.tex"
+(c:/Users/USER/Desktop/New folder/FYP-main/FYP/main.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
 (C:\Users\USER\Desktop\MIKTEX\tex/latex/base\report.cls
@@ -305,6 +305,10 @@ Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
 \c@ALC@depth=\count314
 \ALC@tlm=\skip55
 \algorithmicindent=\skip56
+) (C:\Users\USER\Desktop\MIKTEX\tex/latex/changepage\changepage.sty
+Package: changepage 2009/10/20 v1.0c check page and change page layout
+\c@cp@cntr=\count315
+\cp@tempcnt=\count316
 ) (C:\Users\USER\Desktop\MIKTEX\tex/latex/fancyhdr\fancyhdr.sty
 Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
 \f@nch@headwidth=\skip57
@@ -330,7 +334,7 @@ Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
 \XKV@toks=\toks27
 \XKV@tempa@toks=\toks28
 )
-\XKV@depth=\count315
+\XKV@depth=\count317
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 )) (C:\Users\USER\Desktop\MIKTEX\tex/latex/koma-script\tocbasic.sty
 Package: tocbasic 2026/02/02 v3.49.2 KOMA-Script package (handling toc-files)
@@ -358,9 +362,9 @@ Package tocbasic Info: omitting babel extension for `nls'
 \nomitemsep=\skip72
 ) (C:\Users\USER\Desktop\MIKTEX\tex/latex/appendix\appendix.sty
 Package: appendix 2020/02/08 v1.2c extra appendix facilities
-\c@@pps=\count316
-\c@@ppsavesec=\count317
-\c@@ppsaveapp=\count318
+\c@@pps=\count318
+\c@@ppsavesec=\count319
+\c@@ppsaveapp=\count320
 ) (C:\Users\USER\Desktop\MIKTEX\tex/latex/tocloft\tocloft.sty
 Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
 Package tocloft Info: The document has chapter divisions on input line 51.
@@ -393,8 +397,8 @@ Package tocloft Info: The document has chapter divisions on input line 51.
 \cftbeforefigskip=\skip99
 \cftfigindent=\skip100
 \cftfignumwidth=\skip101
-\c@lofdepth=\count319
-\c@lotdepth=\count320
+\c@lofdepth=\count321
+\c@lotdepth=\count322
 \cftbeforelottitleskip=\skip102
 \cftafterlottitleskip=\skip103
 \cftbeforetabskip=\skip104
@@ -417,30 +421,30 @@ Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
 \TX@old@col=\dimen178
 \TX@target=\dimen179
 \TX@delta=\dimen180
-\TX@cols=\count321
+\TX@cols=\count323
 \TX@ftn=\toks30
 ) (C:\Users\USER\Desktop\MIKTEX\tex/latex/colortbl\colortbl.sty
 Package: colortbl 2024/10/29 v1.0k Color table columns (DPC)
 \everycr=\toks31
 \minrowclearance=\skip109
-\rownum=\count322
+\rownum=\count324
 ) (C:\Users\USER\Desktop\MIKTEX\tex/latex/tools\longtable.sty
 Package: longtable 2025-10-13 v4.24 Multi-page Table package (DPC)
 \LTleft=\skip110
 \LTright=\skip111
 \LTpre=\skip112
 \LTpost=\skip113
-\LTchunksize=\count323
+\LTchunksize=\count325
 \LTcapwidth=\dimen181
 \LT@head=\box58
 \LT@firsthead=\box59
 \LT@foot=\box60
 \LT@lastfoot=\box61
 \LT@gbox=\box62
-\LT@cols=\count324
-\LT@rows=\count325
-\c@LT@tables=\count326
-\c@LT@chunks=\count327
+\LT@cols=\count326
+\LT@rows=\count327
+\c@LT@tables=\count328
+\c@LT@chunks=\count329
 \LT@p@ftn=\toks32
 ) (C:\Users\USER\Desktop\MIKTEX\tex/latex/tabularray\tabularray.sty
 Package: tabularray 2025-11-27 v2025C Typeset tabulars and arrays with LaTeX3
@@ -450,14 +454,14 @@ Package: ninecolors 2022-02-13 v2022D Select colors with proper color contrast
 Package: expl3 2025-12-24 L3 programming layer (loader) 
  (C:\Users\USER\Desktop\MIKTEX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count328
+\l__color_backend_stack_int=\count330
 ))
 Package: xparse 2025-10-09 L3 Experimental document command parser
 ))
-\g__tblr_nohyper_int=\count329
-\l__tblr_a_int=\count330
-\l__tblr_c_int=\count331
-\l__tblr_r_int=\count332
+\g__tblr_nohyper_int=\count331
+\l__tblr_a_int=\count332
+\l__tblr_c_int=\count333
+\l__tblr_r_int=\count334
 \l__tblr_d_dim=\dimen182
 \l__tblr_h_dim=\dimen183
 \l__tblr_o_dim=\dimen184
@@ -472,35 +476,35 @@ Package: xparse 2025-10-09 L3 Experimental document command parser
 \l__tblr_b_box=\box64
 \l__tblr_c_box=\box65
 \l__tblr_d_box=\box66
-\c@tblrcount=\count333
-\c@colnum=\count334
-\c@rowcount=\count335
-\c@colcount=\count336
+\c@tblrcount=\count335
+\c@colnum=\count336
+\c@rowcount=\count337
+\c@colcount=\count338
 \abovesep=\dimen192
 \belowsep=\dimen193
 \leftsep=\dimen194
 \rightsep=\dimen195
-\gTblrLevelInt=\count337
-\g__tblr_data_row_key_count_int=\count338
-\g__tblr_data_column_key_count_int=\count339
-\g__tblr_data_cell_key_count_int=\count340
-\g__tblr_array_int=\count341
-\l__tblr_key_count_int=\count342
-\l__tblr_key_quotient_int=\count343
-\l__tblr_key_quotient_two_int=\count344
-\l__tblr_key_remainder_int=\count345
-\g__tblr_data_str_value_count_int=\count346
-\lTblrChildTotalInt=\count347
-\lTblrChildHtotalInt=\count348
-\lTblrChildVtotalInt=\count349
-\l__child_diff_h_int=\count350
-\l__child_diff_v_int=\count351
-\l__child_sign_h_int=\count352
-\l__child_sign_v_int=\count353
-\l__child_step_int=\count354
+\gTblrLevelInt=\count339
+\g__tblr_data_row_key_count_int=\count340
+\g__tblr_data_column_key_count_int=\count341
+\g__tblr_data_cell_key_count_int=\count342
+\g__tblr_array_int=\count343
+\l__tblr_key_count_int=\count344
+\l__tblr_key_quotient_int=\count345
+\l__tblr_key_quotient_two_int=\count346
+\l__tblr_key_remainder_int=\count347
+\g__tblr_data_str_value_count_int=\count348
+\lTblrChildTotalInt=\count349
+\lTblrChildHtotalInt=\count350
+\lTblrChildVtotalInt=\count351
+\l__child_diff_h_int=\count352
+\l__child_diff_v_int=\count353
+\l__child_sign_h_int=\count354
+\l__child_sign_v_int=\count355
+\l__child_step_int=\count356
 \lTblrDefaultHruleWidthDim=\dimen196
 \lTblrDefaultVruleWidthDim=\dimen197
-\l__tblr_split_balance_int=\count355
+\l__tblr_split_balance_int=\count357
 \l__tblr_strut_dp_dim=\dimen198
 \l__tblr_strut_ht_dim=\dimen199
 \g__tblr_cell_wd_dim=\dimen256
@@ -514,8 +518,8 @@ Package: xparse 2025-10-09 L3 Experimental document command parser
 \l__tblr_hfuzz_dim=\dimen261
 \l__tblr_caption_box=\box70
 \l__tblr_caption_left_box=\box71
-\lTblrRowHeadInt=\count356
-\lTblrRowFootInt=\count357
+\lTblrRowHeadInt=\count358
+\lTblrRowFootInt=\count359
 \l__tblr_row_head_box=\box72
 \l__tblr_row_foot_box=\box73
 \l__tblr_row_head_foot_dim=\dimen262
@@ -529,18 +533,18 @@ Package: xparse 2025-10-09 L3 Experimental document command parser
 \l__tblr_remain_height_dim=\dimen264
 \l__tblr_next_rows_dim=\dimen265
 \l__tblr_page_overfill_dim=\dimen266
-\l__tblr_long_from_int=\count358
-\l__tblr_long_to_int=\count359
-\l__tblr_curr_i_int=\count360
-\l__tblr_prev_i_int=\count361
-\lTblrTablePageInt=\count362
+\l__tblr_long_from_int=\count360
+\l__tblr_long_to_int=\count361
+\l__tblr_curr_i_int=\count362
+\l__tblr_prev_i_int=\count363
+\lTblrTablePageInt=\count364
 \l__tblr_table_head_box=\box80
 \l__tblr_table_foot_box=\box81
 \l__tblr_table_head_foot_dim=\dimen267
 \l__tblr_table_head_body_foot_dim=\dimen268
 \l__tblr_table_box=\box82
-\lTblrRowFirstInt=\count363
-\lTblrRowLastInt=\count364
+\lTblrRowFirstInt=\count365
+\lTblrRowLastInt=\count366
 \l__tblr_cover_box_a_dim=\dimen269
 \l__tblr_cover_box_b_dim=\dimen270
 \l__tblr_table_hlines_box=\box83
@@ -562,8 +566,8 @@ Package: xparse 2025-10-09 L3 Experimental document command parser
 \l__tblr_row_vpace_dim=\dimen281
 \l__tblr_vline_aboveskip_dim=\dimen282
 \l__tblr_vline_belowskip_dim=\dimen283
-\lTblrCellRowSpanInt=\count365
-\lTblrCellColSpanInt=\count366
+\lTblrCellRowSpanInt=\count367
+\lTblrCellColSpanInt=\count368
 \l__tblr_cell_wd_dim=\dimen284
 \l__tblr_cell_ht_dim=\dimen285
 \lTblrCellAboveBorderWidthDim=\dimen286
@@ -594,36 +598,39 @@ Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
 \caption@hangindent=\dimen303
 Package caption Info: Standard document class detected.
 )
-\c@caption@flags=\count367
-\c@continuedfloat=\count368
+\c@caption@flags=\count369
+\c@continuedfloat=\count370
+Package caption Info: changepage package is loaded.
+\caption@adjustwidth@hsize=\dimen304
+\caption@adjustwidth@linewidth=\dimen305
 Package caption Info: hyperref package is loaded.
 Package caption Info: longtable package is loaded.
  (C:\Users\USER\Desktop\MIKTEX\tex/latex/caption\ltcaption.sty
 Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 ))
 Package caption Info: New subtype `subfigure' on input line 238.
-\c@subfigure=\count369
+\c@subfigure=\count371
 Package caption Info: New subtype `subtable' on input line 238.
-\c@subtable=\count370
+\c@subtable=\count372
 ) (C:\Users\USER\Desktop\MIKTEX\tex/latex/booktabs\booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
-\heavyrulewidth=\dimen304
-\lightrulewidth=\dimen305
-\cmidrulewidth=\dimen306
-\belowrulesep=\dimen307
-\belowbottomsep=\dimen308
-\aboverulesep=\dimen309
-\abovetopsep=\dimen310
-\cmidrulesep=\dimen311
-\cmidrulekern=\dimen312
-\defaultaddspace=\dimen313
-\@cmidla=\count371
-\@cmidlb=\count372
-\@aboverulesep=\dimen314
-\@belowrulesep=\dimen315
-\@thisruleclass=\count373
-\@lastruleclass=\count374
-\@thisrulewidth=\dimen316
+\heavyrulewidth=\dimen306
+\lightrulewidth=\dimen307
+\cmidrulewidth=\dimen308
+\belowrulesep=\dimen309
+\belowbottomsep=\dimen310
+\aboverulesep=\dimen311
+\abovetopsep=\dimen312
+\cmidrulesep=\dimen313
+\cmidrulekern=\dimen314
+\defaultaddspace=\dimen315
+\@cmidla=\count373
+\@cmidlb=\count374
+\@aboverulesep=\dimen316
+\@belowrulesep=\dimen317
+\@thisruleclass=\count375
+\@lastruleclass=\count376
+\@thisrulewidth=\dimen318
 ) (C:\Users\USER\Desktop\MIKTEX\tex/latex/svg\svg.sty
 Package: svg 2020/11/26 v2.02k (include SVG pictures)
  (C:\Users\USER\Desktop\MIKTEX\tex/latex/trimspaces\trimspaces.sty
@@ -640,9 +647,9 @@ Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )) (C:\Users\USER\Desktop\MIKTEX\tex/generic/iftex\ifluatex.sty
 Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
 ))
-\c@svg@param@lastpage=\count375
+\c@svg@param@lastpage=\count377
 \svg@box=\box91
-\c@svg@param@currpage=\count376
+\c@svg@param@currpage=\count378
 ) (C:\Users\USER\Desktop\MIKTEX\tex/latex/transparent\transparent.sty
 Package: transparent 2025-06-23 v1.6 Transparency with color stacks
  (C:\Users\USER\Desktop\MIKTEX\tex/latex/transparent\transparent-nometadata.sty
@@ -651,8 +658,8 @@ Package: transparent-nometadata 2025-06-23 v1.6 Transparency via pdfTeX's color 
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 ))) (C:\Users\USER\Desktop\MIKTEX\tex/latex/pgf/systemlayer\pgfsys.sty (C:\Users\USER\Desktop\MIKTEX\tex/latex/pgf/utilities\pgfrcs.sty (C:\Users\USER\Desktop\MIKTEX\tex/generic/pgf/utilities\pgfutil-common.tex
 \pgfutil@everybye=\toks33
-\pgfutil@tempdima=\dimen317
-\pgfutil@tempdimb=\dimen318
+\pgfutil@tempdima=\dimen319
+\pgfutil@tempdimb=\dimen320
 ) (C:\Users\USER\Desktop\MIKTEX\tex/generic/pgf/utilities\pgfutil-latex.def
 \pgfutil@abb=\box92
 ) (C:\Users\USER\Desktop\MIKTEX\tex/generic/pgf/utilities\pgfrcs.code.tex (C:\Users\USER\Desktop\MIKTEX\tex/generic/pgf\pgf.revision.tex)
@@ -665,26 +672,26 @@ Package: pgfsys 2025-08-29 v3.1.11a (3.1.11a)
  (C:\Users\USER\Desktop\MIKTEX\tex/generic/pgf/utilities\pgfkeyslibraryfiltered.code.tex
 \pgfkeys@tmptoks=\toks36
 ))
-\pgf@x=\dimen319
-\pgf@y=\dimen320
-\pgf@xa=\dimen321
-\pgf@ya=\dimen322
-\pgf@xb=\dimen323
-\pgf@yb=\dimen324
-\pgf@xc=\dimen325
-\pgf@yc=\dimen326
-\pgf@xd=\dimen327
-\pgf@yd=\dimen328
+\pgf@x=\dimen321
+\pgf@y=\dimen322
+\pgf@xa=\dimen323
+\pgf@ya=\dimen324
+\pgf@xb=\dimen325
+\pgf@yb=\dimen326
+\pgf@xc=\dimen327
+\pgf@yc=\dimen328
+\pgf@xd=\dimen329
+\pgf@yd=\dimen330
 \w@pgf@writea=\write3
 \r@pgf@reada=\read2
-\c@pgf@counta=\count377
-\c@pgf@countb=\count378
-\c@pgf@countc=\count379
-\c@pgf@countd=\count380
+\c@pgf@counta=\count379
+\c@pgf@countb=\count380
+\c@pgf@countc=\count381
+\c@pgf@countd=\count382
 \t@pgf@toka=\toks37
 \t@pgf@tokb=\toks38
 \t@pgf@tokc=\toks39
-\pgf@sys@id@count=\count381
+\pgf@sys@id@count=\count383
  (C:\Users\USER\Desktop\MIKTEX\tex/generic/pgf/systemlayer\pgf.cfg
 File: pgf.cfg 2025-08-29 v3.1.11a (3.1.11a)
 )
@@ -695,77 +702,77 @@ File: pgfsys-pdftex.def 2025-08-29 v3.1.11a (3.1.11a)
 File: pgfsys-common-pdf.def 2025-08-29 v3.1.11a (3.1.11a)
 ))) (C:\Users\USER\Desktop\MIKTEX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgfsyssoftpath@smallbuffer@items=\count382
-\pgfsyssoftpath@bigbuffer@items=\count383
+\pgfsyssoftpath@smallbuffer@items=\count384
+\pgfsyssoftpath@bigbuffer@items=\count385
 ) (C:\Users\USER\Desktop\MIKTEX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 )) (C:\Users\USER\Desktop\MIKTEX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count384
+\c@float@type=\count386
 \float@exts=\toks40
 \float@box=\box93
 \@float@everytoks=\toks41
 \@floatcapt=\box94
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 37.
+Package hyperref Info: Option `colorlinks' set `true' on input line 38.
 \@nomenclaturefile=\write4
 \openout4 = `main.nlo'.
 
-Package nomencl Info: Writing nomenclature file main.nlo on input line 39.
-
-
-Package fancyhdr Warning: \fancyhead's `E' option without twoside option is useless.
-(fancyhdr)                Please consider using the `twoside' option on input line 44.
+Package nomencl Info: Writing nomenclature file main.nlo on input line 40.
 
 
 Package fancyhdr Warning: \fancyhead's `E' option without twoside option is useless.
 (fancyhdr)                Please consider using the `twoside' option on input line 45.
+
+
+Package fancyhdr Warning: \fancyhead's `E' option without twoside option is useless.
+(fancyhdr)                Please consider using the `twoside' option on input line 46.
 
 (C:\Users\USER\Desktop\MIKTEX\tex/latex/titlesec\titlesec.sty
 Package: titlesec 2025/01/04 v2.17 Sectioning titles
 \ttl@box=\box95
 \beforetitleunit=\skip114
 \aftertitleunit=\skip115
-\ttl@plus=\dimen329
-\ttl@minus=\dimen330
+\ttl@plus=\dimen331
+\ttl@minus=\dimen332
 \ttl@toksa=\toks42
-\titlewidth=\dimen331
-\titlewidthlast=\dimen332
-\titlewidthfirst=\dimen333
+\titlewidth=\dimen333
+\titlewidthlast=\dimen334
+\titlewidthfirst=\dimen335
 ) (C:\Users\USER\Desktop\MIKTEX\tex/latex/graphics\rotating.sty
 Package: rotating 2025/01/14 v2.16e rotated objects in LaTeX
-\c@r@tfl@t=\count385
+\c@r@tfl@t=\count387
 \rotFPtop=\skip116
 \rotFPbot=\skip117
 \rot@float@box=\box96
 \rot@mess@toks=\toks43
 )
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 61.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 62.
  (C:\Users\USER\Desktop\MIKTEX\tex/latex/lm\t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-) (c:\Users\USER\Desktop\New folder\FYP-main\build\main.aux)
+) (c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-Package hyperref Info: Link coloring ON on input line 61.
- (c:\Users\USER\Desktop\New folder\FYP-main\build\main.out) (c:\Users\USER\Desktop\New folder\FYP-main\build\main.out)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+Package hyperref Info: Link coloring ON on input line 62.
+ (c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.out) (c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.out)
 \@outlinefile=\write5
 \openout5 = `main.out'.
 
@@ -806,16 +813,16 @@ Package hyperref Info: Link coloring ON on input line 61.
 
 (C:\Users\USER\Desktop\MIKTEX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count386
-\scratchdimen=\dimen334
+\scratchcounter=\count388
+\scratchdimen=\dimen336
 \scratchbox=\box97
-\nofMPsegments=\count387
-\nofMParguments=\count388
+\nofMPsegments=\count389
+\nofMParguments=\count390
 \everyMPshowfont=\toks44
-\MPscratchCnt=\count389
-\MPscratchDim=\dimen335
-\MPnumerator=\count390
-\makeMPintoPDFobject=\count391
+\MPscratchCnt=\count391
+\MPscratchDim=\dimen337
+\MPnumerator=\count392
+\makeMPintoPDFobject=\count393
 \everyMPtoPDFconversion=\toks45
 ) (C:\Users\USER\Desktop\MIKTEX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -828,12 +835,12 @@ Package caption Info: float package is loaded.
 Package caption Info: rotating package is loaded.
 Package caption Info: End \AtBeginDocument code.
  (titlepage.tex
-<images/Logo2.png, id=281, 936.49875pt x 260.975pt>
+<images/Logo2.png, id=293, 936.49875pt x 260.975pt>
 File: images/Logo2.png Graphic file (type png)
 <use images/Logo2.png>
 Package pdftex.def Info: images/Logo2.png  used on input line 4.
 (pdftex.def)             Requested size: 469.75502pt x 130.90929pt.
-<images/red _line.png, id=283, 187.45032pt x 145.29282pt>
+<images/red _line.png, id=295, 187.45032pt x 145.29282pt>
 File: images/red _line.png Graphic file (type png)
 <use images/red _line.png>
 Package pdftex.def Info: images/red _line.png  used on input line 7.
@@ -899,15 +906,23 @@ l.1 \chapter
 
 ]) [5
 
-] (c:\Users\USER\Desktop\New folder\FYP-main\build\main.toc [6])
+] (c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.toc [6]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[7])
 \tf@toc=\write6
 \openout6 = `main.toc'.
 
- (c:\Users\USER\Desktop\New folder\FYP-main\build\main.lof [7])
+ (c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.lof)
 \tf@lof=\write7
 \openout7 = `main.lof'.
 
- (c:\Users\USER\Desktop\New folder\FYP-main\build\main.lot)
+ (c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.lot)
 \tf@lot=\write8
 \openout8 = `main.lot'.
 
@@ -924,7 +939,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [2]
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 158.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 152.
  (C:\Users\USER\Desktop\MIKTEX\tex/latex/lm\ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -935,7 +950,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[3{C:/Users/USER/Desktop/MIKTEX/fonts/enc/dvips/lm/lm-ts1.enc}]
+[3{C:/Users/USER/Desktop/MIKTEX/fonts/enc/dvips/lm/lm-ts1.enc}]) (chapters/literature_review.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -943,19 +958,19 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[4]) (chapters/literature_review.tex
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[5]
+[4]
 Chapter 2.
-[6
+[5
 
 ]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[6]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1012,61 +1027,63 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [13]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[14]
 Overfull \hbox (2.55156pt too wide) in paragraph at lines 641--641
 |[]\T1/lmr/bx/n/14.4 Comparative anal-y-sis ta-ble of the dif-fer-ent ride-hailing plat-
  []
 
 
-Overfull \hbox (8.3027pt too wide) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Transport
+Overfull \hbox (1.82832pt too wide) in paragraph at lines 726--726
+[]\T1/lmr/bx/n/12 Feature 
+ []
+
+
+Overfull \hbox (1.64897pt too wide) in paragraph at lines 726--726
+[]\T1/lmr/bx/n/12 Transport
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Booking
+[]\T1/lmr/bx/n/12 Booking
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Route
- []
-
-
-Underfull \hbox (badness 1365) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Seat man-
- []
-
-
-Overfull \hbox (4.12946pt too wide) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Operational
+[]\T1/lmr/bx/n/12 Route
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 co-or-di-na-
+[]\T1/lmr/bx/n/12 Seat
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Pricing
+\T1/lmr/bx/n/12 man-age-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Courier
+[]\T1/lmr/bx/n/12 Operational
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 in-te-gra-
+\T1/lmr/bx/n/12 co-or-di-na-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+[]\T1/lmr/bx/n/12 Pricing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+[]\T1/lmr/bx/n/12 Courier
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/bx/n/12 in-te-gra-
  []
 
 
@@ -1085,48 +1102,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 726--726
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 shut-tle
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 co-or-di-
- []
-
-
 Overfull \hbox (6.73666pt too wide) in paragraph at lines 726--726
 []\T1/lmr/m/n/12 Independent
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Fixed
+[]\T1/lmr/m/n/12 Fixed in-ter-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 in-ter-city
+\T1/lmr/m/n/12 city routes
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 routes
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 (e.g.,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 Kam-
- []
-
-
-Overfull \hbox (10.97969pt too wide) in paragraph at lines 726--726
-\T1/lmr/m/n/12 pala^^UKabale) 
+\T1/lmr/m/n/12 (e.g., Kam-
  []
 
 
@@ -1146,17 +1138,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 726--726
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 level
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 shut-tle
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 man-age-
+\T1/lmr/m/n/12 level shut-tle
  []
 
 
@@ -1216,12 +1198,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 726--726
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 nav-i-
+\T1/lmr/m/n/12 rides or
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 ga-tion
+\T1/lmr/m/n/12 nav-i-ga-tion
  []
 
 
@@ -1236,12 +1218,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 726--726
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Dynamic
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 or user-
+[]\T1/lmr/m/n/12 Dynamic or
  []
 
 
@@ -1316,12 +1293,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 726--726
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 nav-i-
+\T1/lmr/m/n/12 rides or
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 ga-tion
+\T1/lmr/m/n/12 nav-i-ga-tion
  []
 
 
@@ -1336,12 +1313,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 726--726
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Dynamic
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 or user-
+[]\T1/lmr/m/n/12 Dynamic or
  []
 
 
@@ -1416,12 +1388,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 726--726
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 nav-i-
+\T1/lmr/m/n/12 rides or
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 ga-tion
+\T1/lmr/m/n/12 nav-i-ga-tion
  []
 
 
@@ -1436,12 +1408,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 726--726
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Dynamic
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 or user-
+[]\T1/lmr/m/n/12 Dynamic or
  []
 
 
@@ -1511,12 +1478,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 726--726
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 nav-i-
+\T1/lmr/m/n/12 rides or
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 ga-tion
+\T1/lmr/m/n/12 nav-i-ga-tion
  []
 
 
@@ -1531,12 +1498,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 726--726
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Dynamic
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 or user-
+[]\T1/lmr/m/n/12 Dynamic or
  []
 
 
@@ -1551,22 +1513,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 726--726
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Driver-
+[]\T1/lmr/m/n/12 Driver- pas-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 pas-sen-ger
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 match-ing
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 or route
+Underfull \hbox (badness 1881) in paragraph at lines 726--726
+\T1/lmr/m/n/12 ing or route
  []
 
 
@@ -1606,12 +1558,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 726--726
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 nav-i-
+\T1/lmr/m/n/12 rides or
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 ga-tion
+\T1/lmr/m/n/12 nav-i-ga-tion
  []
 
 
@@ -1626,12 +1578,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 726--726
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Dynamic
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 or user-
+[]\T1/lmr/m/n/12 Dynamic or
  []
 
 
@@ -1706,12 +1653,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 726--726
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 nav-i-
+\T1/lmr/m/n/12 rides or
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 ga-tion
+\T1/lmr/m/n/12 nav-i-ga-tion
  []
 
 
@@ -1726,12 +1673,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 726--726
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Dynamic
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 or user-
+[]\T1/lmr/m/n/12 Dynamic or
  []
 
 
@@ -1806,22 +1748,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 726--726
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 (bus-
+\T1/lmr/m/n/12 (bus-like
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 like
+[]\T1/lmr/m/n/12 Grouped
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 sys-
- []
-
-
-Overfull \hbox (27.12207pt too wide) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Grouped/shared
+\T1/lmr/m/n/12 or shared
  []
 
 
@@ -1840,13 +1777,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 726--726
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 optimized
- []
-
-
-Underfull \hbox (badness 3343) in paragraph at lines 726--726
-\T1/lmr/m/n/12 or flex-i-ble
+Underfull \hbox (badness 3657) in paragraph at lines 726--726
+\T1/lmr/m/n/12 optimized or
  []
 
 
@@ -1871,22 +1803,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 726--726
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 System-
+[]\T1/lmr/m/n/12 System-level
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 level fleet
+\T1/lmr/m/n/12 fleet op-ti-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 op-ti-miza-
- []
-
-
-Overfull \hbox (30.443pt too wide) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Variable/shared
+[]\T1/lmr/m/n/12 Variable
  []
 
 
@@ -1916,22 +1843,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 726--726
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 (bus-
+\T1/lmr/m/n/12 (bus-like
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 like
+[]\T1/lmr/m/n/12 Grouped
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 sys-
- []
-
-
-Overfull \hbox (27.12207pt too wide) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Grouped/shared
+\T1/lmr/m/n/12 or shared
  []
 
 
@@ -1950,13 +1872,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 726--726
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 optimized
- []
-
-
-Underfull \hbox (badness 3343) in paragraph at lines 726--726
-\T1/lmr/m/n/12 or flex-i-ble
+Underfull \hbox (badness 3657) in paragraph at lines 726--726
+\T1/lmr/m/n/12 optimized or
  []
 
 
@@ -1981,22 +1898,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 726--726
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 System-
+[]\T1/lmr/m/n/12 System-level
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 level fleet
+\T1/lmr/m/n/12 fleet op-ti-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 op-ti-miza-
- []
-
-
-Overfull \hbox (30.443pt too wide) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Variable/shared
+[]\T1/lmr/m/n/12 Variable
  []
 
 
@@ -2021,12 +1933,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 726--726
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 nav-i-
+\T1/lmr/m/n/12 rides or
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 ga-tion
+\T1/lmr/m/n/12 nav-i-ga-tion
  []
 
 
@@ -2041,12 +1953,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 726--726
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Dynamic
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 or user-
+[]\T1/lmr/m/n/12 Dynamic or
  []
 
 
@@ -2105,48 +2012,715 @@ Underfull \hbox (badness 10000) in paragraph at lines 726--726
  []
 
 
-Overfull \hbox (8.3027pt too wide) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Transport
+Overfull \hbox (1.82832pt too wide) in paragraph at lines 726--726
+[]\T1/lmr/bx/n/12 Feature 
+ []
+
+
+Overfull \hbox (1.64897pt too wide) in paragraph at lines 726--726
+[]\T1/lmr/bx/n/12 Transport
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Booking
+[]\T1/lmr/bx/n/12 Booking
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Route
- []
-
-
-Underfull \hbox (badness 1365) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Seat man-
- []
-
-
-Overfull \hbox (4.12946pt too wide) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Operational
+[]\T1/lmr/bx/n/12 Route
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 co-or-di-na-
+[]\T1/lmr/bx/n/12 Seat
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Pricing
+\T1/lmr/bx/n/12 man-age-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Courier
+[]\T1/lmr/bx/n/12 Operational
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 in-te-gra-
+\T1/lmr/bx/n/12 co-or-di-na-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+[]\T1/lmr/bx/n/12 Pricing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+[]\T1/lmr/bx/n/12 Courier
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/bx/n/12 in-te-gra-
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+[]\T1/lmr/m/n/12 Fixed-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 route
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 pri-vate
+ []
+
+
+Overfull \hbox (6.73666pt too wide) in paragraph at lines 726--726
+[]\T1/lmr/m/n/12 Independent
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+[]\T1/lmr/m/n/12 Fixed in-ter-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 city routes
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 (e.g., Kam-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+[]\T1/lmr/m/n/12 Real-time
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 seat al-lo-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+[]\T1/lmr/m/n/12 Operator-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 level shut-tle
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+[]\T1/lmr/m/n/12 Fixed
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 fare per
+ []
+
+
+Underfull \hbox (badness 6978) in paragraph at lines 726--726
+\T1/lmr/m/n/12 seat and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 courier
+ []
+
+
+Underfull \hbox (badness 1466) in paragraph at lines 726--726
+[]\T1/lmr/m/n/12 Fully in-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 te-grated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 pas-sen-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 ger and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 par-cel
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+[]\T1/lmr/m/n/12 Point-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 to-point
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 rides or
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 nav-i-ga-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 or trip
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 plan-ning
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+[]\T1/lmr/m/n/12 Dynamic or
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+[]\T1/lmr/m/n/12 PNot ex-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 posed to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+[]\T1/lmr/m/n/12 Driver-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 passenger
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 match-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 or route
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+[]\T1/lmr/m/n/12 Dynamic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 or
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 distance-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+[]\T1/lmr/m/n/12 Separate
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 or lim-
+ []
+
+
+Overfull \hbox (3.99478pt too wide) in paragraph at lines 726--726
+[]\T1/lmr/m/n/12 Safeboda 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+[]\T1/lmr/m/n/12 Point-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 to-point
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 rides or
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 nav-i-ga-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 or trip
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 plan-ning
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+[]\T1/lmr/m/n/12 Dynamic or
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+[]\T1/lmr/m/n/12 PNot ex-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 posed to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+[]\T1/lmr/m/n/12 Driver-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 passenger
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 match-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 or route
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+[]\T1/lmr/m/n/12 Dynamic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 or
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 distance-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+[]\T1/lmr/m/n/12 Separate
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 or lim-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+[]\T1/lmr/m/n/12 Taxify
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+[]\T1/lmr/m/n/12 Point-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 to-point
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 rides or
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 nav-i-ga-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 or trip
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 plan-ning
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+[]\T1/lmr/m/n/12 Dynamic or
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+[]\T1/lmr/m/n/12 PNot ex-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 posed to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+[]\T1/lmr/m/n/12 Driver-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 passenger
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 match-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 or route
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+[]\T1/lmr/m/n/12 Dynamic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 or
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 distance-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+[]\T1/lmr/m/n/12 Separate
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 or lim-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+[]\T1/lmr/m/n/12 Point-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 to-point
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 rides or
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 nav-i-ga-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 or trip
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 plan-ning
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+[]\T1/lmr/m/n/12 Dynamic or
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+[]\T1/lmr/m/n/12 PNot ex-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 posed to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+[]\T1/lmr/m/n/12 Driver- pas-
+ []
+
+
+Underfull \hbox (badness 1881) in paragraph at lines 726--726
+\T1/lmr/m/n/12 ing or route
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+[]\T1/lmr/m/n/12 Dynamic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 or
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 distance-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+[]\T1/lmr/m/n/12 Separate
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 or lim-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+[]\T1/lmr/m/n/12 Point-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 to-point
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 rides or
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 nav-i-ga-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 or trip
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 plan-ning
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+[]\T1/lmr/m/n/12 Dynamic or
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+[]\T1/lmr/m/n/12 PNot ex-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 posed to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+[]\T1/lmr/m/n/12 Driver-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 passenger
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 match-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 or route
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+[]\T1/lmr/m/n/12 Dynamic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 or
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 distance-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+[]\T1/lmr/m/n/12 Separate
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 or lim-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+[]\T1/lmr/m/n/12 Transit
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+[]\T1/lmr/m/n/12 Point-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 to-point
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 rides or
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 nav-i-ga-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 or trip
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 plan-ning
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+[]\T1/lmr/m/n/12 Dynamic or
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+[]\T1/lmr/m/n/12 PNot ex-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 posed to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+[]\T1/lmr/m/n/12 Driver-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 passenger
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 match-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 or route
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+[]\T1/lmr/m/n/12 Dynamic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 or
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 distance-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+[]\T1/lmr/m/n/12 Separate
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 or lim-
+ []
+
+
+Overfull \hbox (28.18346pt too wide) detected at line 726
+ [] 
  []
 
 
@@ -2158,137 +2732,192 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [15]
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Fixed-
+[]\T1/lmr/m/n/12 Shared
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 route
+\T1/lmr/m/n/12 mass
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 pri-vate
+\T1/lmr/m/n/12 tran-sit
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 shut-tle
+\T1/lmr/m/n/12 (bus-like
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 co-or-di-
- []
-
-
-Overfull \hbox (6.73666pt too wide) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Independent
+[]\T1/lmr/m/n/12 Grouped
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Fixed
+\T1/lmr/m/n/12 or shared
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 in-ter-city
+\T1/lmr/m/n/12 ride
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 routes
+\T1/lmr/m/n/12 match-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 (e.g.,
+[]\T1/lmr/m/n/12 Algorithm-
+ []
+
+
+Underfull \hbox (badness 3657) in paragraph at lines 726--726
+\T1/lmr/m/n/12 optimized or
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 Kam-
- []
-
-
-Overfull \hbox (10.97969pt too wide) in paragraph at lines 726--726
-\T1/lmr/m/n/12 pala^^UKabale) 
+[]\T1/lmr/m/n/12 Limited
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Real-time
+\T1/lmr/m/n/12 group-ing,
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 seat al-lo-
+\T1/lmr/m/n/12 not seat-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Operator-
+\T1/lmr/m/n/12 by-seat
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 level
+[]\T1/lmr/m/n/12 System-level
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 shut-tle
+\T1/lmr/m/n/12 fleet op-ti-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 man-age-
+[]\T1/lmr/m/n/12 Variable
+ []
+
+
+Underfull \hbox (badness 1067) in paragraph at lines 726--726
+[]\T1/lmr/m/n/12 Not core
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Fixed
+\T1/lmr/m/n/12 func-tion-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 fare per
- []
-
-
-Underfull \hbox (badness 6978) in paragraph at lines 726--726
-\T1/lmr/m/n/12 seat and
+[]\T1/lmr/m/n/12 Shared
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 courier
- []
-
-
-Underfull \hbox (badness 1466) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Fully in-
+\T1/lmr/m/n/12 mass
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 te-grated
+\T1/lmr/m/n/12 tran-sit
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 pas-sen-
+\T1/lmr/m/n/12 (bus-like
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 ger and
+[]\T1/lmr/m/n/12 Grouped
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 par-cel
+\T1/lmr/m/n/12 or shared
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 ride
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 match-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+[]\T1/lmr/m/n/12 Algorithm-
+ []
+
+
+Underfull \hbox (badness 3657) in paragraph at lines 726--726
+\T1/lmr/m/n/12 optimized or
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+[]\T1/lmr/m/n/12 Limited
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 group-ing,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 not seat-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 by-seat
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+[]\T1/lmr/m/n/12 System-level
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 fleet op-ti-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+[]\T1/lmr/m/n/12 Variable
+ []
+
+
+Underfull \hbox (badness 1067) in paragraph at lines 726--726
+[]\T1/lmr/m/n/12 Not core
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+\T1/lmr/m/n/12 func-tion-
  []
 
 
@@ -2303,12 +2932,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 726--726
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 nav-i-
+\T1/lmr/m/n/12 rides or
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 ga-tion
+\T1/lmr/m/n/12 nav-i-ga-tion
  []
 
 
@@ -2323,12 +2952,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 726--726
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Dynamic
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 or user-
+[]\T1/lmr/m/n/12 Dynamic or
  []
 
 
@@ -2387,400 +3011,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 726--726
  []
 
 
-Overfull \hbox (3.99478pt too wide) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Safeboda 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Point-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 to-point
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 nav-i-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 ga-tion
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 or trip
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 plan-ning
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Dynamic
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 or user-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 PNot ex-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 posed to
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Driver-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 passenger
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 match-ing
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 or route
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Dynamic
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 or
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 distance-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Separate
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 or lim-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Taxify
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Point-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 to-point
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 nav-i-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 ga-tion
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 or trip
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 plan-ning
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Dynamic
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 or user-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 PNot ex-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 posed to
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Driver-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 passenger
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 match-ing
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 or route
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Dynamic
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 or
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 distance-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Separate
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 or lim-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Point-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 to-point
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 nav-i-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 ga-tion
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 or trip
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 plan-ning
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Dynamic
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 or user-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 PNot ex-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 posed to
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Driver-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 pas-sen-ger
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 match-ing
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 or route
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Dynamic
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 or
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 distance-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Separate
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 or lim-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Point-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 to-point
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 nav-i-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 ga-tion
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 or trip
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 plan-ning
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Dynamic
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 or user-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 PNot ex-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 posed to
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Driver-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 passenger
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 match-ing
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 or route
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Dynamic
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 or
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 distance-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Separate
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 or lim-
- []
-
-
-Overfull \hbox (42.4098pt too wide) detected at line 726
+Overfull \hbox (28.18346pt too wide) detected at line 726
  [] 
  []
 
+) (chapters/methodology.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2789,443 +3024,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [16]
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Transit
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Point-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 to-point
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 nav-i-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 ga-tion
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 or trip
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 plan-ning
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Dynamic
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 or user-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 PNot ex-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 posed to
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Driver-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 passenger
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 match-ing
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 or route
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Dynamic
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 or
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 distance-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Separate
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 or lim-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Shared
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 mass
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 tran-sit
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 (bus-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 like
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 sys-
- []
-
-
-Overfull \hbox (27.12207pt too wide) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Grouped/shared
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 ride
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 match-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Algorithm-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 optimized
- []
-
-
-Underfull \hbox (badness 3343) in paragraph at lines 726--726
-\T1/lmr/m/n/12 or flex-i-ble
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Limited
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 group-ing,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 not seat-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 by-seat
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 System-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 level fleet
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 op-ti-miza-
- []
-
-
-Overfull \hbox (30.443pt too wide) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Variable/shared
- []
-
-
-Underfull \hbox (badness 1067) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Not core
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 func-tion-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Shared
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 mass
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 tran-sit
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 (bus-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 like
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 sys-
- []
-
-
-Overfull \hbox (27.12207pt too wide) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Grouped/shared
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 ride
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 match-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Algorithm-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 optimized
- []
-
-
-Underfull \hbox (badness 3343) in paragraph at lines 726--726
-\T1/lmr/m/n/12 or flex-i-ble
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Limited
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 group-ing,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 not seat-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 by-seat
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 System-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 level fleet
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 op-ti-miza-
- []
-
-
-Overfull \hbox (30.443pt too wide) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Variable/shared
- []
-
-
-Underfull \hbox (badness 1067) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Not core
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 func-tion-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Point-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 to-point
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 nav-i-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 ga-tion
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 or trip
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 plan-ning
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Dynamic
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 or user-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 PNot ex-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 posed to
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Driver-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 passenger
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 match-ing
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 or route
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Dynamic
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 or
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 distance-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\T1/lmr/m/n/12 Separate
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-\T1/lmr/m/n/12 or lim-
- []
-
-
-Overfull \hbox (42.4098pt too wide) detected at line 726
- [] 
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[17]) (chapters/methodology.tex
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[18]
 Chapter 3.
-[19
+[17
 
 ]
 
@@ -3235,7 +3035,27 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
+[18]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[19]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
 [20]
+Overfull \hbox (4.94406pt too wide) in paragraph at lines 247--251
+\T1/lmr/m/n/12 The tech-nol-ogy stack had been care-fully cho-sen to pri-or-i-tize rapid de-vel-op-ment, cost-efficiency,
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -3252,10 +3072,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [22]
-Overfull \hbox (4.94406pt too wide) in paragraph at lines 247--251
-\T1/lmr/m/n/12 The tech-nol-ogy stack had been care-fully cho-sen to pri-or-i-tize rapid de-vel-op-ment, cost-efficiency,
- []
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -3272,8 +3088,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [24]
-Underfull \hbox (badness 10000) in paragraph at lines 346--347
-
+Overfull \hbox (15.25018pt too wide) in paragraph at lines 500--502
+[]\T1/lmr/m/n/12 Aggressive lo-cal caching us-ing \T1/lmr/bx/n/12 Hive \T1/lmr/m/n/12 to main-tain func-tion-al-ity in low-connectivity
  []
 
 
@@ -3284,54 +3100,20 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [25]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[26]
-<images/methodology_3.png, id=730, 398.9304pt x 552.3837pt>
-File: images/methodology_3.png Graphic file (type png)
-<use images/methodology_3.png>
-Package pdftex.def Info: images/methodology_3.png  used on input line 480.
-(pdftex.def)             Requested size: 281.85587pt x 390.29028pt.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[27 <./images/methodology_3.png>]
-Overfull \hbox (6.53448pt too wide) in paragraph at lines 504--507
-[]\T1/lmr/m/n/12 Database setup with \T1/lmr/bx/n/12 Post-greSQL \T1/lmr/m/n/12 and the \T1/lmr/bx/n/12 Post-GIS \T1/lmr/m/n/12 ex-ten-sion, sup-port-ing geospa-
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[28]
-<images/gantt_3.png, id=741, 1067.187pt x 418.6842pt>
+<images/gantt_3.png, id=739, 1067.187pt x 418.6842pt>
 File: images/gantt_3.png Graphic file (type png)
 <use images/gantt_3.png>
-Package pdftex.def Info: images/gantt_3.png  used on input line 569.
+Package pdftex.def Info: images/gantt_3.png  used on input line 538.
 (pdftex.def)             Requested size: 493.2442pt x 193.51703pt.
 
-Overfull \hbox (23.48918pt too wide) in paragraph at lines 569--570
+Overfull \hbox (23.48918pt too wide) in paragraph at lines 538--539
  [][] 
  []
 
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 579.
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 548.
 (C:\Users\USER\Desktop\MIKTEX\tex/latex/lm\t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
+)) (chapters/System Analysis and Design.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -3339,7 +3121,31 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[29 <./images/gantt_3.png>]) (chapters/System Analysis and Design.tex
+[26 <./images/gantt_3.png>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[27]
+Chapter 4.
+[28
+
+]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[29]
+Overfull \hbox (1.22415pt too wide) in paragraph at lines 138--142
+[]\T1/lmr/m/n/12 Overall, the cur-rent sys-tem demon-strates sig-nif-i-cant gaps in co-or-di-na-tion, trans-parency,
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -3348,10 +3154,23 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [30]
-Chapter 4.
-[31
 
-]
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[31]
+<images/methodology_3.png, id=793, 398.9304pt x 552.3837pt>
+File: images/methodology_3.png Graphic file (type png)
+<use images/methodology_3.png>
+Package pdftex.def Info: images/methodology_3.png  used on input line 262.
+(pdftex.def)             Requested size: 281.85587pt x 390.29028pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -3367,36 +3186,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[33]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[34]
-Overfull \hbox (27.29944pt too wide) in paragraph at lines 281--283
-[]\T1/lmr/bx/n/12 Presentation Layer: \T1/lmr/m/n/12 En-com-passes all in-ter-ac-tive Flut-ter screens (e.g., \T1/lmtt/m/n/12 dashboard_screen\T1/lmr/m/n/12 , 
- []
-
-
-Overfull \hbox (59.73817pt too wide) in paragraph at lines 289--292
-[]\T1/lmr/bx/n/12 Core / Do-main Layer: \T1/lmr/m/n/12 Houses the busi-ness logic, util-is-ing providers (e.g., \T1/lmtt/m/n/12 auth_provider.dart\T1/lmr/m/n/12 )
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[35]
-<images/FYP/userdiagram.png, id=807, 599.23875pt x 1010.77625pt>
+[33 <./images/methodology_3.png>]
+<images/FYP/userdiagram.png, id=810, 599.23875pt x 1010.77625pt>
 File: images/FYP/userdiagram.png Graphic file (type png)
 <use images/FYP/userdiagram.png>
-Package pdftex.def Info: images/FYP/userdiagram.png  used on input line 319.
+Package pdftex.def Info: images/FYP/userdiagram.png  used on input line 303.
 (pdftex.def)             Requested size: 305.33789pt x 515.0418pt.
 
 
@@ -3406,11 +3200,19 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[36 <./images/FYP/userdiagram.png>]
-<images/context_diagram.png, id=813, 1187.43625pt x 899.36pt>
+[34]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[35 <./images/FYP/userdiagram.png>]
+<images/context_diagram.png, id=823, 1187.43625pt x 899.36pt>
 File: images/context_diagram.png Graphic file (type png)
 <use images/context_diagram.png>
-Package pdftex.def Info: images/context_diagram.png  used on input line 336.
+Package pdftex.def Info: images/context_diagram.png  used on input line 321.
 (pdftex.def)             Requested size: 375.80544pt x 284.63104pt.
 
 
@@ -3420,7 +3222,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[37 <./images/context_diagram.png>]
+[36 <./images/context_diagram.png>]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -3428,7 +3230,30 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[38{C:/Users/USER/Desktop/MIKTEX/fonts/enc/dvips/lm/lm-mathsy.enc}]
+[37]
+Overfull \hbox (4.44002pt too wide) in paragraph at lines 424--425
+\T1/lmr/m/n/12 Traxis en-forces se-cu-rity at mul-ti-ple lev-els. Au-then-ti-ca-tion is han-dled ex-clu-sively through
+ []
+
+
+Overfull \hbox (11.85716pt too wide) in paragraph at lines 424--425
+\T1/lmr/m/n/12 OTP-based phone num-ber ver-i-fi-ca-tion via Fire-base Au-then-ti-ca-tion, elim-i-nat-ing password-
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[38]
+<images/FYP/eda.png, id=836, 988.69376pt x 775.89874pt>
+File: images/FYP/eda.png Graphic file (type png)
+<use images/FYP/eda.png>
+Package pdftex.def Info: images/FYP/eda.png  used on input line 480.
+(pdftex.def)             Requested size: 446.26582pt x 350.21674pt.
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -3437,14 +3262,18 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [39]
-<images/FYP/eda.png, id=832, 988.69376pt x 775.89874pt>
-File: images/FYP/eda.png Graphic file (type png)
-<use images/FYP/eda.png>
-Package pdftex.def Info: images/FYP/eda.png  used on input line 511.
-(pdftex.def)             Requested size: 446.26582pt x 350.21674pt.
+Overfull \hbox (46.33821pt too wide) in paragraph at lines 502--508
+\T1/lmr/m/n/12 In-cludes fields such as \T1/lmtt/m/n/12 company_name\T1/lmr/m/n/12 , \T1/lmtt/m/n/12 company_registration_number\T1/lmr/m/n/12 , \T1/lmtt/m/n/12 company_address\T1/lmr/m/n/12 ,
+ []
 
-Overfull \hbox (62.1231pt too wide) in paragraph at lines 533--539
-\T1/lmr/m/n/12 fields such as \T1/lmtt/m/n/12 company_name\T1/lmr/m/n/12 , \T1/lmtt/m/n/12 company_registration_number\T1/lmr/m/n/12 , \T1/lmtt/m/n/12 company_address\T1/lmr/m/n/12 , \T1/lmtt/m/n/12 vehicle_count\T1/lmr/m/n/12 ,
+
+Overfull \hbox (3.66916pt too wide) in paragraph at lines 502--508
+\T1/lmtt/m/n/12 vehicle_count\T1/lmr/m/n/12 , \T1/lmtt/m/n/12 trip_routes\T1/lmr/m/n/12 , \T1/lmtt/m/n/12 route_charges\T1/lmr/m/n/12 , and a boolean \T1/lmtt/m/n/12 delivers_parcels
+ []
+
+
+Overfull \hbox (46.75897pt too wide) in paragraph at lines 509--515
+\T1/lmr/m/n/12 route be-longs to one op-er-a-tor pro-file (many-to-one re-la-tion-ship via \T1/lmtt/m/n/12 operator_profile_id\T1/lmr/m/n/12 ).
  []
 
 
@@ -3455,18 +3284,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [40 <./images/FYP/eda.png>]
-Overfull \hbox (8.02202pt too wide) in paragraph at lines 540--546
-\T1/lmr/m/n/12 In-cludes fields such as \T1/lmtt/m/n/12 route_code\T1/lmr/m/n/12 , \T1/lmtt/m/n/12 route_name\T1/lmr/m/n/12 , \T1/lmtt/m/n/12 origin\T1/lmr/m/n/12 , \T1/lmtt/m/n/12 destination\T1/lmr/m/n/12 , \T1/lmtt/m/n/12 via\T1/lmr/m/n/12 , \T1/lmtt/m/n/12 base_fare\T1/lmr/m/n/12 ,
+Overfull \hbox (26.18391pt too wide) in paragraph at lines 524--531
+\T1/lmr/m/n/12 fields such as \T1/lmtt/m/n/12 route_name\T1/lmr/m/n/12 , \T1/lmtt/m/n/12 pickup_point\T1/lmr/m/n/12 , \T1/lmtt/m/n/12 dropoff_point\T1/lmr/m/n/12 , \T1/lmtt/m/n/12 travel_date\T1/lmr/m/n/12 , \T1/lmtt/m/n/12 seat_count\T1/lmr/m/n/12 ,
  []
 
 
-Overfull \hbox (32.76045pt too wide) in paragraph at lines 555--562
-\T1/lmr/m/n/12 as \T1/lmtt/m/n/12 route_name\T1/lmr/m/n/12 , \T1/lmtt/m/n/12 pickup_point\T1/lmr/m/n/12 , \T1/lmtt/m/n/12 dropoff_point\T1/lmr/m/n/12 , \T1/lmtt/m/n/12 travel_date\T1/lmr/m/n/12 , \T1/lmtt/m/n/12 seat_count\T1/lmr/m/n/12 , \T1/lmtt/m/n/12 quoted_amount\T1/lmr/m/n/12 ,
- []
-
-
-Overfull \hbox (38.16473pt too wide) in paragraph at lines 563--572
-\T1/lmtt/m/n/12 tracking_number\T1/lmr/m/n/12 , \T1/lmtt/m/n/12 origin\T1/lmr/m/n/12 , \T1/lmtt/m/n/12 destination\T1/lmr/m/n/12 , \T1/lmtt/m/n/12 recipient_name\T1/lmr/m/n/12 , \T1/lmtt/m/n/12 recipient_phone\T1/lmr/m/n/12 , \T1/lmtt/m/n/12 description\T1/lmr/m/n/12 ,
+Overfull \hbox (3.07394pt too wide) in paragraph at lines 532--541
+\T1/lmr/m/n/12 as \T1/lmtt/m/n/12 tracking_number\T1/lmr/m/n/12 , \T1/lmtt/m/n/12 origin\T1/lmr/m/n/12 , \T1/lmtt/m/n/12 destination\T1/lmr/m/n/12 , \T1/lmtt/m/n/12 recipient_name\T1/lmr/m/n/12 , \T1/lmtt/m/n/12 recipient_phone\T1/lmr/m/n/12 ,
  []
 
 
@@ -3476,9 +3300,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[41]
-Overfull \hbox (15.91241pt too wide) in paragraph at lines 652--656
+[41{C:/Users/USER/Desktop/MIKTEX/fonts/enc/dvips/lm/lm-mathsy.enc}]
+Overfull \hbox (41.7621pt too wide) in paragraph at lines 621--625
 []\T1/lmr/bx/n/12 Tickets, Ride his-tory and book-ing lists: \T1/lmr/m/n/12 Scrol-lable list views (\T1/lmtt/m/n/12 ride_history_screen\T1/lmr/m/n/12 ,
+ []
+
+
+Overfull \hbox (14.9482pt too wide) in paragraph at lines 633--637
+\T1/lmr/m/n/12 tin-u-ously fetch and ren-der user and trans-port lo-ca-tions. The \T1/lmtt/m/n/12 ACCESS_FINE_LOCATION
  []
 
 
@@ -3497,10 +3326,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [43]
-<images/level_one_context.png, id=851, 662.475pt x 724.7075pt>
+<images/level_one_context.png, id=860, 662.475pt x 724.7075pt>
 File: images/level_one_context.png Graphic file (type png)
 <use images/level_one_context.png>
-Package pdftex.def Info: images/level_one_context.png  used on input line 728.
+Package pdftex.def Info: images/level_one_context.png  used on input line 697.
 (pdftex.def)             Requested size: 375.80544pt x 411.10817pt.
 ) (chapters/System Implementation, Testing and Validation.tex
 
@@ -3515,17 +3344,20 @@ Chapter 5.
 [45
 
 ]
-<images/FYP/admin1.png, id=861, 1738.495pt x 1127.21124pt>
+Overfull \hbox (6.95541pt too wide) in paragraph at lines 39--45
+[]\T1/lmr/bx/n/12 PostgreSQL (with Post-GIS) \T1/lmr/m/n/12 Post-greSQL was used as the pri-mary re-la-tional database
+ []
+
+<images/FYP/admin1.png, id=870, 1738.495pt x 1127.21124pt>
 File: images/FYP/admin1.png Graphic file (type png)
 <use images/FYP/admin1.png>
 Package pdftex.def Info: images/FYP/admin1.png  used on input line 98.
 (pdftex.def)             Requested size: 375.80544pt x 243.65288pt.
-<images/FYP/admin2.png, id=862, 1738.495pt x 1127.21124pt>
+<images/FYP/admin2.png, id=871, 1738.495pt x 1127.21124pt>
 File: images/FYP/admin2.png Graphic file (type png)
 <use images/FYP/admin2.png>
 Package pdftex.def Info: images/FYP/admin2.png  used on input line 104.
 (pdftex.def)             Requested size: 375.80544pt x 243.65288pt.
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -3534,12 +3366,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [46]
-<images/FYP/admin3.png, id=868, 1738.495pt x 1127.21124pt>
+<images/FYP/admin3.png, id=877, 1738.495pt x 1127.21124pt>
 File: images/FYP/admin3.png Graphic file (type png)
 <use images/FYP/admin3.png>
 Package pdftex.def Info: images/FYP/admin3.png  used on input line 115.
 (pdftex.def)             Requested size: 375.80544pt x 243.65288pt.
-<images/FYP/admin4.png, id=869, 1738.495pt x 1127.21124pt>
+<images/FYP/admin4.png, id=878, 1738.495pt x 1127.21124pt>
 File: images/FYP/admin4.png Graphic file (type png)
 <use images/FYP/admin4.png>
 Package pdftex.def Info: images/FYP/admin4.png  used on input line 121.
@@ -3561,7 +3393,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [48 <./images/FYP/admin3.png> <./images/FYP/admin4.png>]
-<images/FYP/login.jpeg, id=884, 542.025pt x 1204.5pt>
+<images/FYP/login.jpeg, id=893, 542.025pt x 1204.5pt>
 File: images/FYP/login.jpeg Graphic file (type jpg)
 <use images/FYP/login.jpeg>
 Package pdftex.def Info: images/FYP/login.jpeg  used on input line 147.
@@ -3571,7 +3403,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 147--148
  [][] 
  []
 
-<images/FYP/operatorlogin.jpeg, id=885, 542.025pt x 1204.5pt>
+<images/FYP/operatorlogin.jpeg, id=894, 542.025pt x 1204.5pt>
 File: images/FYP/operatorlogin.jpeg Graphic file (type jpg)
 <use images/FYP/operatorlogin.jpeg>
 Package pdftex.def Info: images/FYP/operatorlogin.jpeg  used on input line 153.
@@ -3581,7 +3413,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 153--154
  [][] 
  []
 
-<images/FYP/otpverification.jpeg, id=886, 542.025pt x 1204.5pt>
+<images/FYP/otpverification.jpeg, id=895, 542.025pt x 1204.5pt>
 File: images/FYP/otpverification.jpeg Graphic file (type jpg)
 <use images/FYP/otpverification.jpeg>
 Package pdftex.def Info: images/FYP/otpverification.jpeg  used on input line 183.
@@ -3591,7 +3423,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 183--184
  [][] 
  []
 
-<images/FYP/operatorDashboard.jpeg, id=887, 542.025pt x 1204.5pt>
+<images/FYP/operatorDashboard.jpeg, id=896, 542.025pt x 1204.5pt>
 File: images/FYP/operatorDashboard.jpeg Graphic file (type jpg)
 <use images/FYP/operatorDashboard.jpeg>
 Package pdftex.def Info: images/FYP/operatorDashboard.jpeg  used on input line 189.
@@ -3601,7 +3433,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 189--190
  [][] 
  []
 
-<images/FYP/operatorProfile.jpeg, id=888, 542.025pt x 1204.5pt>
+<images/FYP/operatorProfile.jpeg, id=897, 542.025pt x 1204.5pt>
 File: images/FYP/operatorProfile.jpeg Graphic file (type jpg)
 <use images/FYP/operatorProfile.jpeg>
 Package pdftex.def Info: images/FYP/operatorProfile.jpeg  used on input line 202.
@@ -3611,7 +3443,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 202--203
  [][] 
  []
 
-<images/FYP/companyDetails.jpeg, id=889, 542.025pt x 1204.5pt>
+<images/FYP/companyDetails.jpeg, id=898, 542.025pt x 1204.5pt>
 File: images/FYP/companyDetails.jpeg Graphic file (type jpg)
 <use images/FYP/companyDetails.jpeg>
 Package pdftex.def Info: images/FYP/companyDetails.jpeg  used on input line 208.
@@ -3621,7 +3453,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 208--209
  [][] 
  []
 
-<images/FYP/passengerDashboard.jpeg, id=890, 542.025pt x 1204.5pt>
+<images/FYP/passengerDashboard.jpeg, id=899, 542.025pt x 1204.5pt>
 File: images/FYP/passengerDashboard.jpeg Graphic file (type jpg)
 <use images/FYP/passengerDashboard.jpeg>
 Package pdftex.def Info: images/FYP/passengerDashboard.jpeg  used on input line 239.
@@ -3631,7 +3463,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 239--240
  [][] 
  []
 
-<images/FYP/routes.jpeg, id=891, 542.025pt x 1204.5pt>
+<images/FYP/routes.jpeg, id=900, 542.025pt x 1204.5pt>
 File: images/FYP/routes.jpeg Graphic file (type jpg)
 <use images/FYP/routes.jpeg>
 Package pdftex.def Info: images/FYP/routes.jpeg  used on input line 245.
@@ -3641,7 +3473,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 245--246
  [][] 
  []
 
-<images/FYP/parcel.jpeg, id=892, 542.025pt x 1204.5pt>
+<images/FYP/parcel.jpeg, id=901, 542.025pt x 1204.5pt>
 File: images/FYP/parcel.jpeg Graphic file (type jpg)
 <use images/FYP/parcel.jpeg>
 Package pdftex.def Info: images/FYP/parcel.jpeg  used on input line 258.
@@ -3651,7 +3483,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 258--259
  [][] 
  []
 
-<images/FYP/Digital Ticket.PNG, id=893, 1174.3875pt x 2541.495pt>
+<images/FYP/Digital Ticket.PNG, id=902, 1174.3875pt x 2541.495pt>
 File: images/FYP/Digital Ticket.PNG Graphic file (type png)
 <use images/FYP/Digital Ticket.PNG>
 Package pdftex.def Info: images/FYP/Digital Ticket.PNG  used on input line 264.
@@ -3708,7 +3540,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[54 <./images/FYP/parcel.jpeg> <./images/FYP/Digital Ticket.PNG>]) (chapters/Recommendations, Conclusion, and future works.tex
+[54 <./images/FYP/parcel.jpeg> <./images/FYP/Digital Ticket.PNG>]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -3716,7 +3548,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[55]
+[55]) (chapters/Recommendations, Conclusion, and future works.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -3736,7 +3568,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[58]) (c:\Users\USER\Desktop\New folder\FYP-main\build\main.bbl
+[58]
+Overfull \hbox (10.50089pt too wide) in paragraph at lines 43--44
+[]\T1/lmr/m/n/12 Integration with Dig-i-tal Pay-ment Gate-ways: Sup-port for mo-bile money, debit/credit
+ []
+
+) (c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.bbl
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -3745,30 +3582,40 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [59]
-Underfull \hbox (badness 1142) in paragraph at lines 73--77
-[]\T1/lmr/m/n/12 Codeware Lim-ited. (2023) Ben-e-fits of im-ple-ment-ing on-line bus
+Underfull \hbox (badness 10000) in paragraph at lines 42--47
+\T1/lmr/m/n/12 go . ug / sites / default / ^^\les / reports / Integrated % 20Transport % 20Infrastructure %
  []
 
 
-Underfull \hbox (badness 2717) in paragraph at lines 73--77
-\T1/lmr/m/n/12 seat book-ing sys-tem, pos and mo-bile ap-pli-ca-tion. Ac-
+Overfull \hbox (27.80792pt too wide) in paragraph at lines 65--70
+\T1/lmr/m/n/12 new-[]communications-[]sector-[]report-[]highlights-[]e^^[orts-[]to-[]bridge-[]access-[]and-[]usage-[]gaps/$[][] 
  []
 
 
-Underfull \hbox (badness 1460) in paragraph at lines 73--77
-\T1/lmr/m/n/12 cessed 2026-04-13. [On-line]. Avail-able: [][]$https : / / vocal . media / journal /
+Underfull \hbox (badness 1496) in paragraph at lines 73--77
+[]\T1/lmr/m/n/12 Codeware Lim-ited. (2023) Ben-e-fits of im-ple-ment-ing on-line
+ []
+
+
+Overfull \hbox (22.51671pt too wide) in paragraph at lines 73--77
+\T1/lmr/m/n/12 bene^^\ts-[]of-[]implementing-[]online-[]bus-[]seat-[]booking-[]system-[]pos-[]and-[]mobile-[]application$[][] 
  []
 
 [60
 
 ]
-Overfull \hbox (12.73245pt too wide) in paragraph at lines 95--100
+Overfull \hbox (42.10715pt too wide) in paragraph at lines 95--100
 \T1/lmr/m/n/12 reorganizing-[]informal-[]transport-[]in-[]uganda-[]achieving-[]a-[]multimodality-[]that-[]works-[]for-[]all/$[][] 
  []
 
 
-Overfull \hbox (6.76852pt too wide) in paragraph at lines 159--163
+Overfull \hbox (36.14322pt too wide) in paragraph at lines 159--163
 \T1/lmr/m/n/12 tecno-[]in^^\nix-[]and-[]itel-[]the-[]secret-[]behind-[]their-[]dominance-[]in-[]africas-[]smartphone-[]market/$[][] 
+ []
+
+
+Underfull \hbox (badness 1371) in paragraph at lines 174--178
+[]\T1/lmr/m/n/12 H. Lan-le-hin, ``Why are in-finix and tecno phones so
  []
 
 
@@ -3779,8 +3626,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [61]
-Underfull \hbox (badness 1400) in paragraph at lines 239--243
-[]\T1/lmr/m/n/12 N. J. Ka-manzi, ``3 ways to topup your safeboda wal-
+Underfull \hbox (badness 10000) in paragraph at lines 197--202
+\T1/lmr/m/n/12 / / www . softwareadvice . com . au / software / 279003 / gps-[]vehicle-[]tracking-[]system$[][],
  []
 
 
@@ -3792,12 +3639,22 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [62]
 Underfull \hbox (badness 10000) in paragraph at lines 295--299
-\T1/lmr/m/n/12 ~ : text = Fleet % 20telematics % 20is % 20essential % 20for % 20any % 20organization ,[] (OBD )
+\T1/lmr/m/n/12 # : ~ : text = Fleet % 20telematics % 20is % 20essential % 20for % 20any % 20organization ,[]
  []
 
 
-Underfull \hbox (badness 1199) in paragraph at lines 321--325
-\T1/lmr/m/it/12 cid-chart Blog\T1/lmr/m/n/12 . [On-line]. Avail-able: [][]$https : / / www . lucidchart . com / blog /
+Underfull \hbox (badness 1371) in paragraph at lines 307--311
+[]\T1/lmr/m/n/12 Modeshift, ``Cloud-based tran-sit sys-tems ex-plained: What
+ []
+
+
+Underfull \hbox (badness 1466) in paragraph at lines 307--311
+\T1/lmr/m/n/12 March 2024. [On-line]. Avail-able: [][]$https : / / www . modeshift . com /
+ []
+
+
+Overfull \hbox (22.78412pt too wide) in paragraph at lines 349--353
+\T1/lmr/m/n/12 dynamic-[]pricing-[]real-[]time-[]data-[]streaming-[]with-[]apache-[]kafka-[]and-[]^^]ink-[]1e7517055661$[][] 
  []
 
 
@@ -3808,13 +3665,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [63]
-Underfull \hbox (badness 1117) in paragraph at lines 356--360
-\T1/lmr/m/it/12 Cloud-fresh Blog\T1/lmr/m/n/12 . [On-line]. Avail-able: [][]$https : / / cloudfresh . com / en / blog /
+Underfull \hbox (badness 2635) in paragraph at lines 408--412
+\T1/lmr/m/n/12 Avail-able: [][]$IMPACT _ OF _ UBER _ TRANSPORTATIONS _ ON _ THE _
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 408--412
-\T1/lmr/m/n/12 UBER _ TRANSPORTATIONS _ ON _ THE _ INFORMAL _ PUBLIC _ TRANSPORT _
+\T1/lmr/m/n/12 INFORMAL _ PUBLIC _ TRANSPORT _ OPERATION _ IN _ UGANDA _ By _
  []
 
 
@@ -3825,33 +3682,28 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [64]
-Underfull \hbox (badness 1009) in paragraph at lines 473--478
-[]\T1/lmr/m/n/12 D. Ka-tushabe, ``Safe-car by safeboda be-comes the most pre-
- []
-
-
-Underfull \hbox (badness 2426) in paragraph at lines 473--478
-\T1/lmr/m/n/12 2025. [On-line]. Avail-able: [][]$https : / / www . safeboda . com / safeboda-[]blog /
- []
-
-
-Overfull \hbox (41.73204pt too wide) in paragraph at lines 473--478
+Overfull \hbox (71.10674pt too wide) in paragraph at lines 473--478
 \T1/lmr/m/n/12 safecar-[]by-[]safeboda-[]becomes-[]the-[]most-[]preferred-[]car-[]hailing-[]service-[]for-[]safety-[]and-[]convenience$[][] 
  []
 
 
-Underfull \hbox (badness 1210) in paragraph at lines 494--498
-\T1/lmr/m/n/12 scoot-ers,'' 2019. [On-line]. Avail-able: [][]$https : / / qz . com / africa / 1568416 /
+Underfull \hbox (badness 2027) in paragraph at lines 494--498
+\T1/lmr/m/n/12 scoot-ers,'' 2019. [On-line]. Avail-able: [][]$https : / / qz . com / africa /
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 494--498
-\T1/lmr/m/n/12 uber-[]rival-[]taxify-[]changes-[]name-[]to-[]bolt-[]adds-[]scooters ? utm _ medium = sharefromsite &
+\T1/lmr/m/n/12 1568416 / uber-[]rival-[]taxify-[]changes-[]name-[]to-[]bolt-[]adds-[]scooters ? utm _ medium =
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 500--503
-\T1/lmr/m/n/12 / / pctechmag . com / 2017 / 10 / ride-[]sharing-[]service-[]taxify-[]o^^^cially-[]launches-[]in-[]uganda/$[][],
+[]\T1/lmr/m/n/12 P. T. Mag-a-zine, ``Ride-sharing ser-vice tax-ify of-fi-cially
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 500--503
+\T1/lmr/m/n/12 launches in uganda,'' [][]$https : / / pctechmag . com / 2017 / 10 /
  []
 
 
@@ -3862,16 +3714,18 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [65]
+Underfull \hbox (badness 1173) in paragraph at lines 595--599
+[]\T1/lmr/m/n/12 Swvl Hold-ings Corp, ``Trans-form-ing ur-ban tran-sit: How
+ []
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[66]
-Underfull \hbox (badness 1275) in paragraph at lines 632--636
-[]\T1/lmr/m/n/12 Jugnoo. (2022) How grab works: The on-demand busi-ness
+Underfull \hbox (badness 2828) in paragraph at lines 595--599
+\T1/lmr/m/n/12 swvl tack-les mea's biggest mo-bil-ity chal-lenges,'' Au-
+ []
+
+
+Underfull \hbox (badness 2050) in paragraph at lines 595--599
+\T1/lmr/m/n/12 gust 2025. [On-line]. Avail-able: [][]$https : / / www . swvl . com / blog /
  []
 
 ) (appendices/appendixA.tex
@@ -3882,7 +3736,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[67]
+[66]
 Underfull \hbox (badness 4013) in paragraph at lines 25--25
 []|\T1/lmr/m/n/12 Research co-or-di-na-tion, data
  []
@@ -3892,7 +3746,7 @@ Underfull \hbox (badness 1371) in paragraph at lines 25--25
 []|\T1/lmr/m/n/12 Contingency and ad-min-is-tra-
  []
 
-[68
+[67
 
 ]) (appendices/appendixB.tex
 
@@ -3902,7 +3756,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[69
+[68
 
 ]) (appendices/appendixC.tex
 
@@ -3912,7 +3766,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[70]
+[69]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -3920,7 +3774,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[71])
+[70])
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -3928,26 +3782,26 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[72] (c:\Users\USER\Desktop\New folder\FYP-main\build\main.aux)
+[71] (c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 08AD7E87A9F18E1A20EFEF6097B97D3C;10776.
+(rerunfilecheck)             Checksum: 5D21A2B3A9C70E1BFFDC65F13F80B93E;11307.
  ) 
 Here is how much of TeX's memory you used:
- 21675 strings out of 467871
- 397764 string characters out of 5426075
- 926712 words of memory out of 5000000
- 49810 multiletter control sequences out of 15000+600000
+ 21736 strings out of 467871
+ 399185 string characters out of 5426075
+ 935816 words of memory out of 5000000
+ 49869 multiletter control sequences out of 15000+600000
  678533 words of font info for 74 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 110i,12n,131p,592b,1605s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 110i,12n,131p,783b,1681s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/USER/Desktop/MIKTEX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/USER/Desktop/MIKTEX/fonts/type1/public/lm/lmr10.pfb><C:/Users/USER/Desktop/MIKTEX/fonts/type1/public/lm/lmr12.pfb><C:/Users/USER/Desktop/MIKTEX/fonts/type1/public/lm/lmri12.pfb><C:/Users/USER/Desktop/MIKTEX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/USER/Desktop/MIKTEX/fonts/type1/public/lm/lmtt12.pfb><C:/Users/USER/Desktop/MIKTEX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/USER/Desktop/MIKTEX/fonts/type1/urw/times/utmr8a.pfb>
-Output written on "c:\Users\USER\Desktop\New folder\FYP-main\build\main.pdf" (81 pages, 4949298 bytes).
+Output written on "c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.pdf" (80 pages, 4952907 bytes).
 PDF statistics:
- 1291 PDF objects out of 1440 (max. 8388607)
- 328 named destinations out of 1000 (max. 500000)
- 675 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1298 PDF objects out of 1440 (max. 8388607)
+ 326 named destinations out of 1000 (max. 500000)
+ 699 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -44,12 +44,7 @@ final system is grounded in real world needs rather than assumptions.
  \item \textbf{Semi-structured Interviews}: In-depth interviews with
         private shuttle coordinators, drivers, and frequent passengers were
         conducted to uncover coordination bottlenecks, safety concerns, trust
-        issues, and desired digital interventions.
-
- \item \textbf{Questionnaires}: Targeted surveys were distributed to a
-        broader passenger base (minimum target: 100  respondents) to quantify
-        commuting patterns, smartphone penetration, willingness to adopt app-
-        based solutions, and feature priorities.
+        issues, and desired digital interventions.The interview guide used during the data collection process is provided in Appendix C
 
  \item \textbf{Direct Observation}: Field observation at private shuttle
         stages was done to document real driver–passenger interactions, queue
@@ -349,17 +344,9 @@ with intermittent network coverage.
 
 
  \item \textbf{Hosting \& Deployment:} \\
-          \begin{itemize}
- \item Backend → \textbf{Contabo cloud servers}, providing cost-effective
-        and reliable cloud hosting with flexibility for scaling.
- \item Mobile applications were distributed via the Google Play Store for
-        general users, while direct APK sideloading was supported for drivers
-        who may not have access to the Play Store. The Apple App Store was used
-        for users on iOS devices.
- \item Admin Portal was hosted on the same backend infrastructure and was
-        accessible through web browsers.
-          \end{itemize}
-\end{itemize}
+The backend infrastructure was hosted on Contabo cloud servers, providing a cost-effective, reliable, and scalable environment for the system's operations. This hosting solution supported the deployment of both the application backend and the administrative portal.
+
+Mobile applications were distributed through the Google Play Store for Android users and the Apple App Store for iOS users. To accommodate drivers who may not have access to the Play Store, direct APK sideloading was also supported. The administrative portal was hosted on the same backend infrastructure and could be accessed through standard web browsers.
 
 This technology stack ensured a balance between \textbf{rapid development},
 \textbf{cost efficiency}, \textbf{reliability in low-connectivity regions}, and
@@ -463,29 +450,6 @@ several key advantages:
         backend facilitated consistent integration with services like Firebase,
         AWS, and Google Maps.
 \end{itemize}
-
-\subsubsection{System Architecture Diagram}
-
-A high-level system architecture diagram illustrated:
-
-
-\begin{itemize}
- \item Passenger and Driver Apps communicating with the Django backend
-        via RESTful APIs.
- \item Admin Portal interacting securely with the backend for
-        administrative operations.
- \item Backend coordinating data flow between PostgreSQL, AI services
-        (MCP), Firebase, AWS, and Google Maps.
- \item Real-time notifications and AI-powered features integrated
-        seamlessly into client interactions.
-\end{itemize}
-
-\begin{figure}[h!]
-\centering
-\includegraphics[width=0.6\textwidth]{images/methodology_3.png}
-\caption{Methodology diagram of the entire system flow}
-\label{fig:methodology}
-\end{figure}
 
 \subsection{Implementation}
 

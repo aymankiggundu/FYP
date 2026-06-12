@@ -29,10 +29,7 @@ Further analysis of the system revealed several key operational challenges,
 which are discussed below.
 
 
-
-\begin{itemize}
-
- \item \textbf{Lack of a structured booking process:} The booking process
+\textbf{Lack of a structured booking process:} The booking process
 lacks structure and accountability. Customers are able to reserve seats but may
 fail to show up without prior cancellation or communication. This results in
 revenue loss and underutilised seats. Additionally, the reliance on phone-based
@@ -42,7 +39,7 @@ This form of communication is not scalable and becomes increasingly difficult to
 manage as the customer base grows.
 
 
- \item \textbf{Unreliable seat allocation and poor seat utilisation:} The
+\textbf{Unreliable seat allocation and poor seat utilisation:} The
 current system does not provide a transparent or reliable mechanism for seat
 allocation. Although passengers may request specific seats, such as front seats,
 these requests are not guaranteed, as operators may reassign seats based on
@@ -55,7 +52,7 @@ along the route leads to missed revenue opportunities and reduced operational
 efficiency.
 
 
- \item \textbf{Limited service visibility and discoverability:} The
+\textbf{Limited service visibility and discoverability:} The
 service relies primarily on word-of-mouth referrals and radio advertisements,
 making it difficult for new customers to discover and access the service. This
 limits the business's reach and growth potential. Additionally, there is no
@@ -66,7 +63,7 @@ others rely on phone calls, highlighting the need for a system that accommodates
 both interaction methods.
 
 
- \item \textbf{Absence of parcel tracking:} The shuttle service also
+\textbf{Absence of parcel tracking:} The shuttle service also
 handles parcel delivery; however, there is no system for tracking shipments in
 real time. Customers frequently contact the operator to enquire about the status
 and location of their goods, increasing the communication burden. In addition,
@@ -76,7 +73,7 @@ demand, but without a system to optimise this allocation, potential efficiency
 gains are lost.
 
 
- \item \textbf{Limited operational visibility for the business owner:}
+\textbf{Limited operational visibility for the business owner:}
 The current system provides limited visibility for the business owner. It is
 difficult to track vehicle movement, monitor driver activity, verify reported
 revenue, or determine seat occupancy in real time. This lack of operational
@@ -87,15 +84,12 @@ destination rather than returning, leading to inefficiencies in service
 utilisation.
 
 
- \item \textbf{Lack of passenger accountability and safety records:} The
+\textbf{Lack of passenger accountability and safety records:} The
 system lacks structured mechanisms for tracking passengers and ensuring
 accountability. There is no reliable record of who was on a vehicle, where
 passengers boarded or disembarked, or emergency contact information. This
 creates potential safety risks and limits the ability to respond effectively in
 case of incidents.
-
-
-\end{itemize}
 
 \section{System Analysis}
 
@@ -255,62 +249,52 @@ service capabilities (GPS) and a minimum of 2\,GB RAM.
 
 \section{System Design}
 
-This section includes a detailed description of the system's architecture,
-components, modules, interfaces, and data structures designed to satisfy the
-specified requirements. It describes the design and development process of the
-application using a use case diagram to explain how actors interact with the
-system and data flow diagrams to show how data moves in and out of the system.
+This section presents the system architecture, its core components, and the interaction between modules, interfaces, and data structures in relation to the specified requirements. It also outlines the design approach using a use case diagram to illustrate actor interactions and data flow diagrams to show how information moves within the system.
 
+\subsection{System Architecture and High-Level Design}
 
+TRAXIS adopts a \textbf{Client-Server Architecture} implemented using a layered and modular design pattern. The Flutter application functions as the client-side interface, handling user interaction, UI rendering, state management, and local caching. In contrast, a centralised cloud-hosted backend acts as the system’s single source of truth, responsible for business logic processing and persistent data storage.
 
-\subsection{System Architecture}
+At a high level, system interactions are illustrated in the architecture diagram below, which shows how data flows between users, services, and backend infrastructure.
 
-TRAXIS employs a \textbf{Client-Server Architecture} built on a layered, modular
-design pattern. The Flutter application serves as the client interface,
-responsible for UI rendering, state management, and local caching, while a
-centralised cloud-hosted backend acts as the single source of truth for all data
-and business logic.
+\begin{figure}[h!]
+\centering
+\includegraphics[width=0.6\textwidth]{images/methodology_3.png}
+\caption{High-level system architecture of the TRAXIS platform}
+\label{fig:architecture}
+\end{figure}
 
+As illustrated, the Customer and Operator mobile applications communicate with the Django backend through RESTful APIs. The Administrator Portal also interacts securely with the same backend to perform administrative operations. The backend coordinates data exchange between PostgreSQL, Firebase, AWS services, Google Maps APIs, and AI services via MCP, enabling real-time functionality, intelligent processing, and external service integration.
 
-
-The architecture is divided into four principal layers:
-
-
+To further refine the structure, the system is decomposed into logical subsystems that define its high-level design. These subsystems encapsulate core functionalities and ensure separation of concerns across the platform.
 
 \begin{enumerate}
- \item \textbf{Presentation Layer:} Encompasses all interactive Flutter
-screens (e.g., \texttt{dashboard\_screen},
+    \item \textbf{Identity and Access Management Subsystem:} Handles OTP-based authentication, user registration, profile management, role assignment, and session token handling.
 
-        \texttt{operator\_dashboard\_screen}, \texttt{digital\_ticket\_screen})
-and UI widgets using dynamic layouts and global theming defined in
+    \item \textbf{Customer Operations Subsystem:} Manages the end-to-end user journey, including search, seat selection, payment processing, and digital ticket generation.
 
-        \texttt{app\_theme.dart}.
+    \item \textbf{Logistics and Tracking Subsystem:} Provides real-time vehicle tracking and route monitoring using geolocation and mapping services.
 
- \item \textbf{Core / Domain Layer:} Houses the business logic, utilising
-providers (e.g., \texttt{auth\_provider.dart}) and state management mechanisms
-to bridge the data and presentation layers.
+    \item \textbf{Operator Management Subsystem:} Supports operational workflows such as dashboard analytics, booking aggregation, and financial reporting.
 
-
- \item \textbf{Data Layer:} Manages API integrations, external service
-calls, and secure local storage mechanisms, ensuring clean separation between
-business logic and data access.
-
-
- \item \textbf{External Services Layer:} Integrates third-party services
-including Firebase (authentication, messaging, real-time sync), Google Maps API
-(geolocation and routing), AWS Services (compute-intensive tasks), and AI
-services via MCP.
-
+    \item \textbf{System Administration Subsystem:} Provides administrative control over system configuration, security management, data oversight, maintenance, and overall platform performance monitoring.
 \end{enumerate}
 
-\subsubsection{Use Case Diagram}
+The integration of these subsystems within a layered architecture ensures scalability, maintainability, and clear separation between user-facing functionality and backend services.
 
-The use case diagram below illustrates the different types of users of the
-system and how they interact with it. Two primary actors are identified: the
+\subsection{Use Case Diagram}
 
-\textbf{Passenger} , \textbf{Administrator} and the \textbf{Operator}. The diagram provides a simplified
-graphical representation of the system's functionalities and the interactions
-each actor may perform.
+The use case diagram illustrates the different actors involved in the system and how each interacts with it. It provides a simplified graphical representation of system functionalities and the interactions between users and the TRAXIS platform.
+
+The system has three primary actors: the \textbf{Customer}, the \textbf{Administrator}, and the \textbf{Operator}.
+
+The \textbf{Customer} represents the end user of the transport service who interacts with the system to request rides, make bookings, view trip information, and receive notifications related to their journeys.
+
+The \textbf{Administrator} is responsible for managing and overseeing the overall system. This includes user management, system configuration, monitoring platform activity, and ensuring smooth operation of all services.
+
+The \textbf{Operator} manages transport operations within the system. This includes handling vehicle and driver-related activities, overseeing trip assignments, and ensuring that transport services are efficiently coordinated.
+
+The diagram below shows how these actors interact with the system and the various functionalities available to each.
 
 
 
@@ -321,15 +305,16 @@ each actor may perform.
 \label{fig:use_case}
 \end{figure}
 
-\subsubsection{Context Diagrams}
+\subsection{Context Diagrams}
 
 A context diagram describes the logical flow of data within the system,
 illustrating how each user type interacts with the system from authentication
-through to completing their primary tasks. The Level 0 diagram below presents
+through to completing their primary tasks. The Level 0 diagram presents
 the system as a single process, showing all external entities and their data
 exchanges with the system.
-
-
+The context-level Data Flow Diagram (DFD) for the Traxis Coordination System illustrates the system as a single central process that mediates all interactions between five external entities and two external services. No external actor communicates directly with another; all data exchange is routed through the Traxis Coordination System, which serves as the sole point of coordination across the platform.
+The two external services, the Payment and Google Maps, operate at the infrastructure level. The Payment service receives payment requests from the system and returns either a confirmation or a decline, enabling the platform to process seat and courier transactions. Google Maps receives location and route queries from the system and returns route display data, supporting the fixed intercity routing that defines the Traxis transport model.
+The three external entities represent the human actors within the platform ecosystem. The Operator interacts bidirectionally with the system: sending trip and booking management instructions inward, and receiving analytics and bookings summaries in return, enabling operational oversight of assigned shuttles. The Passenger likewise engages in a two-way exchange, submitting requests that generate tickets, booking details, and notifications, while receiving booking confirmations and delivery information from the system. The Administrator occupies a supervisory role, issuing information requests to the system and receiving comprehensive platform-level information in response.
 
 \begin{figure}[H]
 \centering
@@ -371,48 +356,8 @@ the quality of the mobile network available to the user.
 
 \end{itemize}
 
-\subsection{Design Methodology}
 
-We used the \textbf{Agile development methodology}. Agile Software Development
-(ASD) is a creative process that anticipates the need for flexibility and
-applies a high level of pragmatism into the delivery of the finished product. We
-focused on keeping code simple, testing often, and delivering functional
-components of the application as soon as they were ready. This helped us to
-minimise risks such as bugs, cost overruns, and changing requirements. Rapid
-prototyping of the graphical user interface was conducted first to gather
-immediate feedback on custom aesthetic elements. Following approval of the UI
-design, functional milestones were iteratively coded and deployed, linking the
-distinct passenger and operator workflows in sequential project sprints.
-
-
-
-\subsection{High Level Design}
-
-The high-level design structures the application into self-contained major
-subsystems:
-
-
-
-\begin{enumerate}
- \item \textbf{Identity and Access Management:} OTP issuance, user
-profile creation, role retrieval, and session token management.
-
- \item \textbf{Passenger Operations Subsystem:} A pipeline covering:
-Search $\rightarrow$ Seat Selection $\rightarrow$ Payment $\rightarrow$ Digital
-Ticketing.
-
- \item \textbf{Logistics and Tracking Subsystem:} Real-time vehicle
-geolocation and package dispatch tracking using mapping services.
-
- \item \textbf{Operator Management Subsystem:} Dedicated to dashboard
-rendering, booking aggregation, and financial analytics.
-
-\item \textbf{System Administration Subsystem:} A system administrator Dashboard. Responsible for system configuration,
-security, data management, maintenance, support, and ensuring system performance as
-
-\end{enumerate}
-
-\subsubsection{Logical Design}
+\subsection{Logical Design}
 
 This view shows the logical functional elements of the system, clearly
 indicating the major processes involved and how they relate to one another.
@@ -427,23 +372,23 @@ interact with shared data entities:
 \begin{itemize}
         % \item Users, Trips, Bookings, Tickets, Packages and Transport Vehicles.
 
- \item A \textit{Customer/Client} interacts with the system to create
+ \item A \textbf{Customer/Client} interacts with the system to create
 multiple Bookings and package requests.
 
- \item A \textit{Operator} The operator interacts with the system to
+ \item A \textbf{Operator} The operator interacts with the system to
 create and manage Trips, which are then booked by Customers. The Operator also
 manages package deliveries and monitors vehicle locations.
 
  \item The system processes these interactions to update the state of
 Bookings, Trips, and
 
- \item A \textit{System Administrator} is responsible for system
+ \item A \textbf{System Administrator} is responsible for system
 configuration, security,data management, maintenance,support, and ensure system
 performance as required by both the customer and the operator.
 
 \end{itemize}
 
-\subsubsection{Process (Module) Design}
+\subsection{Process (Module) Design}
 
 This view is for project management and code organisation. The components are
 organised as independent modules corresponding to files or directories within
@@ -474,18 +419,13 @@ parse and display real-time coordinate updates for vehicles.
 % \label{fig:module}
 % \end{figure}
 
-\subsubsection{Security}
+\subsection{Security}
 
-Traxis enforces security at multiple levels. Authentication is handled
-exclusively through OTP-based phone number verification via Firebase
-Authentication, eliminating password-related vulnerabilities. All external
-communication operates strictly over HTTPS protocols. Sensitive user data,
-location details, and payment information are transmitted using modern
-encryption standards. Role-based access control ensures that passengers and
-operators can only access functionality appropriate to their role, with role
-retrieval and session token management handled by the Core/Domain layer through
+Traxis enforces security at multiple levels. Authentication is handled exclusively through OTP-based phone number verification via Firebase Authentication, eliminating password-related vulnerabilities. All external communication operates strictly over HTTPS protocols, ensuring secure data transmission between the client and backend systems. Sensitive user data, location information, and payment details are further protected using modern encryption standards during transmission and storage.
 
-\texttt{auth\_provider.dart}.
+Role-based access control is implemented to ensure that each user type (Customer, Operator, and Administrator) can only access functionality relevant to their role. This is enforced within the Core/Domain layer through \texttt{auth\_provider.dart}, which manages authentication state across the application.
+
+The \texttt{auth\_provider.dart} module is responsible for handling user authentication status, storing and validating session tokens, retrieving user roles after successful login, and maintaining secure session persistence throughout the application lifecycle. It acts as the central point for controlling access to protected features by exposing authentication state to the UI and restricting navigation or actions when a user is not properly authenticated.
 
 
 \subsection{Database Design}
@@ -504,7 +444,36 @@ transactions, strong consistency, and support for complex queries, so it is the
 primary store for durable records such as users, trips, bookings, and parcel
 history.
 
-The core relations are organised as follows:
+The relational schema comprises seven entities that together model the full
+scope of the system's persistent data: users, customer\_profiles,
+operator\_profiles, operator\_routes, fleet\_vehicles, bookings, and parcels.
+The central entity is users, which stores the core identity attributes shared
+across all account types, including role, full name, phone number, and email.
+From this single table, the schema branches into two role-specific profile
+entities through one-to-one relationships. The customer\_profiles entity extends
+a user into a passenger account, holding the customer's name and phone number
+for booking purposes. The operator\_profiles entity similarly extends a user
+into an operator account, additionally capturing the company name and the number
+of vehicles under that operator's management.
+
+From operator\_profiles, the schema fans outward into the operational layer.
+The operator\_routes entity represents the fixed intercity routes managed by an
+operator, identified by a route code and name, with a one-to-many relationship
+to operator\_profiles reflecting that a single operator may manage multiple
+routes. The fleet\_vehicles entity records the physical vehicles belonging to an
+operator, linked to both the operator profile and a specific route, with each
+vehicle identified by its plate number. A single operator profile may own many
+vehicles, and a single route may be served by many vehicles.
+
+The two transactional entities sit at the base of the hierarchy. The bookings
+entity captures seat reservations made by customers, consolidating foreign keys
+to the customer, operator profile, route, and vehicle involved, reflecting that
+a booking is the intersection of all four operational dimensions. The parcels
+entity records courier deliveries, linked to the customer who sent the parcel,
+the operator managing it, and the route on which it travels. Both bookings and
+parcels maintain one-to-many relationships with the route and operator entities
+above them, consistent with the expectation that a single route will carry many
+bookings and parcels over time.
 
 \begin{figure}[H]
 \centering
@@ -726,6 +695,6 @@ rigorously adhering to a globally unified theme defined in
 \begin{figure}[h]
 \centering
 \includegraphics[width=0.80\textwidth]{images/level_one_context.png}
-\caption{The Level 1 diagram decomposes the system further, revealing the core internal processes, data stores, and information flows between passengers, operators, and the Traxis platform.}
+\caption{Level 1 DFD illustrating the system's core processes and data flows.}
 \label{fig:module}
 \end{figure}

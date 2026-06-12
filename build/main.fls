@@ -1,7 +1,7 @@
-PWD c:\Users\USER\Desktop\New folder\FYP-main
+PWD c:\Users\USER\Desktop\New folder\FYP-main\FYP
 INPUT C:\Users\USER\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\USER\Desktop\New folder\FYP-main\main.tex
-OUTPUT c:\Users\USER\Desktop\New folder\FYP-main\build\main.log
+INPUT c:\Users\USER\Desktop\New folder\FYP-main\FYP\main.tex
+OUTPUT c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.log
 INPUT C:\Users\USER\Desktop\MIKTEX\tex\latex\base\report.cls
 INPUT C:\Users\USER\Desktop\MIKTEX\tex\latex\base\report.cls
 INPUT C:\Users\USER\Desktop\MIKTEX\tex\latex\base\size12.clo
@@ -117,6 +117,8 @@ INPUT C:\Users\USER\Desktop\MIKTEX\tex\latex\algorithms\algorithmic.sty
 INPUT C:\Users\USER\Desktop\MIKTEX\tex\latex\algorithms\algorithmic.sty
 INPUT C:\Users\USER\Desktop\MIKTEX\tex\latex\base\ifthen.sty
 INPUT C:\Users\USER\Desktop\MIKTEX\tex\latex\base\ifthen.sty
+INPUT C:\Users\USER\Desktop\MIKTEX\tex\latex\changepage\changepage.sty
+INPUT C:\Users\USER\Desktop\MIKTEX\tex\latex\changepage\changepage.sty
 INPUT C:\Users\USER\Desktop\MIKTEX\tex\latex\fancyhdr\fancyhdr.sty
 INPUT C:\Users\USER\Desktop\MIKTEX\tex\latex\fancyhdr\fancyhdr.sty
 INPUT C:\Users\USER\Desktop\MIKTEX\tex\latex\nomencl\nomencl.sty
@@ -216,7 +218,7 @@ INPUT C:\Users\USER\Desktop\MIKTEX\tex\generic\pgf\systemlayer\pgfsysprotocol.co
 INPUT C:\Users\USER\Desktop\MIKTEX\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
 INPUT C:\Users\USER\Desktop\MIKTEX\tex\latex\float\float.sty
 INPUT C:\Users\USER\Desktop\MIKTEX\tex\latex\float\float.sty
-OUTPUT c:\Users\USER\Desktop\New folder\FYP-main\build\main.nlo
+OUTPUT c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.nlo
 INPUT C:\Users\USER\Desktop\MIKTEX\tex\latex\titlesec\titlesec.sty
 INPUT C:\Users\USER\Desktop\MIKTEX\tex\latex\titlesec\titlesec.sty
 INPUT C:\Users\USER\Desktop\MIKTEX\tex\latex\graphics\rotating.sty
@@ -225,18 +227,18 @@ INPUT C:\Users\USER\Desktop\MIKTEX\tex\latex\lm\t1lmr.fd
 INPUT C:\Users\USER\Desktop\MIKTEX\tex\latex\lm\t1lmr.fd
 INPUT C:\Users\USER\Desktop\MIKTEX\tex\latex\lm\t1lmr.fd
 INPUT C:\Users\USER\Desktop\MIKTEX\fonts\tfm\public\lm\ec-lmr12.tfm
-INPUT c:\Users\USER\Desktop\New folder\FYP-main\build\main.aux
-INPUT c:\Users\USER\Desktop\New folder\FYP-main\build\main.aux
-INPUT c:\Users\USER\Desktop\New folder\FYP-main\build\main.aux
-OUTPUT c:\Users\USER\Desktop\New folder\FYP-main\build\main.aux
-INPUT c:\Users\USER\Desktop\New folder\FYP-main\build\main.out
-INPUT c:\Users\USER\Desktop\New folder\FYP-main\build\main.out
-INPUT c:\Users\USER\Desktop\New folder\FYP-main\build\main.out
-INPUT c:\Users\USER\Desktop\New folder\FYP-main\build\main.out
-OUTPUT c:\Users\USER\Desktop\New folder\FYP-main\build\main.pdf
-INPUT c:\Users\USER\Desktop\New folder\FYP-main\build\main.out
-INPUT c:\Users\USER\Desktop\New folder\FYP-main\build\main.out
-OUTPUT c:\Users\USER\Desktop\New folder\FYP-main\build\main.out
+INPUT c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.aux
+INPUT c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.aux
+INPUT c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.aux
+OUTPUT c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.aux
+INPUT c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.out
+INPUT c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.out
+INPUT c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.out
+INPUT c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.out
+OUTPUT c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.pdf
+INPUT c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.out
+INPUT c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.out
+OUTPUT c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.out
 INPUT C:\Users\USER\Desktop\MIKTEX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\USER\Desktop\MIKTEX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\USER\Desktop\MIKTEX\tex\context\base\mkii\supp-pdf.mkii
@@ -334,18 +336,18 @@ INPUT .\abstract.tex
 INPUT .\abstract.tex
 INPUT .\abstract.tex
 INPUT abstract.tex
-INPUT c:\Users\USER\Desktop\New folder\FYP-main\build\main.toc
-INPUT c:\Users\USER\Desktop\New folder\FYP-main\build\main.toc
-INPUT c:\Users\USER\Desktop\New folder\FYP-main\build\main.toc
-OUTPUT c:\Users\USER\Desktop\New folder\FYP-main\build\main.toc
-INPUT c:\Users\USER\Desktop\New folder\FYP-main\build\main.lof
-INPUT c:\Users\USER\Desktop\New folder\FYP-main\build\main.lof
-INPUT c:\Users\USER\Desktop\New folder\FYP-main\build\main.lof
-OUTPUT c:\Users\USER\Desktop\New folder\FYP-main\build\main.lof
-INPUT c:\Users\USER\Desktop\New folder\FYP-main\build\main.lot
-INPUT c:\Users\USER\Desktop\New folder\FYP-main\build\main.lot
-INPUT c:\Users\USER\Desktop\New folder\FYP-main\build\main.lot
-OUTPUT c:\Users\USER\Desktop\New folder\FYP-main\build\main.lot
+INPUT c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.toc
+INPUT c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.toc
+INPUT c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.toc
+OUTPUT c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.toc
+INPUT c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.lof
+INPUT c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.lof
+INPUT c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.lof
+OUTPUT c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.lof
+INPUT c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.lot
+INPUT c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.lot
+INPUT c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.lot
+OUTPUT c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.lot
 INPUT .\chapters\introduction.tex
 INPUT .\chapters\introduction.tex
 INPUT chapters\introduction.tex
@@ -361,13 +363,6 @@ INPUT chapters\literature_review.tex
 INPUT .\chapters\methodology.tex
 INPUT .\chapters\methodology.tex
 INPUT chapters\methodology.tex
-INPUT .\images\methodology_3.png
-INPUT .\images\methodology_3.png
-INPUT .\images\methodology_3.png
-INPUT .\images\methodology_3.png
-INPUT .\images\methodology_3.png
-INPUT .\images\methodology_3.png
-INPUT .\images\methodology_3.png
 INPUT .\images\gantt_3.png
 INPUT .\images\gantt_3.png
 INPUT .\images\gantt_3.png
@@ -384,6 +379,13 @@ INPUT .\chapters\System Analysis and Design.tex
 INPUT .\chapters\System Analysis and Design.tex
 INPUT .\chapters\System Analysis and Design.tex
 INPUT chapters\System Analysis and Design.tex
+INPUT .\images\methodology_3.png
+INPUT .\images\methodology_3.png
+INPUT .\images\methodology_3.png
+INPUT .\images\methodology_3.png
+INPUT .\images\methodology_3.png
+INPUT .\images\methodology_3.png
+INPUT .\images\methodology_3.png
 INPUT .\images\FYP\userdiagram.png
 INPUT .\images\FYP\userdiagram.png
 INPUT .\images\FYP\userdiagram.png
@@ -398,14 +400,14 @@ INPUT .\images\context_diagram.png
 INPUT .\images\context_diagram.png
 INPUT .\images\context_diagram.png
 INPUT .\images\context_diagram.png
+INPUT .\images\FYP\eda.png
+INPUT .\images\FYP\eda.png
+INPUT .\images\FYP\eda.png
+INPUT .\images\FYP\eda.png
+INPUT .\images\FYP\eda.png
+INPUT .\images\FYP\eda.png
+INPUT .\images\FYP\eda.png
 INPUT C:\Users\USER\Desktop\MIKTEX\fonts\enc\dvips\lm\lm-mathsy.enc
-INPUT .\images\FYP\eda.png
-INPUT .\images\FYP\eda.png
-INPUT .\images\FYP\eda.png
-INPUT .\images\FYP\eda.png
-INPUT .\images\FYP\eda.png
-INPUT .\images\FYP\eda.png
-INPUT .\images\FYP\eda.png
 INPUT .\images\level_one_context.png
 INPUT .\images\level_one_context.png
 INPUT .\images\level_one_context.png
@@ -518,9 +520,9 @@ INPUT .\images\FYP\Digital Ticket.PNG
 INPUT .\chapters\Recommendations, Conclusion, and future works.tex
 INPUT .\chapters\Recommendations, Conclusion, and future works.tex
 INPUT chapters\Recommendations, Conclusion, and future works.tex
-INPUT c:\Users\USER\Desktop\New folder\FYP-main\build\main.bbl
-INPUT c:\Users\USER\Desktop\New folder\FYP-main\build\main.bbl
-INPUT c:\Users\USER\Desktop\New folder\FYP-main\build\main.bbl
+INPUT c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.bbl
+INPUT c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.bbl
+INPUT c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.bbl
 INPUT .\appendices\appendixA.tex
 INPUT .\appendices\appendixA.tex
 INPUT appendices\appendixA.tex
@@ -530,9 +532,9 @@ INPUT appendices\appendixB.tex
 INPUT .\appendices\appendixC.tex
 INPUT .\appendices\appendixC.tex
 INPUT appendices\appendixC.tex
-INPUT c:\Users\USER\Desktop\New folder\FYP-main\build\main.aux
-INPUT c:\Users\USER\Desktop\New folder\FYP-main\build\main.out
-INPUT c:\Users\USER\Desktop\New folder\FYP-main\build\main.out
+INPUT c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.aux
+INPUT c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.out
+INPUT c:\Users\USER\Desktop\New folder\FYP-main\FYP\build\main.out
 INPUT C:\Users\USER\Desktop\MIKTEX\fonts\type1\public\lm\lmbx12.pfb
 INPUT C:\Users\USER\Desktop\MIKTEX\fonts\type1\public\lm\lmbx12.pfb
 INPUT C:\Users\USER\Desktop\MIKTEX\fonts\type1\public\lm\lmr10.pfb
