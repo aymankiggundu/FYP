@@ -84,5 +84,10 @@
 \contentsline {subsubsection}{Passenger Actions}{49}{figure.caption.17}%
 \contentsline {subsection}{\numberline {5.2.3}System Testing and Validation}{49}{subsection.5.2.3}%
 \contentsline {subsection}{\numberline {5.2.4}Testing strategy and tools}{55}{subsection.5.2.4}%
-\contentsline {chapter}{References}{56}{subsection.5.2.4}%
-\contentsline {chapter}{Appendices}{65}{appendix*.21}%
+\contentsline {chapter}{\numberline {6}Recommendations, Conclusion, and Future Works}{57}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Recommendations}{57}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Conclusion}{58}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Future Works}{58}{section.6.3}%
+\contentsline {chapter}{References}{59}{section.6.3}%
+\contentsline {chapter}{Appendices}{68}{appendix*.21}%
+\contentsline {section}{Appendix C: Interview Guide for Hills Link Express}{70}{table.caption.22}%
