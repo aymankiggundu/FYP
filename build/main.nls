@@ -1,0 +1,39 @@
+
+\begin{thenomenclature} 
+\nomgroup{A}
+  \item [{3G}]\begingroup Third Generation mobile network\nomeqref {0}\nompageref{v}
+  \item [{4G}]\begingroup Fourth Generation mobile network\nomeqref {0}\nompageref{v}
+  \item [{5G}]\begingroup Fifth Generation mobile network\nomeqref {0}\nompageref{v}
+  \item [{ACID}]\begingroup Atomicity, Consistency, Isolation, Durability\nomeqref {0}\nompageref{v}
+  \item [{AI}]\begingroup Artificial Intelligence\nomeqref {0}\nompageref{v}
+  \item [{API}]\begingroup Application Programming Interface\nomeqref {0}\nompageref{v}
+  \item [{AT\&T}]\begingroup American Telephone and Telegraph\nomeqref {0}\nompageref{v}
+  \item [{AWS}]\begingroup Amazon Web Services\nomeqref {0}\nompageref{v}
+  \item [{B2B}]\begingroup Business to Business\nomeqref {0}\nompageref{v}
+  \item [{B2C}]\begingroup Business to Consumer\nomeqref {0}\nompageref{v}
+  \item [{DRF}]\begingroup Django REST Framework\nomeqref {0}\nompageref{v}
+  \item [{FCM}]\begingroup Firebase Cloud Messaging\nomeqref {0}\nompageref{v}
+  \item [{GDPR}]\begingroup General Data Protection Regulation\nomeqref {0}\nompageref{v}
+  \item [{GPS}]\begingroup Global Positioning System\nomeqref {0}\nompageref{v}
+  \item [{HTTPS}]\begingroup HyperText Transfer Protocol Secure\nomeqref {0}\nompageref{v}
+  \item [{iOS}]\begingroup Apple mobile operating system acronym\nomeqref {0}\nompageref{v}
+  \item [{KPI}]\begingroup Key Performance Indicators\nomeqref {0}\nompageref{v}
+  \item [{MaaS}]\begingroup Mobility as a Service\nomeqref {0}\nompageref{v}
+  \item [{MCP}]\begingroup Model Control Protocol\nomeqref {0}\nompageref{v}
+  \item [{NFC}]\begingroup Near Field Communication\nomeqref {0}\nompageref{v}
+  \item [{OS}]\begingroup Operating System\nomeqref {0}\nompageref{v}
+  \item [{OSM}]\begingroup OpenStreetMap\nomeqref {0}\nompageref{v}
+  \item [{OTP}]\begingroup One-Time Password\nomeqref {0}\nompageref{v}
+  \item [{P2P}]\begingroup Person to Person\nomeqref {0}\nompageref{v}
+  \item [{QR}]\begingroup Quick Response\nomeqref {0}\nompageref{v}
+  \item [{RAM}]\begingroup Random Access Memory\nomeqref {0}\nompageref{v}
+  \item [{REST}]\begingroup Representational State Transfer\nomeqref {0}\nompageref{v}
+  \item [{RFID}]\begingroup Radio-Frequency Identification\nomeqref {0}\nompageref{v}
+  \item [{SDK}]\begingroup Software Development Kit\nomeqref {0}\nompageref{v}
+  \item [{SUS}]\begingroup System Usability Scale\nomeqref {0}\nompageref{v}
+  \item [{UAT}]\begingroup User Acceptance Testing\nomeqref {0}\nompageref{v}
+  \item [{UI/UX}]\begingroup User Interface / User Experience\nomeqref {0}\nompageref{v}
+  \item [{USA}]\begingroup United States of America\nomeqref {0}\nompageref{v}
+  \item [{USSD}]\begingroup Unstructured Supplementary Service Data\nomeqref {0}\nompageref{v}
+
+\end{thenomenclature}
