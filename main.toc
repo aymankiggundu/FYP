@@ -45,15 +45,15 @@
 \contentsline {subsection}{\numberline {3.3.5}Project Management \& Version Control}{26}{subsection.3.3.5}%
 \contentsline {chapter}{\numberline {4}System Analysis and Design}{28}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Field Study}{28}{section.4.1}%
-\contentsline {section}{\numberline {4.2}System Analysis}{30}{section.4.2}%
-\contentsline {subsection}{\numberline {4.2.1}Data Analysis and Interpretation of Results}{30}{subsection.4.2.1}%
+\contentsline {section}{\numberline {4.2}System Analysis}{29}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Data Analysis and Interpretation of Results}{29}{subsection.4.2.1}%
 \contentsline {subsection}{\numberline {4.2.2}User Requirements}{30}{subsection.4.2.2}%
-\contentsline {subsection}{\numberline {4.2.3}Functional Requirements}{31}{subsection.4.2.3}%
+\contentsline {subsection}{\numberline {4.2.3}Functional Requirements}{30}{subsection.4.2.3}%
 \contentsline {subsection}{\numberline {4.2.4}Non-Functional Requirements}{31}{subsection.4.2.4}%
 \contentsline {subsection}{\numberline {4.2.5}System Requirements}{32}{subsection.4.2.5}%
 \contentsline {section}{\numberline {4.3}System Design}{32}{section.4.3}%
 \contentsline {subsection}{\numberline {4.3.1}System Architecture and High-Level Design}{32}{subsection.4.3.1}%
-\contentsline {subsection}{\numberline {4.3.2}Use Case Diagram}{34}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.2}Use Case Diagram}{33}{subsection.4.3.2}%
 \contentsline {subsection}{\numberline {4.3.3}Context Diagrams}{35}{subsection.4.3.3}%
 \contentsline {subsection}{\numberline {4.3.4}Design Constraints}{37}{subsection.4.3.4}%
 \contentsline {subsection}{\numberline {4.3.5}Logical Design}{37}{subsection.4.3.5}%
@@ -78,13 +78,13 @@
 \contentsline {subsection}{\numberline {5.2.2}User interface design}{48}{subsection.5.2.2}%
 \contentsline {subsubsection}{Account Creation}{49}{subsection.5.2.2}%
 \contentsline {subsubsection}{Operator Actions}{49}{figure.caption.16}%
-\contentsline {subsubsection}{Passenger Actions}{49}{figure.caption.18}%
-\contentsline {subsection}{\numberline {5.2.3}System Testing and Validation}{55}{subsection.5.2.3}%
-\contentsline {subsection}{\numberline {5.2.4}Testing strategy and tools}{55}{subsection.5.2.4}%
-\contentsline {chapter}{\numberline {6}Recommendations, Conclusion, and Future Works}{57}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Recommendations}{57}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Conclusion}{58}{section.6.2}%
-\contentsline {section}{\numberline {6.3}Future Works}{58}{section.6.3}%
-\contentsline {chapter}{References}{59}{section.6.3}%
-\contentsline {chapter}{Appendices}{67}{appendix*.22}%
-\contentsline {section}{Appendix C: Interview Guide for Hills Link Express}{69}{table.caption.23}%
+\contentsline {subsubsection}{Passenger Actions}{51}{figure.caption.18}%
+\contentsline {subsection}{\numberline {5.2.3}System Testing and Validation}{53}{subsection.5.2.3}%
+\contentsline {subsection}{\numberline {5.2.4}Testing strategy and tools}{53}{subsection.5.2.4}%
+\contentsline {chapter}{\numberline {6}Recommendations, Conclusion, and Future Works}{55}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Recommendations}{55}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Conclusion}{56}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Future Works}{56}{section.6.3}%
+\contentsline {chapter}{References}{57}{section.6.3}%
+\contentsline {chapter}{Appendices}{66}{appendix*.22}%
+\contentsline {section}{Appendix C: Interview Guide for Hills Link Express}{68}{table.caption.23}%

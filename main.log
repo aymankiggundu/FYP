@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.6.6)  13 JUN 2026 11:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.6.6)  13 JUN 2026 13:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -264,9 +264,26 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
 )
+(/usr/local/texlive/2026/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2024/10/29 v1.0k Color table columns (DPC)
+
+(/usr/local/texlive/2026/texmf-dist/tex/latex/tools/array.sty
+Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
+\col@sep=\dimen163
+\ar@mcellbox=\box53
+\extrarowheight=\dimen164
+\NC@list=\toks21
+\extratabsurround=\skip52
+\backup@length=\skip53
+\ar@cellbox=\box54
+)
+\everycr=\toks22
+\minrowclearance=\skip54
+\rownum=\count299
+)
 (/usr/local/texlive/2026/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2025/07/09 v2.17z AMS math features
-\@mathmargin=\skip52
+\@mathmargin=\skip55
 
 For additional information on amsmath, use the `?' option.
 (/usr/local/texlive/2026/texmf-dist/tex/latex/amsmath/amstext.sty
@@ -274,61 +291,61 @@ Package: amstext 2024/11/17 v2.01 AMS text
 
 (/usr/local/texlive/2026/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks21
-\ex@=\dimen163
+\@emptytoks=\toks23
+\ex@=\dimen165
 ))
 (/usr/local/texlive/2026/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen164
+\pmbraise@=\dimen166
 )
 (/usr/local/texlive/2026/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
-\inf@bad=\count299
+\inf@bad=\count300
 LaTeX Info: Redefining \frac on input line 233.
-\uproot@=\count300
-\leftroot@=\count301
+\uproot@=\count301
+\leftroot@=\count302
 LaTeX Info: Redefining \overline on input line 398.
 LaTeX Info: Redefining \colon on input line 409.
-\classnum@=\count302
-\DOTSCASE@=\count303
+\classnum@=\count303
+\DOTSCASE@=\count304
 LaTeX Info: Redefining \ldots on input line 495.
 LaTeX Info: Redefining \dots on input line 498.
 LaTeX Info: Redefining \cdots on input line 619.
-\Mathstrutbox@=\box53
-\strutbox@=\box54
+\Mathstrutbox@=\box55
+\strutbox@=\box56
 LaTeX Info: Redefining \big on input line 721.
 LaTeX Info: Redefining \Big on input line 722.
 LaTeX Info: Redefining \bigg on input line 723.
 LaTeX Info: Redefining \Bigg on input line 724.
-\big@size=\dimen165
+\big@size=\dimen167
 LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
-\macc@depth=\count304
+\macc@depth=\count305
 LaTeX Info: Redefining \bmod on input line 904.
 LaTeX Info: Redefining \pmod on input line 909.
 LaTeX Info: Redefining \smash on input line 939.
 LaTeX Info: Redefining \relbar on input line 969.
 LaTeX Info: Redefining \Relbar on input line 970.
-\c@MaxMatrixCols=\count305
+\c@MaxMatrixCols=\count306
 \dotsspace@=\muskip18
-\c@parentequation=\count306
-\dspbrk@lvl=\count307
-\tag@help=\toks22
-\row@=\count308
-\column@=\count309
-\maxfields@=\count310
-\andhelp@=\toks23
-\eqnshift@=\dimen166
-\alignsep@=\dimen167
-\tagshift@=\dimen168
-\tagwidth@=\dimen169
-\totwidth@=\dimen170
-\lineht@=\dimen171
-\@envbody=\toks24
-\multlinegap=\skip53
-\multlinetaggap=\skip54
-\mathdisplay@stack=\toks25
+\c@parentequation=\count307
+\dspbrk@lvl=\count308
+\tag@help=\toks24
+\row@=\count309
+\column@=\count310
+\maxfields@=\count311
+\andhelp@=\toks25
+\eqnshift@=\dimen168
+\alignsep@=\dimen169
+\tagshift@=\dimen170
+\tagwidth@=\dimen171
+\totwidth@=\dimen172
+\lineht@=\dimen173
+\@envbody=\toks26
+\multlinegap=\skip56
+\multlinetaggap=\skip57
+\mathdisplay@stack=\toks27
 LaTeX Info: Redefining \[ on input line 2950.
 LaTeX Info: Redefining \] on input line 2951.
 )
@@ -349,36 +366,36 @@ Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
 (/usr/local/texlive/2026/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
 )
-\c@ALC@unique=\count311
-\c@ALC@line=\count312
-\c@ALC@rem=\count313
-\c@ALC@depth=\count314
-\ALC@tlm=\skip55
-\algorithmicindent=\skip56
+\c@ALC@unique=\count312
+\c@ALC@line=\count313
+\c@ALC@rem=\count314
+\c@ALC@depth=\count315
+\ALC@tlm=\skip58
+\algorithmicindent=\skip59
 )
 (/usr/local/texlive/2026/texmf-dist/tex/latex/changepage/changepage.sty
 Package: changepage 2009/10/20 v1.0c check page and change page layout
-\c@cp@cntr=\count315
-\cp@tempcnt=\count316
+\c@cp@cntr=\count316
+\cp@tempcnt=\count317
 )
 (/usr/local/texlive/2026/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
 
-\f@nch@headwidth=\skip57
-\f@nch@offset@elh=\skip58
-\f@nch@offset@erh=\skip59
-\f@nch@offset@olh=\skip60
-\f@nch@offset@orh=\skip61
-\f@nch@offset@elf=\skip62
-\f@nch@offset@erf=\skip63
-\f@nch@offset@olf=\skip64
-\f@nch@offset@orf=\skip65
-\f@nch@height=\skip66
-\f@nch@footalignment=\skip67
-\f@nch@widthL=\skip68
-\f@nch@widthC=\skip69
-\f@nch@widthR=\skip70
-\@temptokenb=\toks26
+\f@nch@headwidth=\skip60
+\f@nch@offset@elh=\skip61
+\f@nch@offset@erh=\skip62
+\f@nch@offset@olh=\skip63
+\f@nch@offset@orh=\skip64
+\f@nch@offset@elf=\skip65
+\f@nch@offset@erf=\skip66
+\f@nch@offset@olf=\skip67
+\f@nch@offset@orf=\skip68
+\f@nch@height=\skip69
+\f@nch@footalignment=\skip70
+\f@nch@widthL=\skip71
+\f@nch@widthC=\skip72
+\f@nch@widthR=\skip73
+\@temptokenb=\toks28
 )
 (/usr/local/texlive/2026/texmf-dist/tex/latex/nomencl/nomencl.sty
 Package: nomencl 2021/11/10 v5.6 Nomenclature package
@@ -388,11 +405,11 @@ Package: xkeyval 2025/11/04 v2.10 package option processing (HA)
 
 (/usr/local/texlive/2026/texmf-dist/tex/generic/xkeyval/xkeyval.tex
 (/usr/local/texlive/2026/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks27
-\XKV@tempa@toks=\toks28
-\XKV@tempb@toks=\toks29
+\XKV@toks=\toks29
+\XKV@tempa@toks=\toks30
+\XKV@tempb@toks=\toks31
 )
-\XKV@depth=\count317
+\XKV@depth=\count318
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 (/usr/local/texlive/2026/texmf-dist/tex/latex/koma-script/tocbasic.sty
@@ -416,89 +433,72 @@ Applying: [2021/05/01] Usage of raw or classic option list on input line 254.
 Already applied: [0000/00/00] Usage of raw or classic option list on input line
  370.
 )
-\scr@dte@tocline@numberwidth=\skip71
-\scr@dte@tocline@numbox=\box55
+\scr@dte@tocline@numberwidth=\skip74
+\scr@dte@tocline@numbox=\box57
 )
 Package tocbasic Info: omitting babel extension for `nlo'
 (tocbasic)             because of missing \bbl@set@language on input line 187.
 Package tocbasic Info: omitting babel extension for `nls'
 (tocbasic)             because of missing \bbl@set@language on input line 188.
-\nomlabelwidth=\dimen172
-\nom@tempdim=\dimen173
-\nomitemsep=\skip72
+\nomlabelwidth=\dimen174
+\nom@tempdim=\dimen175
+\nomitemsep=\skip75
 )
 (/usr/local/texlive/2026/texmf-dist/tex/latex/appendix/appendix.sty
 Package: appendix 2020/02/08 v1.2c extra appendix facilities
-\c@@pps=\count318
-\c@@ppsavesec=\count319
-\c@@ppsaveapp=\count320
+\c@@pps=\count319
+\c@@ppsavesec=\count320
+\c@@ppsaveapp=\count321
 )
 (/usr/local/texlive/2026/texmf-dist/tex/latex/tocloft/tocloft.sty
 Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
 Package tocloft Info: The document has chapter divisions on input line 51.
-\cftparskip=\skip73
-\cftbeforetoctitleskip=\skip74
-\cftaftertoctitleskip=\skip75
-\cftbeforepartskip=\skip76
-\cftpartnumwidth=\skip77
-\cftpartindent=\skip78
-\cftbeforechapskip=\skip79
-\cftchapindent=\skip80
-\cftchapnumwidth=\skip81
-\cftbeforesecskip=\skip82
-\cftsecindent=\skip83
-\cftsecnumwidth=\skip84
-\cftbeforesubsecskip=\skip85
-\cftsubsecindent=\skip86
-\cftsubsecnumwidth=\skip87
-\cftbeforesubsubsecskip=\skip88
-\cftsubsubsecindent=\skip89
-\cftsubsubsecnumwidth=\skip90
-\cftbeforeparaskip=\skip91
-\cftparaindent=\skip92
-\cftparanumwidth=\skip93
-\cftbeforesubparaskip=\skip94
-\cftsubparaindent=\skip95
-\cftsubparanumwidth=\skip96
-\cftbeforeloftitleskip=\skip97
-\cftafterloftitleskip=\skip98
-\cftbeforefigskip=\skip99
-\cftfigindent=\skip100
-\cftfignumwidth=\skip101
-\c@lofdepth=\count321
-\c@lotdepth=\count322
-\cftbeforelottitleskip=\skip102
-\cftafterlottitleskip=\skip103
-\cftbeforetabskip=\skip104
-\cfttabindent=\skip105
-\cfttabnumwidth=\skip106
+\cftparskip=\skip76
+\cftbeforetoctitleskip=\skip77
+\cftaftertoctitleskip=\skip78
+\cftbeforepartskip=\skip79
+\cftpartnumwidth=\skip80
+\cftpartindent=\skip81
+\cftbeforechapskip=\skip82
+\cftchapindent=\skip83
+\cftchapnumwidth=\skip84
+\cftbeforesecskip=\skip85
+\cftsecindent=\skip86
+\cftsecnumwidth=\skip87
+\cftbeforesubsecskip=\skip88
+\cftsubsecindent=\skip89
+\cftsubsecnumwidth=\skip90
+\cftbeforesubsubsecskip=\skip91
+\cftsubsubsecindent=\skip92
+\cftsubsubsecnumwidth=\skip93
+\cftbeforeparaskip=\skip94
+\cftparaindent=\skip95
+\cftparanumwidth=\skip96
+\cftbeforesubparaskip=\skip97
+\cftsubparaindent=\skip98
+\cftsubparanumwidth=\skip99
+\cftbeforeloftitleskip=\skip100
+\cftafterloftitleskip=\skip101
+\cftbeforefigskip=\skip102
+\cftfigindent=\skip103
+\cftfignumwidth=\skip104
+\c@lofdepth=\count322
+\c@lotdepth=\count323
+\cftbeforelottitleskip=\skip105
+\cftafterlottitleskip=\skip106
+\cftbeforetabskip=\skip107
+\cfttabindent=\skip108
+\cfttabnumwidth=\skip109
 )
 (/usr/local/texlive/2026/texmf-dist/tex/latex/tools/tabularx.sty
 Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
-
-(/usr/local/texlive/2026/texmf-dist/tex/latex/tools/array.sty
-Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
-\col@sep=\dimen174
-\ar@mcellbox=\box56
-\extrarowheight=\dimen175
-\NC@list=\toks30
-\extratabsurround=\skip107
-\backup@length=\skip108
-\ar@cellbox=\box57
-)
 \TX@col@width=\dimen176
 \TX@old@table=\dimen177
 \TX@old@col=\dimen178
 \TX@target=\dimen179
 \TX@delta=\dimen180
-\TX@cols=\count323
-\TX@ftn=\toks31
-)
-(/usr/local/texlive/2026/texmf-dist/tex/latex/colortbl/colortbl.sty
-Package: colortbl 2024/10/29 v1.0k Color table columns (DPC)
-\everycr=\toks32
-\minrowclearance=\skip109
-\rownum=\count324
+\TX@cols=\count324
+\TX@ftn=\toks32
 )
 (/usr/local/texlive/2026/texmf-dist/tex/latex/tools/longtable.sty
 Package: longtable 2025-10-13 v4.24 Multi-page Table package (DPC)
@@ -659,59 +659,80 @@ Package: xparse 2025-10-09 L3 Experimental document command parser
 \l__tblr_last_cell_table_dp_dim=\dimen294
 \l__tblr_last_vline_wd_dim=\dimen295
 \l__tblr_tikz_node_box=\box90
-) (/usr/local/texlive/2026/texmf-dist/tex/latex/caption/subcaption.sty
-Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
-
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen296
+\lightrulewidth=\dimen297
+\cmidrulewidth=\dimen298
+\belowrulesep=\dimen299
+\belowbottomsep=\dimen300
+\aboverulesep=\dimen301
+\abovetopsep=\dimen302
+\cmidrulesep=\dimen303
+\cmidrulekern=\dimen304
+\defaultaddspace=\dimen305
+\@cmidla=\count369
+\@cmidlb=\count370
+\@aboverulesep=\dimen306
+\@belowrulesep=\dimen307
+\@thisruleclass=\count371
+\@lastruleclass=\count372
+\@thisrulewidth=\dimen308
+)
+(/usr/local/texlive/2026/texmf-dist/tex/latex/graphics/rotating.sty
+Package: rotating 2025/01/14 v2.16e rotated objects in LaTeX
+\c@r@tfl@t=\count373
+\rotFPtop=\skip114
+\rotFPbot=\skip115
+\rot@float@box=\box91
+\rot@mess@toks=\toks34
+)
 (/usr/local/texlive/2026/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2023/08/05 v3.6o Customizing captions (AR)
 
 (/usr/local/texlive/2026/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
-\caption@tempdima=\dimen296
-\captionmargin=\dimen297
-\caption@leftmargin=\dimen298
-\caption@rightmargin=\dimen299
-\caption@width=\dimen300
-\caption@indent=\dimen301
-\caption@parindent=\dimen302
-\caption@hangindent=\dimen303
+\caption@tempdima=\dimen309
+\captionmargin=\dimen310
+\caption@leftmargin=\dimen311
+\caption@rightmargin=\dimen312
+\caption@width=\dimen313
+\caption@indent=\dimen314
+\caption@parindent=\dimen315
+\caption@hangindent=\dimen316
 Package caption Info: Standard document class detected.
 )
-\c@caption@flags=\count369
-\c@continuedfloat=\count370
+\c@caption@flags=\count374
+\c@continuedfloat=\count375
 Package caption Info: changepage package is loaded.
-\caption@adjustwidth@hsize=\dimen304
-\caption@adjustwidth@linewidth=\dimen305
+\caption@adjustwidth@hsize=\dimen317
+\caption@adjustwidth@linewidth=\dimen318
 Package caption Info: hyperref package is loaded.
 Package caption Info: longtable package is loaded.
 
 (/usr/local/texlive/2026/texmf-dist/tex/latex/caption/ltcaption.sty
 Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
-))
-Package caption Info: New subtype `subfigure' on input line 238.
-\c@subfigure=\count371
-Package caption Info: New subtype `subtable' on input line 238.
-\c@subtable=\count372
 )
-(/usr/local/texlive/2026/texmf-dist/tex/latex/booktabs/booktabs.sty
-Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
-\heavyrulewidth=\dimen306
-\lightrulewidth=\dimen307
-\cmidrulewidth=\dimen308
-\belowrulesep=\dimen309
-\belowbottomsep=\dimen310
-\aboverulesep=\dimen311
-\abovetopsep=\dimen312
-\cmidrulesep=\dimen313
-\cmidrulekern=\dimen314
-\defaultaddspace=\dimen315
-\@cmidla=\count373
-\@cmidlb=\count374
-\@aboverulesep=\dimen316
-\@belowrulesep=\dimen317
-\@thisruleclass=\count375
-\@lastruleclass=\count376
-\@thisrulewidth=\dimen318
+Package caption Info: rotating package is loaded.
+)
+(/usr/local/texlive/2026/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count376
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count377
+)
+(/usr/local/texlive/2026/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2025/01/04 v2.17 Sectioning titles
+\ttl@box=\box92
+\beforetitleunit=\skip116
+\aftertitleunit=\skip117
+\ttl@plus=\dimen319
+\ttl@minus=\dimen320
+\ttl@toksa=\toks35
+\titlewidth=\dimen321
+\titlewidthlast=\dimen322
+\titlewidthfirst=\dimen323
 )
 (/usr/local/texlive/2026/texmf-dist/tex/latex/svg/svg.sty
 Package: svg 2020/11/26 v2.02k (include SVG pictures)
@@ -723,9 +744,9 @@ Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 Package: shellesc 2023/07/08 v1.0d unified shell escape interface for LaTeX
 Package shellesc Info: Restricted shell escape enabled on input line 77.
 )
-\c@svg@param@lastpage=\count377
-\svg@box=\box91
-\c@svg@param@currpage=\count378
+\c@svg@param@lastpage=\count378
+\svg@box=\box93
+\c@svg@param@currpage=\count379
 )
 (/usr/local/texlive/2026/texmf-dist/tex/latex/transparent/transparent.sty
 Package: transparent 2025-06-23 v1.6 Transparency with color stacks
@@ -741,12 +762,12 @@ Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 (/usr/local/texlive/2026/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
 (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
 x
-\pgfutil@everybye=\toks34
-\pgfutil@tempdima=\dimen319
-\pgfutil@tempdimb=\dimen320
+\pgfutil@everybye=\toks36
+\pgfutil@tempdima=\dimen324
+\pgfutil@tempdimb=\dimen325
 )
 (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
-\pgfutil@abb=\box92
+\pgfutil@abb=\box94
 ) (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
 (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/pgf.revision.tex)
 Package: pgfrcs 2025-08-29 v3.1.11a (3.1.11a)
@@ -754,33 +775,33 @@ Package: pgfrcs 2025-08-29 v3.1.11a (3.1.11a)
 (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
 Package: pgfsys 2025-08-29 v3.1.11a (3.1.11a)
 (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks35
-\pgfkeys@temptoks=\toks36
+\pgfkeys@pathtoks=\toks37
+\pgfkeys@temptoks=\toks38
 
 (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfil
 tered.code.tex
-\pgfkeys@tmptoks=\toks37
+\pgfkeys@tmptoks=\toks39
 ))
-\pgf@x=\dimen321
-\pgf@y=\dimen322
-\pgf@xa=\dimen323
-\pgf@ya=\dimen324
-\pgf@xb=\dimen325
-\pgf@yb=\dimen326
-\pgf@xc=\dimen327
-\pgf@yc=\dimen328
-\pgf@xd=\dimen329
-\pgf@yd=\dimen330
+\pgf@x=\dimen326
+\pgf@y=\dimen327
+\pgf@xa=\dimen328
+\pgf@ya=\dimen329
+\pgf@xb=\dimen330
+\pgf@yb=\dimen331
+\pgf@xc=\dimen332
+\pgf@yc=\dimen333
+\pgf@xd=\dimen334
+\pgf@yd=\dimen335
 \w@pgf@writea=\write3
 \r@pgf@reada=\read2
-\c@pgf@counta=\count379
-\c@pgf@countb=\count380
-\c@pgf@countc=\count381
-\c@pgf@countd=\count382
-\t@pgf@toka=\toks38
-\t@pgf@tokb=\toks39
-\t@pgf@tokc=\toks40
-\pgf@sys@id@count=\count383
+\c@pgf@counta=\count380
+\c@pgf@countb=\count381
+\c@pgf@countc=\count382
+\c@pgf@countd=\count383
+\t@pgf@toka=\toks40
+\t@pgf@tokb=\toks41
+\t@pgf@tokc=\toks42
+\pgf@sys@id@count=\count384
 
 (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2025-08-29 v3.1.11a (3.1.11a)
@@ -798,25 +819,31 @@ File: pgfsys-common-pdf.def 2025-08-29 v3.1.11a (3.1.11a)
 (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
 code.tex
 File: pgfsyssoftpath.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgfsyssoftpath@smallbuffer@items=\count384
-\pgfsyssoftpath@bigbuffer@items=\count385
+\pgfsyssoftpath@smallbuffer@items=\count385
+\pgfsyssoftpath@bigbuffer@items=\count386
 )
 (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
 code.tex
 File: pgfsysprotocol.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 )) (/usr/local/texlive/2026/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count386
-\float@exts=\toks41
-\float@box=\box93
-\@float@everytoks=\toks42
-\@floatcapt=\box94
+\c@float@type=\count387
+\float@exts=\toks43
+\float@box=\box95
+\@float@everytoks=\toks44
+\@floatcapt=\box96
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 38.
+Package hyperref Info: Option `colorlinks' set `true' on input line 37.
 \@nomenclaturefile=\write4
 \openout4 = `main.nlo'.
 
-Package nomencl Info: Writing nomenclature file main.nlo on input line 40.
+Package nomencl Info: Writing nomenclature file main.nlo on input line 39.
+
+
+Package fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less.
+(fancyhdr)                Please consider using the `twoside' option on input l
+ine 44.
 
 
 Package fancyhdr Warning: \fancyhead's `E' option without twoside option is use
@@ -824,59 +851,32 @@ less.
 (fancyhdr)                Please consider using the `twoside' option on input l
 ine 45.
 
-
-Package fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less.
-(fancyhdr)                Please consider using the `twoside' option on input l
-ine 46.
-
-(/usr/local/texlive/2026/texmf-dist/tex/latex/titlesec/titlesec.sty
-Package: titlesec 2025/01/04 v2.17 Sectioning titles
-\ttl@box=\box95
-\beforetitleunit=\skip114
-\aftertitleunit=\skip115
-\ttl@plus=\dimen331
-\ttl@minus=\dimen332
-\ttl@toksa=\toks43
-\titlewidth=\dimen333
-\titlewidthlast=\dimen334
-\titlewidthfirst=\dimen335
-)
-(/usr/local/texlive/2026/texmf-dist/tex/latex/graphics/rotating.sty
-Package: rotating 2025/01/14 v2.16e rotated objects in LaTeX
-\c@r@tfl@t=\count387
-\rotFPtop=\skip116
-\rotFPbot=\skip117
-\rot@float@box=\box96
-\rot@mess@toks=\toks44
-)
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 62
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 53
 .
-
 (/usr/local/texlive/2026/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-Package hyperref Info: Link coloring ON on input line 62.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+Package hyperref Info: Link coloring ON on input line 53.
 
 (./main.out) (./main.out)
 \@outlinefile=\write5
@@ -941,7 +941,6 @@ e
 ))
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
-Package caption Info: rotating package is loaded.
 Package caption Info: End \AtBeginDocument code.
 
 (./titlepage.tex
@@ -1035,15 +1034,7 @@ n.tex [2
 
 ]) (./acronyms.tex (./main.nls [5
 
-]
-! Misplaced alignment tab character &.
-<argument> AT&
-              T
-l.10   \item [{AT&T}]
-                     \begingroup American Telephone and Telegraph\nomeqref {...
-
-? 
-[6
+] [6
 
 ]))
 
@@ -3239,9 +3230,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [24]
-Overfull \hbox (15.25018pt too wide) in paragraph at lines 499--501
-[]\T1/lmr/m/n/12 Aggressive lo-cal caching us-ing \T1/lmr/bx/n/12 Hive \T1/lmr/
-m/n/12 to main-tain func-tion-al-ity in low-connectivity
+Overfull \hbox (6.53448pt too wide) in paragraph at lines 473--476
+[]\T1/lmr/m/n/12 Database setup with \T1/lmr/bx/n/12 Post-greSQL \T1/lmr/m/n/12
+ and the \T1/lmr/bx/n/12 Post-GIS \T1/lmr/m/n/12 ex-ten-sion, sup-port-ing geos
+pa-
  []
 
 
@@ -3255,19 +3247,18 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <images/gantt_3.png, id=753, 1067.187pt x 418.6842pt>
 File: images/gantt_3.png Graphic file (type png)
 <use images/gantt_3.png>
-Package pdftex.def Info: images/gantt_3.png  used on input line 537.
+Package pdftex.def Info: images/gantt_3.png  used on input line 538.
 (pdftex.def)             Requested size: 493.2442pt x 193.51703pt.
 
-Overfull \hbox (23.48918pt too wide) in paragraph at lines 537--538
+Overfull \hbox (23.48918pt too wide) in paragraph at lines 538--539
  [][] 
  []
 
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 5
-47.
+48.
 (/usr/local/texlive/2026/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-))
-(./chapters/System Analysis and Design.tex
+)
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -3275,7 +3266,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[26 <./images/gantt_3.png>]
+[26 <./images/gantt_3.png>]) (./chapters/System Analysis and Design.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -3296,11 +3287,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [29]
-Overfull \hbox (1.22415pt too wide) in paragraph at lines 138--142
-[]\T1/lmr/m/n/12 Overall, the cur-rent sys-tem demon-strates sig-nif-i-cant gap
-s in co-or-di-na-tion, trans-parency,
- []
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -3317,7 +3303,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [31]
-<images/methodology_3.png, id=808, 398.9304pt x 552.3837pt>
+<images/methodology_3.png, id=812, 398.9304pt x 552.3837pt>
 File: images/methodology_3.png Graphic file (type png)
 <use images/methodology_3.png>
 Package pdftex.def Info: images/methodology_3.png  used on input line 262.
@@ -3342,7 +3328,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [33 <./images/methodology_3.png>]
-<images/FYP/userdiagram.png, id=826, 599.23875pt x 1010.77625pt>
+<images/FYP/userdiagram.png, id=828, 599.23875pt x 1010.77625pt>
 File: images/FYP/userdiagram.png Graphic file (type png)
 <use images/FYP/userdiagram.png>
 Package pdftex.def Info: images/FYP/userdiagram.png  used on input line 303.
@@ -3386,17 +3372,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [37]
-Overfull \hbox (4.44002pt too wide) in paragraph at lines 424--425
-\T1/lmr/m/n/12 Traxis en-forces se-cu-rity at mul-ti-ple lev-els. Au-then-ti-ca
--tion is han-dled ex-clu-sively through
- []
-
-
-Overfull \hbox (11.85716pt too wide) in paragraph at lines 424--425
-\T1/lmr/m/n/12 OTP-based phone num-ber ver-i-fi-ca-tion via Fire-base Au-then-t
-i-ca-tion, elim-i-nat-ing password-
- []
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -3419,23 +3394,18 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [39]
-Overfull \hbox (46.33821pt too wide) in paragraph at lines 502--508
-\T1/lmr/m/n/12 In-cludes fields such as \T1/lmtt/m/n/12 company_name\T1/lmr/m/n
-/12 , \T1/lmtt/m/n/12 company_registration_number\T1/lmr/m/n/12 , \T1/lmtt/m/n/
-12 company_address\T1/lmr/m/n/12 ,
+Overfull \hbox (62.1231pt too wide) in paragraph at lines 502--508
+\T1/lmr/m/n/12 fields such as \T1/lmtt/m/n/12 company_name\T1/lmr/m/n/12 , \T1/
+lmtt/m/n/12 company_registration_number\T1/lmr/m/n/12 , \T1/lmtt/m/n/12 company
+_address\T1/lmr/m/n/12 , \T1/lmtt/m/n/12 vehicle_count\T1/lmr/m/n/12 ,
  []
 
 
-Overfull \hbox (3.66916pt too wide) in paragraph at lines 502--508
-\T1/lmtt/m/n/12 vehicle_count\T1/lmr/m/n/12 , \T1/lmtt/m/n/12 trip_routes\T1/lm
-r/m/n/12 , \T1/lmtt/m/n/12 route_charges\T1/lmr/m/n/12 , and a boolean \T1/lmtt
-/m/n/12 delivers_parcels
- []
-
-
-Overfull \hbox (46.75897pt too wide) in paragraph at lines 509--515
-\T1/lmr/m/n/12 route be-longs to one op-er-a-tor pro-file (many-to-one re-la-ti
-on-ship via \T1/lmtt/m/n/12 operator_profile_id\T1/lmr/m/n/12 ).
+Overfull \hbox (8.02202pt too wide) in paragraph at lines 509--515
+\T1/lmr/m/n/12 In-cludes fields such as \T1/lmtt/m/n/12 route_code\T1/lmr/m/n/1
+2 , \T1/lmtt/m/n/12 route_name\T1/lmr/m/n/12 , \T1/lmtt/m/n/12 origin\T1/lmr/m/
+n/12 , \T1/lmtt/m/n/12 destination\T1/lmr/m/n/12 , \T1/lmtt/m/n/12 via\T1/lmr/m
+/n/12 , \T1/lmtt/m/n/12 base_fare\T1/lmr/m/n/12 ,
  []
 
 
@@ -3446,19 +3416,19 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [40 <./images/FYP/eda.png>]
-Overfull \hbox (26.18391pt too wide) in paragraph at lines 524--531
-\T1/lmr/m/n/12 fields such as \T1/lmtt/m/n/12 route_name\T1/lmr/m/n/12 , \T1/lm
-tt/m/n/12 pickup_point\T1/lmr/m/n/12 , \T1/lmtt/m/n/12 dropoff_point\T1/lmr/m/n
-/12 , \T1/lmtt/m/n/12 travel_date\T1/lmr/m/n/12 , \T1/lmtt/m/n/12 seat_count\T1
-/lmr/m/n/12 ,
+Overfull \hbox (32.76045pt too wide) in paragraph at lines 524--531
+\T1/lmr/m/n/12 as \T1/lmtt/m/n/12 route_name\T1/lmr/m/n/12 , \T1/lmtt/m/n/12 pi
+ckup_point\T1/lmr/m/n/12 , \T1/lmtt/m/n/12 dropoff_point\T1/lmr/m/n/12 , \T1/lm
+tt/m/n/12 travel_date\T1/lmr/m/n/12 , \T1/lmtt/m/n/12 seat_count\T1/lmr/m/n/12 
+, \T1/lmtt/m/n/12 quoted_amount\T1/lmr/m/n/12 ,
  []
 
 
-Overfull \hbox (3.07394pt too wide) in paragraph at lines 532--541
-\T1/lmr/m/n/12 as \T1/lmtt/m/n/12 tracking_number\T1/lmr/m/n/12 , \T1/lmtt/m/n/
-12 origin\T1/lmr/m/n/12 , \T1/lmtt/m/n/12 destination\T1/lmr/m/n/12 , \T1/lmtt/
-m/n/12 recipient_name\T1/lmr/m/n/12 , \T1/lmtt/m/n/12 recipient_phone\T1/lmr/m/
-n/12 ,
+Overfull \hbox (38.16473pt too wide) in paragraph at lines 532--541
+\T1/lmtt/m/n/12 tracking_number\T1/lmr/m/n/12 , \T1/lmtt/m/n/12 origin\T1/lmr/m
+/n/12 , \T1/lmtt/m/n/12 destination\T1/lmr/m/n/12 , \T1/lmtt/m/n/12 recipient_n
+ame\T1/lmr/m/n/12 , \T1/lmtt/m/n/12 recipient_phone\T1/lmr/m/n/12 , \T1/lmtt/m/
+n/12 description\T1/lmr/m/n/12 ,
  []
 
 
@@ -3469,15 +3439,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [41{/usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}]
-Overfull \hbox (41.7621pt too wide) in paragraph at lines 621--625
+Overfull \hbox (15.91241pt too wide) in paragraph at lines 621--625
 []\T1/lmr/bx/n/12 Tickets, Ride his-tory and book-ing lists: \T1/lmr/m/n/12 Scr
 ol-lable list views (\T1/lmtt/m/n/12 ride_history_screen\T1/lmr/m/n/12 ,
- []
-
-
-Overfull \hbox (14.9482pt too wide) in paragraph at lines 633--637
-\T1/lmr/m/n/12 tin-u-ously fetch and ren-der user and trans-port lo-ca-tions. T
-he \T1/lmtt/m/n/12 ACCESS_FINE_LOCATION
  []
 
 
@@ -3514,11 +3478,6 @@ Chapter 5.
 [45
 
 ]
-Overfull \hbox (6.95541pt too wide) in paragraph at lines 39--45
-[]\T1/lmr/bx/n/12 PostgreSQL (with Post-GIS) \T1/lmr/m/n/12 Post-greSQL was use
-d as the pri-mary re-la-tional database
- []
-
 <images/FYP/admin1.png, id=887, 1738.495pt x 1127.21124pt>
 File: images/FYP/admin1.png Graphic file (type png)
 <use images/FYP/admin1.png>
@@ -3529,6 +3488,7 @@ File: images/FYP/admin2.png Graphic file (type png)
 <use images/FYP/admin2.png>
 Package pdftex.def Info: images/FYP/admin2.png  used on input line 104.
 (pdftex.def)             Requested size: 375.80544pt x 243.65288pt.
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -3564,110 +3524,24 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [48 <./images/FYP/admin3.png> <./images/FYP/admin4.png>]
-<images/FYP/login.jpeg, id=909, 542.025pt x 1204.5pt>
-File: images/FYP/login.jpeg Graphic file (type jpg)
-<use images/FYP/login.jpeg>
-Package pdftex.def Info: images/FYP/login.jpeg  used on input line 147.
-(pdftex.def)             Requested size: 225.4804pt x 501.07121pt.
+<images/login.jpg, id=909, 1084.05pt x 2348.775pt>
+File: images/login.jpg Graphic file (type jpg)
+<use images/login.jpg>
+Package pdftex.def Info: images/login.jpg  used on input line 145.
+(pdftex.def)             Requested size: 164.41711pt x 356.20755pt.
 
-Overfull \hbox (1.0pt too wide) in paragraph at lines 147--148
+Overfull \hbox (1.0pt too wide) in paragraph at lines 145--146
  [][] 
  []
 
-<images/FYP/operatorlogin.jpeg, id=910, 542.025pt x 1204.5pt>
-File: images/FYP/operatorlogin.jpeg Graphic file (type jpg)
-<use images/FYP/operatorlogin.jpeg>
-Package pdftex.def Info: images/FYP/operatorlogin.jpeg  used on input line 153.
-
-(pdftex.def)             Requested size: 225.4804pt x 501.07121pt.
-
-Overfull \hbox (1.0pt too wide) in paragraph at lines 153--154
- [][] 
- []
-
-<images/FYP/otpverification.jpeg, id=911, 542.025pt x 1204.5pt>
+<images/FYP/otpverification.jpeg, id=910, 542.025pt x 1204.5pt>
 File: images/FYP/otpverification.jpeg Graphic file (type jpg)
 <use images/FYP/otpverification.jpeg>
-Package pdftex.def Info: images/FYP/otpverification.jpeg  used on input line 18
-3.
-(pdftex.def)             Requested size: 225.4804pt x 501.07121pt.
+Package pdftex.def Info: images/FYP/otpverification.jpeg  used on input line 15
+1.
+(pdftex.def)             Requested size: 164.41711pt x 365.35945pt.
 
-Overfull \hbox (1.0pt too wide) in paragraph at lines 183--184
- [][] 
- []
-
-<images/FYP/operatorDashboard.jpeg, id=912, 542.025pt x 1204.5pt>
-File: images/FYP/operatorDashboard.jpeg Graphic file (type jpg)
-<use images/FYP/operatorDashboard.jpeg>
-Package pdftex.def Info: images/FYP/operatorDashboard.jpeg  used on input line 
-189.
-(pdftex.def)             Requested size: 225.4804pt x 501.07121pt.
-
-Overfull \hbox (1.0pt too wide) in paragraph at lines 189--190
- [][] 
- []
-
-<images/FYP/operatorProfile.jpeg, id=913, 542.025pt x 1204.5pt>
-File: images/FYP/operatorProfile.jpeg Graphic file (type jpg)
-<use images/FYP/operatorProfile.jpeg>
-Package pdftex.def Info: images/FYP/operatorProfile.jpeg  used on input line 20
-2.
-(pdftex.def)             Requested size: 225.4804pt x 501.07121pt.
-
-Overfull \hbox (1.0pt too wide) in paragraph at lines 202--203
- [][] 
- []
-
-<images/FYP/companyDetails.jpeg, id=914, 542.025pt x 1204.5pt>
-File: images/FYP/companyDetails.jpeg Graphic file (type jpg)
-<use images/FYP/companyDetails.jpeg>
-Package pdftex.def Info: images/FYP/companyDetails.jpeg  used on input line 208
-.
-(pdftex.def)             Requested size: 225.4804pt x 501.07121pt.
-
-Overfull \hbox (1.0pt too wide) in paragraph at lines 208--209
- [][] 
- []
-
-<images/FYP/passengerDashboard.jpeg, id=915, 542.025pt x 1204.5pt>
-File: images/FYP/passengerDashboard.jpeg Graphic file (type jpg)
-<use images/FYP/passengerDashboard.jpeg>
-Package pdftex.def Info: images/FYP/passengerDashboard.jpeg  used on input line
- 239.
-(pdftex.def)             Requested size: 225.4804pt x 501.07121pt.
-
-Overfull \hbox (1.0pt too wide) in paragraph at lines 239--240
- [][] 
- []
-
-<images/FYP/routes.jpeg, id=916, 542.025pt x 1204.5pt>
-File: images/FYP/routes.jpeg Graphic file (type jpg)
-<use images/FYP/routes.jpeg>
-Package pdftex.def Info: images/FYP/routes.jpeg  used on input line 245.
-(pdftex.def)             Requested size: 225.4804pt x 501.07121pt.
-
-Overfull \hbox (1.0pt too wide) in paragraph at lines 245--246
- [][] 
- []
-
-<images/FYP/parcel.jpeg, id=917, 542.025pt x 1204.5pt>
-File: images/FYP/parcel.jpeg Graphic file (type jpg)
-<use images/FYP/parcel.jpeg>
-Package pdftex.def Info: images/FYP/parcel.jpeg  used on input line 258.
-(pdftex.def)             Requested size: 225.4804pt x 501.07121pt.
-
-Overfull \hbox (1.0pt too wide) in paragraph at lines 258--259
- [][] 
- []
-
-<images/FYP/Digital Ticket.PNG, id=918, 1174.3875pt x 2541.495pt>
-File: images/FYP/Digital Ticket.PNG Graphic file (type png)
-<use images/FYP/Digital Ticket.PNG>
-Package pdftex.def Info: images/FYP/Digital Ticket.PNG  used on input line 264.
-
-(pdftex.def)             Requested size: 225.4804pt x 487.93048pt.
-
-Overfull \hbox (1.0pt too wide) in paragraph at lines 264--265
+Overfull \hbox (1.0pt too wide) in paragraph at lines 151--152
  [][] 
  []
 
@@ -3678,7 +3552,47 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[49]
+[49 <./images/login.jpg> <./images/FYP/otpverification.jpeg>]
+File: images/login.jpg Graphic file (type jpg)
+<use images/login.jpg>
+Package pdftex.def Info: images/login.jpg  used on input line 178.
+(pdftex.def)             Requested size: 164.41711pt x 356.20755pt.
+
+Overfull \hbox (1.0pt too wide) in paragraph at lines 178--179
+ [][] 
+ []
+
+<images/operator/dashbaord.jpg, id=915, 1084.05pt x 2348.775pt>
+File: images/operator/dashbaord.jpg Graphic file (type jpg)
+<use images/operator/dashbaord.jpg>
+Package pdftex.def Info: images/operator/dashbaord.jpg  used on input line 184.
+
+(pdftex.def)             Requested size: 164.41711pt x 356.20755pt.
+
+Overfull \hbox (1.0pt too wide) in paragraph at lines 184--185
+ [][] 
+ []
+
+<images/operator/profile.jpg, id=916, 1084.05pt x 2348.775pt>
+File: images/operator/profile.jpg Graphic file (type jpg)
+<use images/operator/profile.jpg>
+Package pdftex.def Info: images/operator/profile.jpg  used on input line 195.
+(pdftex.def)             Requested size: 164.41711pt x 356.20755pt.
+
+Overfull \hbox (1.0pt too wide) in paragraph at lines 195--196
+ [][] 
+ []
+
+<images/operator/routes.jpg, id=917, 1084.05pt x 2348.775pt>
+File: images/operator/routes.jpg Graphic file (type jpg)
+<use images/operator/routes.jpg>
+Package pdftex.def Info: images/operator/routes.jpg  used on input line 201.
+(pdftex.def)             Requested size: 164.41711pt x 356.20755pt.
+
+Overfull \hbox (1.0pt too wide) in paragraph at lines 201--202
+ [][] 
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -3686,7 +3600,28 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[50 <./images/FYP/login.jpeg> <./images/FYP/operatorlogin.jpeg>]
+[50 <./images/operator/dashbaord.jpg>]
+<images/customer/dashboard.jpg, id=923, 1084.05pt x 2348.775pt>
+File: images/customer/dashboard.jpg Graphic file (type jpg)
+<use images/customer/dashboard.jpg>
+Package pdftex.def Info: images/customer/dashboard.jpg  used on input line 227.
+
+(pdftex.def)             Requested size: 164.41711pt x 356.20755pt.
+
+Overfull \hbox (1.0pt too wide) in paragraph at lines 227--228
+ [][] 
+ []
+
+<images/customer/profile.jpg, id=924, 1084.05pt x 2348.775pt>
+File: images/customer/profile.jpg Graphic file (type jpg)
+<use images/customer/profile.jpg>
+Package pdftex.def Info: images/customer/profile.jpg  used on input line 233.
+(pdftex.def)             Requested size: 164.41711pt x 356.20755pt.
+
+Overfull \hbox (1.0pt too wide) in paragraph at lines 233--234
+ [][] 
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -3694,7 +3629,27 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[51 <./images/FYP/otpverification.jpeg> <./images/FYP/operatorDashboard.jpeg>]
+[51 <./images/operator/profile.jpg> <./images/operator/routes.jpg>]
+<images/customer/pdetails.jpg, id=929, 1084.05pt x 2348.775pt>
+File: images/customer/pdetails.jpg Graphic file (type jpg)
+<use images/customer/pdetails.jpg>
+Package pdftex.def Info: images/customer/pdetails.jpg  used on input line 244.
+(pdftex.def)             Requested size: 164.41711pt x 356.20755pt.
+
+Overfull \hbox (1.0pt too wide) in paragraph at lines 244--245
+ [][] 
+ []
+
+<images/customer/ticket.jpg, id=930, 1084.05pt x 2348.775pt>
+File: images/customer/ticket.jpg Graphic file (type jpg)
+<use images/customer/ticket.jpg>
+Package pdftex.def Info: images/customer/ticket.jpg  used on input line 250.
+(pdftex.def)             Requested size: 164.41711pt x 356.20755pt.
+
+Overfull \hbox (1.0pt too wide) in paragraph at lines 250--251
+ [][] 
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -3702,7 +3657,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[52 <./images/FYP/operatorProfile.jpeg> <./images/FYP/companyDetails.jpeg>]
+[52 <./images/customer/dashboard.jpg> <./images/customer/profile.jpg>]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -3710,7 +3665,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[53 <./images/FYP/passengerDashboard.jpeg> <./images/FYP/routes.jpeg>]
+[53 <./images/customer/pdetails.jpg> <./images/customer/ticket.jpg>])
+(./chapters/Recommendations, Conclusion, and future works.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -3718,25 +3674,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[54 <./images/FYP/parcel.jpeg> <./images/FYP/Digital Ticket.PNG>]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[55]) (./chapters/Recommendations, Conclusion, and future works.tex
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[56]
+[54]
 Chapter 6.
-[57
+[55
 
 ]
 
@@ -3746,13 +3686,45 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[58]
-Overfull \hbox (10.50089pt too wide) in paragraph at lines 43--44
-[]\T1/lmr/m/n/12 Integration with Dig-i-tal Pay-ment Gate-ways: Sup-port for mo
--bile money, debit/credit
+[56]) (./main.bbl
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[57]
+Underfull \hbox (badness 1142) in paragraph at lines 73--77
+[]\T1/lmr/m/n/12 Codeware Lim-ited. (2023) Ben-e-fits of im-ple-ment-ing on-lin
+e bus
  []
 
-) (./main.bbl
+
+Underfull \hbox (badness 2717) in paragraph at lines 73--77
+\T1/lmr/m/n/12 seat book-ing sys-tem, pos and mo-bile ap-pli-ca-tion. Ac-
+ []
+
+
+Underfull \hbox (badness 1460) in paragraph at lines 73--77
+\T1/lmr/m/n/12 cessed 2026-04-13. [On-line]. Avail-able: [][]$https : / / vocal
+ . media / journal /
+ []
+
+[58
+
+]
+Overfull \hbox (12.73245pt too wide) in paragraph at lines 95--100
+\T1/lmr/m/n/12 reorganizing-[]informal-[]transport-[]in-[]uganda-[]achieving-[]
+a-[]multimodality-[]that-[]works-[]for-[]all/$[][] 
+ []
+
+
+Overfull \hbox (6.76852pt too wide) in paragraph at lines 159--163
+\T1/lmr/m/n/12 tecno-[]in^^\nix-[]and-[]itel-[]the-[]secret-[]behind-[]their-[]
+dominance-[]in-[]africas-[]smartphone-[]market/$[][] 
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -3761,46 +3733,27 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [59]
-Underfull \hbox (badness 10000) in paragraph at lines 42--47
-\T1/lmr/m/n/12 go . ug / sites / default / ^^\les / reports / Integrated % 20Tr
-ansport % 20Infrastructure %
+Underfull \hbox (badness 1400) in paragraph at lines 239--243
+[]\T1/lmr/m/n/12 N. J. Ka-manzi, ``3 ways to topup your safeboda wal-
  []
 
 
-Overfull \hbox (27.80792pt too wide) in paragraph at lines 65--70
-\T1/lmr/m/n/12 new-[]communications-[]sector-[]report-[]highlights-[]e^^[orts-[
-]to-[]bridge-[]access-[]and-[]usage-[]gaps/$[][] 
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[60]
+Underfull \hbox (badness 10000) in paragraph at lines 295--299
+\T1/lmr/m/n/12 ~ : text = Fleet % 20telematics % 20is % 20essential % 20for % 2
+0any % 20organization ,[] (OBD )
  []
 
 
-Underfull \hbox (badness 1496) in paragraph at lines 73--77
-[]\T1/lmr/m/n/12 Codeware Lim-ited. (2023) Ben-e-fits of im-ple-ment-ing on-lin
-e
- []
-
-
-Overfull \hbox (22.51671pt too wide) in paragraph at lines 73--77
-\T1/lmr/m/n/12 bene^^\ts-[]of-[]implementing-[]online-[]bus-[]seat-[]booking-[]
-system-[]pos-[]and-[]mobile-[]application$[][] 
- []
-
-[60
-
-]
-Overfull \hbox (42.10715pt too wide) in paragraph at lines 95--100
-\T1/lmr/m/n/12 reorganizing-[]informal-[]transport-[]in-[]uganda-[]achieving-[]
-a-[]multimodality-[]that-[]works-[]for-[]all/$[][] 
- []
-
-
-Overfull \hbox (36.14322pt too wide) in paragraph at lines 159--163
-\T1/lmr/m/n/12 tecno-[]in^^\nix-[]and-[]itel-[]the-[]secret-[]behind-[]their-[]
-dominance-[]in-[]africas-[]smartphone-[]market/$[][] 
- []
-
-
-Underfull \hbox (badness 1371) in paragraph at lines 174--178
-[]\T1/lmr/m/n/12 H. Lan-le-hin, ``Why are in-finix and tecno phones so
+Underfull \hbox (badness 1199) in paragraph at lines 321--325
+\T1/lmr/m/it/12 cid-chart Blog\T1/lmr/m/n/12 . [On-line]. Avail-able: [][]$http
+s : / / www . lucidchart . com / blog /
  []
 
 
@@ -3811,9 +3764,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [61]
-Underfull \hbox (badness 10000) in paragraph at lines 197--202
-\T1/lmr/m/n/12 / / www . softwareadvice . com . au / software / 279003 / gps-[]
-vehicle-[]tracking-[]system$[][],
+Underfull \hbox (badness 1117) in paragraph at lines 356--360
+\T1/lmr/m/it/12 Cloud-fresh Blog\T1/lmr/m/n/12 . [On-line]. Avail-able: [][]$ht
+tps : / / cloudfresh . com / en / blog /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 408--412
+\T1/lmr/m/n/12 UBER _ TRANSPORTATIONS _ ON _ THE _ INFORMAL _ PUBLIC _ TRANSPOR
+T _
  []
 
 
@@ -3824,26 +3783,38 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [62]
-Underfull \hbox (badness 10000) in paragraph at lines 295--299
-\T1/lmr/m/n/12 # : ~ : text = Fleet % 20telematics % 20is % 20essential % 20for
- % 20any % 20organization ,[]
+Underfull \hbox (badness 1009) in paragraph at lines 473--478
+[]\T1/lmr/m/n/12 D. Ka-tushabe, ``Safe-car by safeboda be-comes the most pre-
  []
 
 
-Underfull \hbox (badness 1371) in paragraph at lines 307--311
-[]\T1/lmr/m/n/12 Modeshift, ``Cloud-based tran-sit sys-tems ex-plained: What
+Underfull \hbox (badness 2426) in paragraph at lines 473--478
+\T1/lmr/m/n/12 2025. [On-line]. Avail-able: [][]$https : / / www . safeboda . c
+om / safeboda-[]blog /
  []
 
 
-Underfull \hbox (badness 1466) in paragraph at lines 307--311
-\T1/lmr/m/n/12 March 2024. [On-line]. Avail-able: [][]$https : / / www . modesh
-ift . com /
+Overfull \hbox (41.73204pt too wide) in paragraph at lines 473--478
+\T1/lmr/m/n/12 safecar-[]by-[]safeboda-[]becomes-[]the-[]most-[]preferred-[]car
+-[]hailing-[]service-[]for-[]safety-[]and-[]convenience$[][] 
  []
 
 
-Overfull \hbox (22.78412pt too wide) in paragraph at lines 349--353
-\T1/lmr/m/n/12 dynamic-[]pricing-[]real-[]time-[]data-[]streaming-[]with-[]apac
-he-[]kafka-[]and-[]^^]ink-[]1e7517055661$[][] 
+Underfull \hbox (badness 1210) in paragraph at lines 494--498
+\T1/lmr/m/n/12 scoot-ers,'' 2019. [On-line]. Avail-able: [][]$https : / / qz . 
+com / africa / 1568416 /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 494--498
+\T1/lmr/m/n/12 uber-[]rival-[]taxify-[]changes-[]name-[]to-[]bolt-[]adds-[]scoo
+ters ? utm _ medium = sharefromsite &
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 500--503
+\T1/lmr/m/n/12 / / pctechmag . com / 2017 / 10 / ride-[]sharing-[]service-[]tax
+ify-[]o^^^cially-[]launches-[]in-[]uganda/$[][],
  []
 
 
@@ -3854,16 +3825,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [63]
-Underfull \hbox (badness 2635) in paragraph at lines 408--412
-\T1/lmr/m/n/12 Avail-able: [][]$IMPACT _ OF _ UBER _ TRANSPORTATIONS _ ON _ THE
- _
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 408--412
-\T1/lmr/m/n/12 INFORMAL _ PUBLIC _ TRANSPORT _ OPERATION _ IN _ UGANDA _ By _
- []
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -3872,56 +3833,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [64]
-Overfull \hbox (71.10674pt too wide) in paragraph at lines 473--478
-\T1/lmr/m/n/12 safecar-[]by-[]safeboda-[]becomes-[]the-[]most-[]preferred-[]car
--[]hailing-[]service-[]for-[]safety-[]and-[]convenience$[][] 
- []
-
-
-Underfull \hbox (badness 2027) in paragraph at lines 494--498
-\T1/lmr/m/n/12 scoot-ers,'' 2019. [On-line]. Avail-able: [][]$https : / / qz . 
-com / africa /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 494--498
-\T1/lmr/m/n/12 1568416 / uber-[]rival-[]taxify-[]changes-[]name-[]to-[]bolt-[]a
-dds-[]scooters ? utm _ medium =
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 500--503
-[]\T1/lmr/m/n/12 P. T. Mag-a-zine, ``Ride-sharing ser-vice tax-ify of-fi-cially
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 500--503
-\T1/lmr/m/n/12 launches in uganda,'' [][]$https : / / pctechmag . com / 2017 / 
-10 /
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[65]
-Underfull \hbox (badness 1173) in paragraph at lines 595--599
-[]\T1/lmr/m/n/12 Swvl Hold-ings Corp, ``Trans-form-ing ur-ban tran-sit: How
- []
-
-
-Underfull \hbox (badness 2828) in paragraph at lines 595--599
-\T1/lmr/m/n/12 swvl tack-les mea's biggest mo-bil-ity chal-lenges,'' Au-
- []
-
-
-Underfull \hbox (badness 2050) in paragraph at lines 595--599
-\T1/lmr/m/n/12 gust 2025. [On-line]. Avail-able: [][]$https : / / www . swvl . 
-com / blog /
+Underfull \hbox (badness 1275) in paragraph at lines 632--636
+[]\T1/lmr/m/n/12 Jugnoo. (2022) How grab works: The on-demand busi-ness
  []
 
 ) (./appendices/appendixA.tex
@@ -3932,7 +3845,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[66]
+[65]
 Underfull \hbox (badness 4013) in paragraph at lines 25--25
 []|\T1/lmr/m/n/12 Research co-or-di-na-tion, data
  []
@@ -3942,7 +3855,7 @@ Underfull \hbox (badness 1371) in paragraph at lines 25--25
 []|\T1/lmr/m/n/12 Contingency and ad-min-is-tra-
  []
 
-[67
+[66
 
 ]) (./appendices/appendixB.tex
 
@@ -3952,7 +3865,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[68
+[67
 
 ]) (./appendices/appendixC.tex
 
@@ -3962,7 +3875,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[69]
+[68]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -3970,7 +3883,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[70])
+[69])
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -3978,7 +3891,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[71] (./main.aux)
+[70] (./main.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
@@ -3987,13 +3900,13 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: A16521EEE68BBD0439CBDE722F435ED3;11307.
  ) 
 Here is how much of TeX's memory you used:
- 21627 strings out of 467525
- 396515 string characters out of 5418983
- 934966 words of memory out of 5000000
- 49803 multiletter control sequences out of 15000+600000
+ 21621 strings out of 467525
+ 396282 string characters out of 5418983
+ 935096 words of memory out of 5000000
+ 49799 multiletter control sequences out of 15000+600000
  678533 words of font info for 74 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 110i,12n,131p,735b,1681s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 110i,12n,117p,735b,1681s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2026/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/lo
 cal/texlive/2026/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive
 /2026/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2026/texmf
@@ -4001,10 +3914,10 @@ cal/texlive/2026/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive
 s/type1/public/lm/lmsy10.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/pu
 blic/lm/lmtt12.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/urw/times/ut
 mb8a.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on main.pdf (82 pages, 4809662 bytes).
+Output written on main.pdf (81 pages, 8297009 bytes).
 PDF statistics:
- 1320 PDF objects out of 1440 (max. 8388607)
- 1174 compressed objects within 12 object streams
- 329 named destinations out of 1000 (max. 500000)
- 699 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1313 PDF objects out of 1440 (max. 8388607)
+ 1169 compressed objects within 12 object streams
+ 328 named destinations out of 1000 (max. 500000)
+ 694 words of extra memory for PDF output out of 10000 (max. 10000000)
 
