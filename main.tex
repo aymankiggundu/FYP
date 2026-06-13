@@ -7,7 +7,7 @@
 \usepackage{textcomp}  % Include this package to use \textcopyright
 \usepackage{graphicx} % For handling images
 \usepackage{cite} % For citations
-\usepackage{xcolor} 
+\usepackage[table]{xcolor} % For colors including table row colors
 \usepackage{amsmath,amssymb,amsfonts} % For math fonts, symbols and environments
 \usepackage{algorithmic} % For algorithms
 \usepackage{changepage} % For local margin adjustments
@@ -15,18 +15,17 @@
 \usepackage{nomencl} % For the nomenclature
 \usepackage{appendix} % For appendices
 \usepackage{tocloft} % For table of contents customization
-\usepackage{tabularx}
-\usepackage[table]{xcolor} % for colors
-\usepackage{longtable}
-\usepackage{tabularx} % for X column type
+\usepackage{tabularx} % For X column type in tables
+\usepackage{longtable} % For tables spanning multiple pages
 \usepackage{tabularray}
-\usepackage{subcaption}
-% \UseTblrLibrary{booktabs,longtable}
-\usepackage{booktabs}
-\usepackage{longtable}
-\usepackage{geometry}
+\usepackage{booktabs} % For professional table rules
+\usepackage{rotating} % Enables sidewaystable environment
+\usepackage{caption}
+\usepackage{subcaption} % For subfigures
+\usepackage{titlesec}
 \usepackage{svg}
 \usepackage{float} % For the H option in figures
+
 \geometry{margin=1in}
 \hypersetup{ % Setup hyperlinks
     colorlinks=true,
@@ -47,14 +46,6 @@
 \fancyhead[LO]{\nouppercase{\rightmark}}
 
 \renewcommand{\bibname}{References}  % For book, report, and thesis classes
-
-\usepackage{titlesec}
-\usepackage{booktabs}
-\usepackage{rotating}  % Enables sidewaystable environment
-
-% For subfigures
-\usepackage{caption}
-\usepackage{subcaption}
 
 % Custom command to add a thin border around screenshots
 \newcommand{\bordergraphics}[2][]{\begingroup\setlength{\fboxsep}{0pt}\setlength{\fboxrule}{0.5pt}\fbox{\includegraphics[#1]{#2}}\endgroup}
@@ -101,5 +92,4 @@
     \input{appendices/appendixB.tex}
     \input{appendices/appendixC.tex}
 \end{appendix}
-\end{itemize}
 \end{document}
