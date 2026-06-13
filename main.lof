@@ -1,0 +1,18 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Gantt Chart showing the intended work plan}}{26}{figure.caption.8}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces High-level system architecture of the TRAXIS platform}}{33}{figure.caption.9}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Use case diagram showing how users interact with the Traxis system}}{35}{figure.caption.10}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Level 0 Context Diagram showing the overall system boundary and external entities}}{36}{figure.caption.11}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Entity-relationship diagram showing database tables and their relationships}}{40}{figure.caption.12}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Level 1 DFD illustrating the system's core processes and data flows.}}{44}{figure.caption.13}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Administrator interfaces}}{48}{figure.caption.15}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Authentication interfaces}}{50}{figure.caption.16}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Operator login and dashboard}}{51}{figure.caption.17}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Operator management interfaces}}{52}{figure.caption.18}%
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Passenger booking interfaces}}{53}{figure.caption.19}%
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Parcel and ticketing interfaces}}{54}{figure.caption.20}%
+\addvspace {10\p@ }
